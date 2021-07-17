@@ -32,3 +32,9 @@ Media used were supplemented with antibiotics/antimycotics, glutamine, non-essen
 SH-SY5Y cells can be manipulated by inducing different programs of terminal neural differentiation
 However, in 81.5% of published studies no differentiation regime was used
 For studies that do report forced differentiation, the most common method is addition of retinoic acid (RA) in concentrations ranging from 5 uM to 100 uM, for a period of time from 24 hours to 21 days, and, sometimes, a reduction of the concentration of serum in the media
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/
+
+https://www.atcc.org/products/crl-2266
+
+Price: $495.00 
