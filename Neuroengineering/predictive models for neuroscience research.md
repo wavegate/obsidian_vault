@@ -28,5 +28,7 @@ adult rat hippocampal neural stem cells
 ## rat
 rat cortical neurons
 [[rat dorsal root ganglion neurons RDRGN]]
-SH-SY5Y cell line, human, neuroblast from neural tissue
-U-87 MG cell line, human, f
+[[SH-SY5Y cell line, human, neuroblast from neural tissue]]
+U-87 MG cell line, human, from human brain (glioblastoma astrocytoma)
+Neuro 2a cell line, mouse
+ND7/23 cell line
