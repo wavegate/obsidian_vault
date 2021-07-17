@@ -21,4 +21,5 @@ Not recommended after passage 20 for very specific characteristics!
 
 https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-017-0149-0
 
-Most-reported source for access to the SH-SY5Y cell line is the American Type Culture Collection (ATCC, CRL-)
+Most-reported source for access to the SH-SY5Y cell line is the American Type Culture Collection (ATCC, CRL-2266, deposited by JL Biedler)
+Other sources involve European Collection of Authenticated Cell Culture s(ECACCC, Catalog number: 94030304, deposited by PFT Vaughan) or the German collection of Microorganisms and Cell Cultures (DSMZ, ACC 209)
