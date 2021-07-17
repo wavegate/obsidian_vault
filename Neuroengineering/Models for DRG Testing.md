@@ -57,10 +57,13 @@ cryopreserved mouse spinal cord neural stem cells from spinal cord of E15-E18 C5
 - Human neural progenitor cell line - can differntiate into neurons & glia.
 
 ### GT1-7 
-- Mouse hypothalamic gnrh neuronal cell line - GnRH-secreting neurons of the hypothalamus
-O9-1 mouse cranial neural crest cell line
-cryopreserved mouse crotical neural stem cells
-cryopreserved mouse spinal cord neural stem cells from spinal cord of E15-E18 C57/BL6 mice
+- Mouse hypothalamic GnRH neuronal cell line.
+
+### O9-1
+- Mouse cranial neural crest cell line.
+
+### Cryopreserved mouse cortical  neural stem cells
+### Cryopreserved mouse spinal cord neural stem cells 
 
 ## Primary Culture
 
@@ -71,4 +74,5 @@ cryopreserved mouse spinal cord neural stem cells from spinal cord of E15-E18 C5
 |                                        | Must separate cell types              |
 |                                        |                                       |
 |                                        |                                       |
-###
+### RDRGN
+- [[rat dorsal root ganglion neurons RDRGN]]
