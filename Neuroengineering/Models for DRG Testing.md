@@ -4,9 +4,10 @@
 
 # Ex Vivo
 ## Explant / Slice Culture
-| Pros                                                       | Cons | 
-| ---------------------------------------------------------- | ---- | --- |
-| Allows for transfer of entire neural network including ECM |      |     |     |
+| Pros                                                       | Cons                                                    |
+| ---------------------------------------------------------- | ------------------------------------------------------- |
+| Allows for transfer of entire neural network including ECM | Cells do not receive the same conditions simultaneously |
+|                                                            |                                                         |
 
 
 # In Vitro
