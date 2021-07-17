@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "predictive models for neuroscience research.md",
-            "mode": "preview"
+            "file": "Models for DRG Testing.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "predictive models for neuroscience research.md",
+                "file": "Models for DRG Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +95,7 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "Models for DRG Testing.md",
     "predictive models for neuroscience research.md",
     "Untitled 3.md",
     "Effect of Electrical Field Stimulation on Dorsal Root Ganglion Neuronal Function.md",
@@ -103,7 +104,6 @@
     "-fiber.md",
     "chemical engineering.md",
     "finite element method.md",
-    "computational model DRG.md",
-    "finite element model.md"
+    "computational model DRG.md"
   ]
 }

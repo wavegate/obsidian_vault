@@ -16,4 +16,6 @@
 | Easy to grow in culture               |                                                                          |
 | Minimal variability between cultures  |                                                                          |                                                                     |
 
+
+
 ## Primary Culture
