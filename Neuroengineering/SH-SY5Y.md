@@ -6,3 +6,4 @@ Two phenotypes - floating and sticking - neuroblast-like and epithelial-like
 N-type (neuronal) (as opposed to S-type SH-EP subcloned cell line)
 ![[Pasted image 20210717182248.png]]
 Over-easy formation where there are mounds of undifferentiated cells which then spread differentiated cells into the surrounding area
+Propagate via mitosis
