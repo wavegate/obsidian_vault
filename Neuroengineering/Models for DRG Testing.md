@@ -17,7 +17,9 @@
 | Minimal variability between cultures  |                                                                          |                                                                     |
 
 ### SH-SY5Y
-Neuroblastoma cell line that can be differentiated into mature neuron-like cells.
-Xiong et al. 2015 
+- Neuroblastoma cell line that can be differentiated into mature neuron-like cells.
+- Xiong et al. 2015 used low frequency, short pulse electrical field stimulation and noticed response using XRhod-1 calcium indicator.
+
+
 
 ## Primary Culture
