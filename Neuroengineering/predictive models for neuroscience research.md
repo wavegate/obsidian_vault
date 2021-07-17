@@ -4,7 +4,13 @@ select cell type of interest > create genetic modification > optimize growth and
 
 [[dorsal root ganglia]][[immortalized cell lines]]
 
-# Immortal
+# Cell lines
+
+## ECACC
+[[SH-SY5Y cell line, human, neuroblast from neural tissue]]
+U-87 MG cell line, human, from human brain (glioblastoma astrocytoma)
+Neuro 2a cell line, mouse
+ND7/23 cell line
 
 use of immortalized cell lines have many advantages including long-term growth and ease to cultivate
 neural stem cells (NSCs) are used as they have added benefit of self-renewal and differentiation along specific pathways to generate specific phenotypes
@@ -24,11 +30,6 @@ adult rat hippocampal neural stem cells
 - ReNcell CX human neural progenitor cell line - can differntiate into neurons & glia
 
 # Primary
-
-## rat
 rat cortical neurons
 [[rat dorsal root ganglion neurons RDRGN]]
-[[SH-SY5Y cell line, human, neuroblast from neural tissue]]
-U-87 MG cell line, human, from human brain (glioblastoma astrocytoma)
-Neuro 2a cell line, mouse
-ND7/23 cell line
+
