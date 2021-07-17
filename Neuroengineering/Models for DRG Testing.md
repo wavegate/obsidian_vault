@@ -9,10 +9,11 @@
 # In Vitro
 
 ## Immortalized Cell Lines
-| Pros                                  | Cons |
-| ------------------------------------- | ---- |
-| Reproduce                             |      |
-| Does not require experimental animals |      |
-| Easy to grow in cultur                                      |      |
+| Pros                                  | Cons                                                                     |
+| ------------------------------------- | ------------------------------------------------------------------------ |
+| Reproduce, unlimited cell numbers     | Can be significantly different from the cell type they were derived from |
+| Does not require experimental animals |  Must confirm results with primary neurons                                                                        |
+| Easy to grow in culture               |                                                                          |
+| Minimal variability between cultures  |                                                                          |                                                                     |
 
 ## Primary Culture
