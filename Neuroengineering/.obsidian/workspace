@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Modelling the dorsal root ganglia using human pluripotent stem cells -  A platform to study peripheral neuropathies.md",
+            "file": "Effect of Electrical Field Stimulation on Dorsal Root Ganglion Neuronal Function.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelling the dorsal root ganglia using human pluripotent stem cells -  A platform to study peripheral neuropathies.md",
+                "file": "Effect of Electrical Field Stimulation on Dorsal Root Ganglion Neuronal Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "Effect of Electrical Field Stimulation on Dorsal Root Ganglion Neuronal Function.md",
+    "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
     "Modelling the dorsal root ganglia using human pluripotent stem cells -  A platform to study peripheral neuropathies.md",
     "predictive models for neuroscience research.md",
     "Models for DRG Testing.md",
     "rat dorsal root ganglion neurons RDRGN.md",
     "Untitled 3.md",
-    "Effect of Electrical Field Stimulation on Dorsal Root Ganglion Neuronal Function.md",
     "Open AccessArticleThree-Dimensional Model of Dorsal Root Ganglion Explant as a Method of Studying Neurotrophic Factors in Regenerative Medicine.md",
     "DRG explant.md",
-    "-fiber.md",
-    "chemical engineering.md"
+    "-fiber.md"
   ]
 }
