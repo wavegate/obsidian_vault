@@ -69,5 +69,18 @@ Klimovich et al. 2020 use Matrigel polymerization and then culture media to cult
 |                                        | Must separate cell types              |
 |                                        |                  Lasts only 5-7 days                     |
 |                                        |                                       |
-### RDRGN
+### Can be purchased
 - [[rat dorsal root ganglion neurons RDRGN]]
+
+### Culture protocol
+- Spin down DRG
+- Remove DMEM carefully using a serological pipette
+- Add Collagenase A/Dispase II Mix, shake for 15 min
+- Spin down and remove Collagenase A/Dispase II
+- Carefully wash pellet with 10 mL DMEM
+- Remove DMEM
+- Resuspend in culture media (supplemented Neurobasal media containing cytokines)
+- Take 1 mL syringe and triturate the DRG solution by aspirating and ejecting the DRGs in solution 7 times up and down for each needle size starting with an 18 gauge needle, followed by a 23 gauge, and 28 gauge needle
+- Remove Laminin droplet from 4 wells using vacuum so there is thin liquid layer left and immediately plate 30 microL of cell suspension on the area that is laminin coated
+- Add 200 microL culture media per well
+- Incubate 18-24 hr at 37 C
