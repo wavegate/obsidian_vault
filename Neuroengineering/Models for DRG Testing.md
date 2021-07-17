@@ -4,8 +4,8 @@
 
 # Ex Vivo
 ## Explant
-| Pros                                                       | Cons |     |     |
-| ---------------------------------------------------------- | ---- | --- | --- |
+| Pros                                                       | Cons | 
+| ---------------------------------------------------------- | ---- | --- |
 | Allows for transfer of entire neural network including ECM |      |     |     |
 
 # In Vitro
@@ -38,6 +38,7 @@
 
 ## Primary Culture
 
-| Pros | Cons |
-| ---- | ---- |
-|      |      |
+| Pros                                   | Cons             |
+| -------------------------------------- | ---------------- |
+| More similar to in vivo neuronal cells | More challenging |
+|                                        | Not immortal                 |
