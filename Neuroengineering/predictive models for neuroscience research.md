@@ -52,3 +52,7 @@ CompoZr ZFN and CRISPR allow researchers to knock-out, knock-in and modify genes
 ## Media and growth factors
 GS21 Supplement (50X) serum-free Neural Media Supplement
 NeuralQ Basal Medium
+
+## Sterile filtration
+Stericup and Steritop filter units - remove undesirable contaminants and sterilize media
+Millex syringe filters
