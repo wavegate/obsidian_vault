@@ -9,7 +9,7 @@
 | Allows for transfer of entire neural network including ECM | Cells do not receive the same conditions simultaneously |
 |                                                            |                                                         |
 
-Klimovich et al
+Klimovich et al. 2020 use Matrigel polymerization and then culture media to culture for 14 days.
 # In Vitro
 
 ## Immortalized Cell Lines
