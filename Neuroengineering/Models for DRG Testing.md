@@ -1,6 +1,6 @@
 [[dorsal root ganglion]][[modeling]][[predictive models for neuroscience research]]
 
-# Cell Lines (Immortal)
+# Immortalized Cell Lines
 
 # Primary Culture
 
