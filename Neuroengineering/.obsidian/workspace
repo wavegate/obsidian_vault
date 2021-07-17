@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "spinal cord stimulation.md",
+            "file": "dorsal root ganglion stimulation.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spinal cord stimulation.md",
+                "file": "dorsal root ganglion stimulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +95,8 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
-    "spinal cord stimulation.md",
     "dorsal root ganglion stimulation.md",
+    "spinal cord stimulation.md",
     "chronic pain.md",
     "Untitled 3.md",
     "predictive models for neuroscience research.md",
