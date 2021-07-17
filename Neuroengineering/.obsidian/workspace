@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "picking the correct cell line.md",
+            "file": "predictive models for neuroscience research.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picking the correct cell line.md",
+                "file": "predictive models for neuroscience research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +95,8 @@
   },
   "active": "ba468ab9d0178e3b",
   "lastOpenFiles": [
-    "Untitled 3.md",
     "predictive models for neuroscience research.md",
+    "Untitled 3.md",
     "immortalized cell lines.md",
     "Hybridoma.md",
     "monoclonal antibodies.md",
