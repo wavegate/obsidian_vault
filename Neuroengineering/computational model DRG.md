@@ -33,3 +33,7 @@ showed that at stimulation amplitudes within typical clinical ranges, electrical
 suggest that DRGS may provide pain relief by activating pain-gating mechanisms within the dorsal horn
 suggest that straddling the active and return electrodes over the ganglion may be the optimal electrode configuration for activating neural tissue
 
+
+# Methods
+
+We constructed a three-dimensional finite element model based on experimentally measured values to create an anatomically- and electrically-accurate volume conductor model of human L5 D
