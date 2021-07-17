@@ -18,4 +18,4 @@ no clinical evidence directly supporting any one hypothesis
 C-type fibers exhibit a low-pass filtering effect at the T-junction that prevents some peripherally-generated noxious afferent signals from reaching the central axon branch leading to the spinal cord
 suggest that extracellular electrical stimulation can enhance this filtering effect
 clinical DRGS may provide pain relief by augmenting this mechanism
-however, stimulation amplitudes required to produce filtering (approximately 9.5 mA) were far outside clinical ranges (typically <1 mA), suggesting that DRGS provides pain relief through other mechanisms in c
+however, stimulation amplitudes required to produce filtering (approximately 9.5 mA) were far outside clinical ranges (typically <1 mA), suggesting that DRGS provides pain relief through other mechanisms in clinical contexts
