@@ -1,1 +1,1 @@
-method for producing large numbers of identical antibodies
+method for producing large numbers of identical antibodies ([[monoclonal antibodies]])

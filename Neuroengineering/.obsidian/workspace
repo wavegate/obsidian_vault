@@ -7,8 +7,11 @@
         "id": "ba468ab9d0178e3b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Hybridoma.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hybridoma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +97,7 @@
   "active": "ba468ab9d0178e3b",
   "lastOpenFiles": [
     "Hybridoma.md",
+    "monoclonal antibodies.md",
     "immortalized cell lines.md",
     "Untitled 3.md",
     "chemical engineering.md",
@@ -100,7 +105,6 @@
     "anatomy.md",
     "bipolar depression.md",
     "depression.md",
-    "Untitled 2.md",
-    "Untitled 1.md"
+    "Untitled 2.md"
   ]
 }

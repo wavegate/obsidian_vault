@@ -1,0 +1,1 @@
+antibody made by cloning a unique white blood cell
