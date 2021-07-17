@@ -24,7 +24,11 @@
 - Neuron-like, derived from neuroendocrine adrenal tumor; can differentiate into neuron-like cell in the presence of nerve growth factor.
 
 ### F11 
-- Sensory neurons isolate
+- Sensory neurons isolated from rat DRG at embryonic days 13-14 fused with mouse neuroblastoma cell line.
+
+U-87 MG cell line, human, from human brain (glioblastoma astrocytoma)
+Neuro 2a cell line, mouse
+ND7/23 cell line
 
 ![[Pasted image 20210717162405.png]]
 
