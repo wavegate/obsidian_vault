@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "predictive models for neuroscience research.md",
+            "file": "AXIS axon isolation system.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "predictive models for neuroscience research.md",
+                "file": "AXIS axon isolation system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +95,7 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "AXIS axon isolation system.md",
     "predictive models for neuroscience research.md",
     "obsidian hotkeys.md",
     "CRISPR.md",
@@ -103,7 +104,6 @@
     "CRISP.md",
     "Cas9.md",
     "SH-SY5Y cell line, human, neuroblast from neural tissue.md",
-    "Pasted image 20210717140218.png",
-    "rat dorsal root ganglion neurons RDRGN.md"
+    "Pasted image 20210717140218.png"
   ]
 }

@@ -1,0 +1,2 @@
+slidemounted microfluidic two-chamber system enables deposition and culture of neural cells and spatially controlled addition of growth factors, toxins, and other reagents
+neurite outgrowth is restrcted to narrow, parallel channels, and the resultant outgrowth or collapse 
