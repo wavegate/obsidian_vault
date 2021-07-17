@@ -42,4 +42,13 @@ CompoZr ZFN and CRISPR allow researchers to knock-out, knock-in and modify genes
 [[CRISPR]]
 
 # Optimize growth and consistency
+
+## Neurite outgrowth
 [[AXIS axon isolation system]]
+
+## Growth environment
+3D cell culture
+
+## Media and growth factors
+GS21 Supplement (50X) serum-free Neural Media Supplement
+NeuralQ Basal Medium
