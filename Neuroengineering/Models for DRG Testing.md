@@ -23,5 +23,7 @@
 ### PC12
 - Neuron-like, derived from neuroendocrine adrenal tumor; can differentiate into neuron-like cell in the presence of nerve growth factor.
 
+![[Pasted image 20210717162405.png]]
+
 
 ## Primary Culture
