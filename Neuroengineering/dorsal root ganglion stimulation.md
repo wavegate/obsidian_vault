@@ -19,4 +19,5 @@ C-type fibers exhibit a low-pass filtering effect at the T-junction that prevent
 suggest that extracellular electrical stimulation can enhance this filtering effect
 clinical DRGS may provide pain relief by augmenting this mechanism
 however, stimulation amplitudes required to produce filtering (approximately 9.5 mA) were far outside clinical ranges (typically <1 mA), suggesting that DRGS provides pain relief through other mechanisms in clinical contexts
-well understood that extracellular stimulation preferentially activates large-diameter myelinated axons over small nonmyelinated axons
+well understood that extracellular stimulation preferentially activates large-diameter myelinated axons over small nonmyelinated axons, suggests that Abeta fibers and not C-fibers may be directly stimulated by DRGS
+developed a computer

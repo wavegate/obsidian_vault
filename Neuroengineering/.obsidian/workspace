@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dorsal root ganglion stimulation.md",
+            "file": "computational model DRG.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dorsal root ganglion stimulation.md",
+                "file": "computational model DRG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +95,8 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "computational model DRG.md",
+    "chronic pain.md",
     "dorsal root ganglion stimulation.md",
     "dorsal root ganglion.md",
     "primary sensory neurons.md",
@@ -102,8 +104,6 @@
     "Abeta-fiber.md",
     "-fiber.md",
     "Untitled 3.md",
-    "dorsal root ganglia.md",
-    "chronic pain.md",
-    "spinal cord stimulation.md"
+    "dorsal root ganglia.md"
   ]
 }
