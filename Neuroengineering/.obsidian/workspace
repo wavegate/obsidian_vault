@@ -7,8 +7,11 @@
         "id": "933362b13e7633ba",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "primary sensory neurons.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "primary sensory neurons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,15 +95,15 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "Untitled 3.md",
+    "dorsal root ganglion.md",
     "dorsal root ganglia.md",
     "dorsal root ganglion stimulation.md",
     "chronic pain.md",
     "spinal cord stimulation.md",
-    "Untitled 3.md",
     "predictive models for neuroscience research.md",
     "AXIS axon isolation system.md",
     "obsidian hotkeys.md",
-    "CRISPR.md",
-    "zinc finger nuclease.md"
+    "CRISPR.md"
   ]
 }
