@@ -1,0 +1,1 @@
+data with no inherent order or ranking such as gender

@@ -1,0 +1,8 @@
+1. open link in edit mode (ctrl-click on link)
+2. toggle edit/preview (ctrl-e)
+3. open quick switcher (ctrl-o)
+4. search (ctrl-shift-f)
+5. back (ctrl-alt-left)
+6. forward (ctrl-alt-right)
+7. new note (ctrl-n)
+8. open note in new window (ctrl-click on note)

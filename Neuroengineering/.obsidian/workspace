@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "16728a194efa66fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb573f989568e732",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "obsidian hotkeys.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a312c341c4aa4d90",
+    "type": "split",
+    "children": [
+      {
+        "id": "b584ffeb5630844e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4367ee8ba404a10b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e6cb50ceea7d2a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hotkey",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cceefa140642bb7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "631a4937778670d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfeb7373b168bf72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian hotkeys.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb573f989568e732",
+  "lastOpenFiles": [
+    "obsidian hotkeys.md",
+    "brain_machine_interface.md",
+    "Untitled.md",
+    "nominal.md",
+    "data.md",
+    "qualitative.md",
+    "ordinal.md",
+    "quantitative.md",
+    "continuous.md",
+    "discrete.md"
+  ]
+}
