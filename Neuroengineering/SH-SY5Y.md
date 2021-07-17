@@ -39,8 +39,8 @@ https://www.atcc.org/products/crl-2266
 
 Price: $495.00 
 
-Dulbecco's Minimum Essential Medium (DMEM) is a modification of Basal Medium Eagle (BME) that contains four fold concentration of aminoi acids and vitamins. 
--Wisely used basal medium for supporting the growth of many different mammalian cells.
+DMEM (Dulbecco’s Modified Eagle Medium) is the most broadly suitable medium for many adherent cell phenotypes among defined media for cell and tissue culture. The Dulbecco’s modification is an enhanced supplementary formulation that boosts select amino acid and vitamin content of the original Eagle’s medium by up to fourfold. Our selection includes a range of glucose concentrations, as well as formulations with and without L-glutamine. Products without the pH indicator phenol red are available for estrogen-sensitive applications, and our comprehensive offering includes convenient, ready-to-use liquid formats, as well as economical powdered media for easier storage and longer shelf life.
+
 F12 Medium
 Fetal Bovine Serum (FBS), 10% final concentration
 - FetalPlex™ is an engineered complex of animal sera, supplemented with a defined blend of vitamins, amino acids, triglycerides and trace elements. This proprietary formulation yields a serum that will, for many routine applications, replace fetal bovine serum at a much lower cost. Biochemical characteristics are comparable to fetal bovine serum, except for an increase in the total protein content. Also, cholesterol levels are slightly higher than in fetal bovine sera. FetalPlex™ is not intended to replace fetal bovine serum where low total-protein concentrations are critical, or where the trouble-free biochemistry of FBS is the only choice for fastidious cell lines or specialized applications. FetalPlex™ has proven useful and cost-effective for the growth and maintenance of a broad range of cell types.
@@ -53,3 +53,54 @@ All-trans-retinoic acid (ATRA)
 DMSO
 1 x Phosphate-buffered saline (PBS)
 Sterile disposable filter apparatus, with 0.22 um pore size
+
+### 3.1 Initial Culture Conditions
+
+1.  Prepare growth medium: DMEM/F12 (1:1, v:v) medium, (10 % FBS and 1 % pen/strep) and filter through a 0.22 µm pore filter apparatus.
+    
+2.  Obtain cells from the ATCC (ATCC® CRL-2266) and thaw quickly at 37 °C.
+    
+3.  Gently remove cell suspension from tube and add to a T-75 tissue culture flask containing warm (37 °C) growth medium (_see_ [Note 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/#FN1)).
+    
+4.  Culture cells at 37 °C, 5 % CO2. Growth medium should be refreshed every 4–7 days (_see_ [Note 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/#FN2)). Monitor cells for confluence. When cells reach 80–90 % confluence, subculture as described below.
+    
+
+### 3.2 Sub-culture Conditions
+
+1.  Aspirate medium under sterile conditions. If a number of floating cells are present, medium can be collected and centrifuged so non-adherent cells can be recovered and re-plated.
+    
+2.  Rinse adherent cells once with sterile 1× PBS pre-warmed to 37 °C or room temperature (_see_ [Note 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/#FN3)). To prevent detaching cells, add the PBS to the inside surface of the culture flask that does not have cells attached. Do not add PBS directly onto cell monolayer. Gently tip the flask so that the PBS washes over the cell monolayer. Aspirate PBS.
+    
+3.  Add trypsin to adherent cells for approximately 2 min or until cells visibly detach from culture flask (_see_ [Note 4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/#FN4)).
+    
+4.  Neutralize trypsin by adding an equal volume of DMEM/F12 medium containing 10 % FBS.
+    
+5.  Collect detached cell suspension and centrifuge at 1,500 rpm for 5 min at room temperature to concentrate cell pellet.
+    
+6.  Aspirate supernatant carefully without disturbing the cell pellet.
+    
+7.  Gently suspend pellet in DMEM/F12 medium containing 10 % FBS.
+    
+8.  To separate cells from clumps, pipette up and down gently until the suspension appears homogenous (_see_ [Note 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/#FN1)).
+    
+9.  Count cells using a hemocytometer and plate at approximately 3 × 103 to 1 × 105 cells/cm2 (_see_ [Note 5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/#FN5)).
+    
+
+### 3.3 Differentiation
+
+1.  24–48 h after plating, replace serum-containing medium with Neurobasal medium (containing B27 supplement and GlutaMAX) and 10 µM all-_trans_-retinoic acid (ATRA) to promote differentiation and neuronal phenotype.
+    
+2.  Allow cells to grow in ATRA-containing neurobasal medium for a minimum of 3–5 days, refreshing the medium every 48 h.
+    
+3.  Differentiation can be monitored microscopically via morphological assessment of neurite outgrowth (compare [Figs. 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/figure/F1/) and [​and22](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/figure/F2/)).
+    
+
+### 3.4 Freezing Down
+
+1.  To freeze down _SH-SY5Y_ cells, begin with undifferentiated cultures.
+    
+2.  Harvest 80–90 % confluent monolayer from a T75 flask and pellet cells as described above (_see_ [Note 6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/#FN6)).
+    
+3.  Suspend the cell pellet gently in 1 ml of 90 % FBS, 10 % DMSO in a sterile 1.5 ml screw cap vial appropriate for storage in the vapor phase of liquid nitrogen.
+    
+4.  Store cells at −80 °C for approximately 24 h in an insulated cryobox and then transfer tubes to liquid nitrogen for long-term storage.
