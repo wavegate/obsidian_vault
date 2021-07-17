@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hybridoma.md",
+            "file": "predictive models for neuroscience research.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hybridoma.md",
+                "file": "predictive models for neuroscience research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,10 +96,10 @@
   },
   "active": "ba468ab9d0178e3b",
   "lastOpenFiles": [
+    "Untitled 3.md",
     "Hybridoma.md",
     "monoclonal antibodies.md",
     "immortalized cell lines.md",
-    "Untitled 3.md",
     "chemical engineering.md",
     "Excalidraw/Drawing 2021-07-17 12.59.49.excalidraw.md",
     "anatomy.md",
