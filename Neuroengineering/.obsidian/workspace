@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "predictive models for neuroscience research.md",
+            "file": "Cas9.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "predictive models for neuroscience research.md",
+                "file": "Cas9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +95,8 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "Cas9.md",
+    "CRISP.md",
     "predictive models for neuroscience research.md",
     "obsidian hotkeys.md",
     "SH-SY5Y cell line, human, neuroblast from neural tissue.md",
@@ -102,8 +104,6 @@
     "rat dorsal root ganglion neurons RDRGN.md",
     "Untitled 3.md",
     "immortalized cell lines.md",
-    "Hybridoma.md",
-    "monoclonal antibodies.md",
-    "chemical engineering.md"
+    "Hybridoma.md"
   ]
 }
