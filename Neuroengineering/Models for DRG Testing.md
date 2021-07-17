@@ -10,6 +10,8 @@
 |                                                            |                                                         |
 
 Klimovich et al. 2020 use Matrigel polymerization and then culture media to culture for 14 days.
+
+### Explant protocol
 # In Vitro
 
 ## Immortalized Cell Lines
@@ -35,6 +37,8 @@ Klimovich et al. 2020 use Matrigel polymerization and then culture media to cult
 
 ![[Pasted image 20210717162405.png]]
 
+### Cell line protocol
+
 ## Stem Cells
 | Pros | Cons |
 | ---- | ---- |
@@ -59,6 +63,8 @@ Klimovich et al. 2020 use Matrigel polymerization and then culture media to cult
 
 ### Cryopreserved mouse cortical  neural stem cells
 ### Cryopreserved mouse spinal cord neural stem cells 
+
+### Stem cell protocol
 
 ## Primary Culture
 
