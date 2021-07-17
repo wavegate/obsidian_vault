@@ -16,7 +16,7 @@
 | Pros                                  | Cons                                                                     |
 | ------------------------------------- | ------------------------------------------------------------------------ |
 | Reproduce, unlimited cell numbers     | Can be significantly different from the cell type they were derived from |
-| Does not require experimental animals |  Must confirm results with primary neurons                                                                        |
+| Does not require experimental animals |  Must confirm results with primary neurons                               |
 | Easy to grow in culture               |                                                                          |
 | Minimal variability between cultures  |                                                                          |                                                                     |
 
@@ -67,7 +67,7 @@
 | More similar to in vivo neuronal cells | More challenging                      |
 |                                        | Not immortal and limited cell numbers |
 |                                        | Must separate cell types              |
-|                                        |                                       |
+|                                        |                  Lasts only 5-7 days                     |
 |                                        |                                       |
 ### RDRGN
 - [[rat dorsal root ganglion neurons RDRGN]]
