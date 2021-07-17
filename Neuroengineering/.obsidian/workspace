@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Models for DRG Testing.md",
-            "mode": "preview"
+            "file": "SH-SY5Y.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models for DRG Testing.md",
+                "file": "SH-SY5Y.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +95,7 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "SH-SY5Y.md",
     "Models for DRG Testing.md",
     "rat dorsal root ganglion neurons RDRGN.md",
     "predictive models for neuroscience research.md",
@@ -103,7 +104,6 @@
     "Effect of Electrical Field Stimulation on Dorsal Root Ganglion Neuronal Function.md",
     "Open AccessArticleThree-Dimensional Model of Dorsal Root Ganglion Explant as a Method of Studying Neurotrophic Factors in Regenerative Medicine.md",
     "chemical engineering.md",
-    "Untitled 3.md",
-    "DRG explant.md"
+    "Untitled 3.md"
   ]
 }
