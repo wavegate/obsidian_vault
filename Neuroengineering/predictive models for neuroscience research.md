@@ -39,4 +39,4 @@ rat cortical neurons
 
 CompoZr ZFN and CRISPR allow researchers to knock-out, knock-in and modify genes to create their ideal cell model
 
-[[CRISP]]
+[[CRISPR]]
