@@ -7,3 +7,6 @@ N-type (neuronal) (as opposed to S-type SH-EP subcloned cell line)
 ![[Pasted image 20210717182248.png]]
 Over-easy formation where there are mounds of undifferentiated cells which then spread differentiated cells into the surrounding area
 Propagate via mitosis
+Retinoic acid, BDNF, or TPA force cells to dendrify and differentiate from their clumped up nature
+Retinoic acid results in inhibition of cell growth
+
