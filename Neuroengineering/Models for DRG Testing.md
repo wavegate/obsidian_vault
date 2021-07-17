@@ -20,6 +20,8 @@
 - Neuroblastoma cell line that can be differentiated into mature neuron-like cells.
 - Xiong et al. 2015 used low frequency, short pulse electrical field stimulation and noticed response using XRhod-1 calcium indicator.
 
+### PC12
+- Neuron-like, derived from neuroendocrine adrenal tumor; can differentiate into neuron-like cell in the presence of nerve growth factor.
 
 
 ## Primary Culture
