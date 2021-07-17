@@ -4,7 +4,9 @@
 
 # Ex Vivo
 ## Explant
-
+| Pros                                                       | Cons |     |     |
+| ---------------------------------------------------------- | ---- | --- | --- |
+| Allows for transfer of entire neural network including ECM |      |     |     |
 
 # In Vitro
 
