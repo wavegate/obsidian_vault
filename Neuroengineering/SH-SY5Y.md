@@ -15,4 +15,5 @@ Most common growign cocktail is 1:1 mixture of DMEM and Ham's F12 medium and 10%
 DMEM usually contains 3.7 g/L sodium bicarbonate, 2 mM L-Glutamine, 1 mM sodium pyruvate and 0.1 mM nonessential amino acids
 Cells are always grown at 37 &deg;C and 5% CO2
 Cultivate cells in flasks which are coated for cell culture adhesion
-Not recommended after passage 20 for very specific characteristics
+Not recommended after passage 20 for very specific characteristics!
+[[2643.full.pdf]]
