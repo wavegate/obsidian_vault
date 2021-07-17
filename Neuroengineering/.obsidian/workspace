@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cb573f989568e732",
+        "id": "ba468ab9d0178e3b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian hotkeys.md",
+            "file": "Hybridoma.md",
             "mode": "source"
           }
         }
@@ -47,6 +47,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "5a46dcc1cbc6ff30",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian hotkeys.md",
+                "file": "Hybridoma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb573f989568e732",
+  "active": "ba468ab9d0178e3b",
   "lastOpenFiles": [
-    "obsidian hotkeys.md",
-    "brain_machine_interface.md",
-    "Untitled.md",
-    "nominal.md",
-    "data.md",
-    "qualitative.md",
-    "ordinal.md",
-    "quantitative.md",
-    "continuous.md",
-    "discrete.md"
+    "Hybridoma.md",
+    "immortalized cell lines.md",
+    "Untitled 3.md",
+    "chemical engineering.md",
+    "Excalidraw/Drawing 2021-07-17 12.59.49.excalidraw.md",
+    "anatomy.md",
+    "bipolar depression.md",
+    "depression.md",
+    "Untitled 2.md",
+    "Untitled 1.md"
   ]
 }

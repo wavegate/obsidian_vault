@@ -1,0 +1,29 @@
+https://neuroengineering.bme.jhu.edu/?page_id=126
+
+-   ralph etienne-cummings
+- matthew fifer
+- gene fridman
+- amir manbachi
+- jin kang
+- nitish thakor
+- brock wester
+- michael miller
+- arvind pathak
+- jerry prince
+- tilak ratnanather
+- peter van zijl
+- ernst niebur
+- sridevi sarma
+- joshua vogelstein
+- kechen zhang
+- amy bastian
+- vikram chib
+- kathleen cullen
+- leyla isik
+- reza shadmehr
+- xiaoqin wang
+- william anderson
+- nathan crone
+- charley della santina
+- romer geocadin
+- nick theodore
