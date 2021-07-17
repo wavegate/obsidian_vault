@@ -7,8 +7,11 @@
         "id": "933362b13e7633ba",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SH-SY5Y.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SH-SY5Y.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,13 +95,13 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
-    "Models for DRG Testing.md",
     "SH-SY5Y.md",
+    "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
     "2643.full.pdf",
+    "Models for DRG Testing.md",
     "rat dorsal root ganglion neurons RDRGN.md",
     "predictive models for neuroscience research.md",
     "Modelling the dorsal root ganglia using human pluripotent stem cells -  A platform to study peripheral neuropathies.md",
-    "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
     "Effect of Electrical Field Stimulation on Dorsal Root Ganglion Neuronal Function.md",
     "Open AccessArticleThree-Dimensional Model of Dorsal Root Ganglion Explant as a Method of Studying Neurotrophic Factors in Regenerative Medicine.md",
     "chemical engineering.md"
