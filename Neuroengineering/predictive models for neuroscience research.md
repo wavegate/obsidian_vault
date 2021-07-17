@@ -1,3 +1,5 @@
+https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/research-and-disease-areas/neuroscience-research/predictive-models-for-neuroscience-research
+
 select cell type of interest > create genetic modification > optimize growth and consistency
 
 [[dorsal root ganglia]][[immortalized cell lines]]
@@ -18,11 +20,13 @@ N27 Rat dopaminergic neural crest line
 adult rat hippocampal neural stem cells
 
 ## human
-blood-brain barrier hcMEC/D3 cell line - brain endothelial phenotype, model of human BBB
-ReNcell CX human neural progenitor cell line - can differntiate into neurons & glia
+- blood-brain barrier hcMEC/D3 cell line - brain endothelial phenotype, model of human BBB
+- ReNcell CX human neural progenitor cell line - can differntiate into neurons & glia
 
 # Primary
 
 ## rat
 rat cortical neurons
 [[rat dorsal root ganglion neurons RDRGN]]
+SH-SY5Y cell line, human, neuroblast from neural tissue
+U-87 MG cell line, human, f
