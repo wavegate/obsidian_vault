@@ -30,3 +30,6 @@ developed a computer model of clinical DRGS
 volume conductor model of human L5 DRG, common stimulation target to manage chronic foot pain
 coupled this anatomical model to multi-compartment models of Abeta- and C fibers
 showed that at stimulation amplitudes within typical clinical ranges, electrical stimulation is driving the activity of Abeta-fibers but not activating C-fibers
+suggest that DRGS may provide pain relief by activating pain-gating mechanisms within the dorsal horn
+suggest that straddling the active and return electrodes over the ganglion may be the optimal electrode configuration for activating neural tissue
+
