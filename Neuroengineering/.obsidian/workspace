@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Models for DRG Testing.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -102,8 +102,8 @@
     "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
     "Effect of Electrical Field Stimulation on Dorsal Root Ganglion Neuronal Function.md",
     "Open AccessArticleThree-Dimensional Model of Dorsal Root Ganglion Explant as a Method of Studying Neurotrophic Factors in Regenerative Medicine.md",
+    "chemical engineering.md",
     "Untitled 3.md",
-    "DRG explant.md",
-    "-fiber.md"
+    "DRG explant.md"
   ]
 }
