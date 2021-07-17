@@ -40,8 +40,10 @@ https://www.atcc.org/products/crl-2266
 Price: $495.00 
 
 Dulbecco's Minimum Essential Medium (DMEM)
+-
 F12 Medium
 Fetal Bovine Serum (FBS), 10% final concentration
+- FetalPlex is a replacement for FBS for a much lower cost
 Penicillin/Streptomycin (Pen/Strep), 1% final concentration (100 IU/ml, 100 microg/ml, respectively)
 Trypsin/EDTA
 Neurobasal medium (NB)
