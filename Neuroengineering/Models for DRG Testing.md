@@ -16,6 +16,8 @@
 | Easy to grow in culture               |                                                                          |
 | Minimal variability between cultures  |                                                                          |                                                                     |
 
-
+### SH-SY5Y
+Neuroblastoma cell line that can be differentiated into mature neuron-like cells.
+Xiong et al. 2015 
 
 ## Primary Culture
