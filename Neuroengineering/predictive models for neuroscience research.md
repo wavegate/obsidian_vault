@@ -33,3 +33,8 @@ adult rat hippocampal neural stem cells
 rat cortical neurons
 [[rat dorsal root ganglion neurons RDRGN]]
 
+# Genetic modification
+
+![[Pasted image 20210717140434.png]]
+
+CompoZr ZFN and CRISPR allow researchers to knock-out, knock-in and modify genes to 
