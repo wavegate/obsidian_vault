@@ -50,4 +50,4 @@ GlutaMAX
 All-trans-retinoic acid (ATRA)
 DMSO
 1 x Phosphate-buffered saline (PBS)
-Sterile disposable filter apparatus, with 0.22
+Sterile disposable filter apparatus, with 0.22 um pore size
