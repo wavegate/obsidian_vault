@@ -9,7 +9,7 @@
 | Allows for transfer of entire neural network including ECM | Cells do not receive the same conditions simultaneously |
 |                                                            |                                                         |
 
-
+Klimovich et al
 # In Vitro
 
 ## Immortalized Cell Lines
