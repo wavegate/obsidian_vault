@@ -1,10 +1,11 @@
 [[dorsal root ganglion]][[modeling]][[predictive models for neuroscience research]]
 
-# Human
+# In Vivo
 
-# 
+# Ex Vivo
+## Explant
 
-# Explant
+# In Vitro
 
 # Immortalized Cell Lines
 
