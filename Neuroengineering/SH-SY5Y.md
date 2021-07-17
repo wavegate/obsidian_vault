@@ -38,3 +38,16 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/
 https://www.atcc.org/products/crl-2266
 
 Price: $495.00 
+
+Dulbecco's Minimum Essential Medium (DMEM)
+F12 Medium
+Fetal Bovine Serum (FBS), 10% final concentration
+Penicillin/Streptomycin (Pen/Strep), 1% final concentration (100 IU/ml, 100 microg/ml, respectively)
+Trypsin/EDTA
+Neurobasal medium (NB)
+B27 supplement
+GlutaMAX
+All-trans-retinoic acid (ATRA)
+DMSO
+1 x Phosphate-buffered saline (PBS)
+Sterile disposable filter apparatus, with 0.22
