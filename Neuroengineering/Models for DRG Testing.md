@@ -16,22 +16,26 @@
 | Easy to grow in culture               |                                                                          |
 | Minimal variability between cultures  |                                                                          |                                                                     |
 
-### Human SH-SY5Y
-- Neuroblastoma cell line that can be differentiated into mature neuron-like cells.
+### SH-SY5Y
+- Human euroblastoma cell line that can be differentiated into mature neuron-like cells.
 - Xiong et al. 2015 used low frequency, short pulse electrical field stimulation and noticed response using XRhod-1 calcium indicator.
 
-### Human NT2 (NTera)
-- Human neuronally committed teratocarcinoma cell line that is able to be induced into neuronal cultures with retinoic acid and inhibitors of mitos
+### NT2 (NTera)
+- Human neuronally committed teratocarcinoma cell line that is able to be induced into neuronal cultures with retinoic acid and inhibitors of mitosis.
 
-### Rat PC12
-- Neuron-like, derived from neuroendocrine adrenal tumor; can differentiate into neuron-like cell in the presence of nerve growth factor.
+### PC12
+- Neuron-like, derived from rat neuroendocrine adrenal tumor; can differentiate into neuron-like cell in the presence of nerve growth factor.
 
-### Rat N27
+### N27
 
-### Rat F11 
+### F11 
 - Sensory neurons isolated from rat DRG at embryonic days 13-14 fused with mouse neuroblastoma cell line.
 
 ![[Pasted image 20210717162405.png]]
 
 
 ## Primary Culture
+
+| Pros | Cons |
+| ---- | ---- |
+|      |      |
