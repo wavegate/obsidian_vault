@@ -7,8 +7,11 @@
         "id": "933362b13e7633ba",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "settingsOpen AccessArticleThree-Dimensional Model of Dorsal Root Ganglion Explant as a Method of Studying Neurotrophic Factors in Regenerative Medicine.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "settingsOpen AccessArticleThree-Dimensional Model of Dorsal Root Ganglion Explant as a Method of Studying Neurotrophic Factors in Regenerative Medicine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +95,7 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "Untitled 3.md",
     "-fiber.md",
     "chemical engineering.md",
     "finite element method.md",
@@ -99,7 +104,6 @@
     "chronic pain.md",
     "dorsal root ganglion stimulation.md",
     "dorsal root ganglion.md",
-    "primary sensory neurons.md",
-    "C-fiber.md"
+    "primary sensory neurons.md"
   ]
 }
