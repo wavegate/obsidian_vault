@@ -27,4 +27,6 @@ well understood that extracellular stimulation preferentially activates large-di
 
 
 developed a computer model of clinical DRGS
-volume conductor model of human L5 DRG, co
+volume conductor model of human L5 DRG, common stimulation target to manage chronic foot pain
+coupled this anatomical model to multi-compartment models of Abeta- and C fibers
+showed that at stimulation amplitudes within typical clinical ranges, electrical stimulation is driving the activity of Abeta-fibers but not activating C-fibers
