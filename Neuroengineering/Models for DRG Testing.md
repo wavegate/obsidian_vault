@@ -28,8 +28,6 @@
 ### PC12
 - Neuron-like, derived from rat neuroendocrine adrenal tumor; can differentiate into neuron-like cell in the presence of nerve growth factor.
 
-### N27
-
 ### F11 
 - Sensory neurons isolated from rat DRG at embryonic days 13-14 fused with mouse neuroblastoma cell line.
 
