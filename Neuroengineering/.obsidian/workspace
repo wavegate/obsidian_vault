@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Modelling the dorsal root ganglia using human pluripotent stem cells -  A platform to study peripheral neuropathies.md",
+            "file": "predictive models for neuroscience research.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelling the dorsal root ganglia using human pluripotent stem cells -  A platform to study peripheral neuropathies.md",
+                "file": "predictive models for neuroscience research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +95,7 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "predictive models for neuroscience research.md",
     "Untitled 3.md",
     "Effect of Electrical Field Stimulation on Dorsal Root Ganglion Neuronal Function.md",
     "Open AccessArticleThree-Dimensional Model of Dorsal Root Ganglion Explant as a Method of Studying Neurotrophic Factors in Regenerative Medicine.md",
@@ -103,7 +104,6 @@
     "chemical engineering.md",
     "finite element method.md",
     "computational model DRG.md",
-    "finite element model.md",
-    "chronic pain.md"
+    "finite element model.md"
   ]
 }
