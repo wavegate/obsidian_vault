@@ -1,7 +1,7 @@
 https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/research-and-disease-areas/neuroscience-research/predictive-models-for-neuroscience-research
 
 select cell type of interest > create genetic modification > optimize growth and consistency
-
+[[modeling]]
 [[dorsal root ganglia]][[immortalized cell lines]]
 
 # Cell lines
