@@ -39,7 +39,7 @@ https://www.atcc.org/products/crl-2266
 
 Price: $495.00 
 
-Dulbecco's Minimum Essential Medium (DMEM)
+Dulbecco's Minimum Essential Medium (DMEM) is a modification of Basal Medium Eagle (BME)
 -Wisely used basal medium for supporting the growth of many different mammalian cells.
 F12 Medium
 Fetal Bovine Serum (FBS), 10% final concentration
