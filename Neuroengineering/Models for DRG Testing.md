@@ -42,4 +42,7 @@
 | -------------------------------------- | ------------------------------------- |
 | More similar to in vivo neuronal cells | More challenging                      |
 |                                        | Not immortal and limited cell numbers |
-|                                        | Must separate cell types                                      |
+|                                        | Must separate cell types              |
+|                                        |                                       |
+|                                        |                                       |
+###
