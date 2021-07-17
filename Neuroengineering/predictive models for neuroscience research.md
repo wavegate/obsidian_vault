@@ -24,4 +24,5 @@ ReNcell CX human neural progenitor cell line - can differntiate into neurons & g
 # Primary
 
 ## rat
-
+rat cortical neurons
+[[rat dorsal root ganglion neurons RDRGN]]
