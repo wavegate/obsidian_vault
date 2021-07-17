@@ -40,10 +40,10 @@ https://www.atcc.org/products/crl-2266
 Price: $495.00 
 
 Dulbecco's Minimum Essential Medium (DMEM)
--
+-Wisely used basal medium for supporting the growth of many different mammalian cells.
 F12 Medium
 Fetal Bovine Serum (FBS), 10% final concentration
-- FetalPlex is a replacement for FBS for a much lower cost
+- FetalPlex™ is an engineered complex of animal sera, supplemented with a defined blend of vitamins, amino acids, triglycerides and trace elements. This proprietary formulation yields a serum that will, for many routine applications, replace fetal bovine serum at a much lower cost. Biochemical characteristics are comparable to fetal bovine serum, except for an increase in the total protein content. Also, cholesterol levels are slightly higher than in fetal bovine sera. FetalPlex™ is not intended to replace fetal bovine serum where low total-protein concentrations are critical, or where the trouble-free biochemistry of FBS is the only choice for fastidious cell lines or specialized applications. FetalPlex™ has proven useful and cost-effective for the growth and maintenance of a broad range of cell types.
 Penicillin/Streptomycin (Pen/Strep), 1% final concentration (100 IU/ml, 100 microg/ml, respectively)
 Trypsin/EDTA
 Neurobasal medium (NB)
