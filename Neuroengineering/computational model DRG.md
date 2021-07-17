@@ -36,6 +36,6 @@ suggest that straddling the active and return electrodes over the ganglion may b
 
 # Methods
 
-We constructed a three-dimensional finite element model based on experimentally measured values to create an anatomically- and electrically-accurate volume conductor model of human L5 DRG
+We constructed a three-dimensional [[finite element method ]]based on experimentally measured values to create an anatomically- and electrically-accurate volume conductor model of human L5 DRG
 geometry of the model owas based on published cadaver and imaging studies of the DRG and surrounding anatomy
 electrical conductivity of each tissue was based on values used in previous computational studies of neurostimulation for pain and experimentally-measured tissue resistivities

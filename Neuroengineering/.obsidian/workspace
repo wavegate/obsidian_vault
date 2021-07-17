@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computational model DRG.md",
+            "file": "finite element method.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computational model DRG.md",
+                "file": "finite element method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "finite element method.md",
     "computational model DRG.md",
+    "finite element model.md",
     "chronic pain.md",
     "dorsal root ganglion stimulation.md",
     "dorsal root ganglion.md",
     "primary sensory neurons.md",
     "C-fiber.md",
     "Abeta-fiber.md",
-    "-fiber.md",
-    "Untitled 3.md",
-    "dorsal root ganglia.md"
+    "-fiber.md"
   ]
 }
