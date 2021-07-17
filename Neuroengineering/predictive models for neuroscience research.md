@@ -2,7 +2,7 @@ https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/researc
 
 select cell type of interest > create genetic modification > optimize growth and consistency
 [[modeling]]
-[[dorsal root ganglia]][[immortalized cell lines]]
+[[dorsal root ganglion]][[immortalized cell lines]]
 
 # Cell lines
 

@@ -1,4 +1,4 @@
-[[dorsal root ganglia]][[cell biology]]
+[[dorsal root ganglion]][[cell biology]]
 
 population of cells from a multicellular organism that can keep going through division due to a mutation that evades normal cellular senescence
 

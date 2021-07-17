@@ -1,5 +1,0 @@
-[[pain]]
-[[human]]
-[[mouse]]
-[[rat]]
-[[anatomy]]

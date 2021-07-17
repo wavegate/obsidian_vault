@@ -1,3 +1,3 @@
-[[immortalized cell lines]][[dorsal root ganglia]]
+[[immortalized cell lines]][[dorsal root ganglion]]
 
 mouse? rat? human?

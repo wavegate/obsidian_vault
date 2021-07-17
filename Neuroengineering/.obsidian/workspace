@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dorsal root ganglion stimulation.md",
+            "file": "dorsal root ganglion.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dorsal root ganglion stimulation.md",
+                "file": "dorsal root ganglion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +95,7 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "dorsal root ganglia.md",
     "dorsal root ganglion stimulation.md",
     "chronic pain.md",
     "spinal cord stimulation.md",
@@ -103,7 +104,6 @@
     "AXIS axon isolation system.md",
     "obsidian hotkeys.md",
     "CRISPR.md",
-    "zinc finger nuclease.md",
-    "CRISP.md"
+    "zinc finger nuclease.md"
   ]
 }
