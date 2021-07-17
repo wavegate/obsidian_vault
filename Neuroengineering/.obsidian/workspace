@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 3.md",
+            "file": "spinal cord stimulation.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "spinal cord stimulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "spinal cord stimulation.md",
+    "dorsal root ganglion stimulation.md",
+    "chronic pain.md",
     "Untitled 3.md",
     "predictive models for neuroscience research.md",
     "AXIS axon isolation system.md",
     "obsidian hotkeys.md",
     "CRISPR.md",
     "zinc finger nuclease.md",
-    "CRISP.md",
-    "Cas9.md",
-    "SH-SY5Y cell line, human, neuroblast from neural tissue.md",
-    "Pasted image 20210717140218.png"
+    "CRISP.md"
   ]
 }
