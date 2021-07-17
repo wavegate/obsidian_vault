@@ -11,3 +11,8 @@ therefore, cannot optimize clinical parameters (stimulation amplitude, electrode
 [[neuromodulation]][[dorsal root ganglion]]
 
 [[spinal cord stimulation]]
+
+several hypotheses to explain therapeutic mechanism of DRGS
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6692908/#R5
+no clinical evidence directly supporting any one hypothesis
+C-type fibers exhibit a low-pass filtering effect at the T-junction that prevents some peri
