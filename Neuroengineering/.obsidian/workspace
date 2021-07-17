@@ -7,11 +7,8 @@
         "id": "933362b13e7633ba",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "chemical engineering.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chemical engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +91,7 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "-fiber.md",
     "chemical engineering.md",
     "finite element method.md",
     "computational model DRG.md",
@@ -103,7 +100,6 @@
     "dorsal root ganglion stimulation.md",
     "dorsal root ganglion.md",
     "primary sensory neurons.md",
-    "C-fiber.md",
-    "Abeta-fiber.md"
+    "C-fiber.md"
   ]
 }
