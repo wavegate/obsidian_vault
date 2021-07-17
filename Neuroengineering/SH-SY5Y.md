@@ -18,3 +18,7 @@ Cultivate cells in flasks which are coated for cell culture adhesion
 Not recommended after passage 20 for very specific characteristics!
 
 ![[2643.full.pdf]]
+
+https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-017-0149-0
+
+Most-reported source for access to the SH-SY5Y cell line is the American Type Culture Collection (ATCC, CRL-)
