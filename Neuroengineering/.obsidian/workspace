@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Models for DRG Testing.md",
-            "mode": "source"
+            "file": "predictive models for neuroscience research.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models for DRG Testing.md",
+                "file": "predictive models for neuroscience research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +95,8 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
-    "Untitled 3.md",
     "predictive models for neuroscience research.md",
+    "Untitled 3.md",
     "Effect of Electrical Field Stimulation on Dorsal Root Ganglion Neuronal Function.md",
     "Open AccessArticleThree-Dimensional Model of Dorsal Root Ganglion Explant as a Method of Studying Neurotrophic Factors in Regenerative Medicine.md",
     "DRG explant.md",
