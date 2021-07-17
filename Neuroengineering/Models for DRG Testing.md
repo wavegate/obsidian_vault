@@ -35,6 +35,10 @@
 
 ![[Pasted image 20210717162405.png]]
 
+## Stem Cells
+| Pros | Cons |
+| ---- | ---- |
+| Capable of long-term self-renewal     |      |
 
 ## Primary Culture
 
