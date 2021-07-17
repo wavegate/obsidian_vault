@@ -7,8 +7,6 @@
 
 # In Vitro
 
-# Immortalized Cell Lines
+## Immortalized Cell Lines
 
-# Primary Culture
-
-# Computational
+## Primary Culture
