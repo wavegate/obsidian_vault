@@ -27,4 +27,4 @@ Other sources involve European Collection of Authenticated Cell Culture s(ECACCC
 ATCC recommends MEM/F12 suppelemented with 10% fetal bovine serum
 DMEM was used most, followed by DMEM/F12
 Media used were supplemented with antibiotics/antimycotics, glutamine, non-essential amino acids, sodium pyruvate, or other components
-80% of articles media was supplemented b
+80% of articles media was supplemented with 10% fetal bovine serum
