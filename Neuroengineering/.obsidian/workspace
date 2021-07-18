@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nice properties of homogeneous systems Ax=0.md",
-            "mode": "preview"
+            "file": "matrix equation Ax=b.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nice properties of homogeneous systems Ax=0.md",
+                "file": "matrix equation Ax=b.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nice properties of homogeneous systems Ax=0.md",
+                "file": "matrix equation Ax=b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,18 +132,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 632.5
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "matrix equation Ax=b.md",
+    "linear algebra.md",
     "Untitled.md",
     "geometry of solutions to Ax=b and Ax=0.md",
     "Excalidraw/Drawing 2021-07-18 16.17.02.excalidraw.md",
     "writing solutions to ax=b in vector form.md",
     "determining linear independence vs linear dependence.md",
     "linear dependence & independence.md",
-    "linear algebra.md",
-    "matrix equation Ax=b.md",
     "Excalidraw/Drawing 2021-07-18 13.34.36.excalidraw.md",
     "Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md"
   ]
