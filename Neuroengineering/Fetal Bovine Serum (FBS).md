@@ -15,3 +15,5 @@ The following is the general process of fetal bovine serum collection:
 FBS should always be stored between ≤-10°C until its intended use.
 
 # Primary use
+The primary use of FBS is a supplement for in vitro cell culture. Its unique biological makeup promotes rapid cell growth, thus making it a product that yields a high efficacy.
+
