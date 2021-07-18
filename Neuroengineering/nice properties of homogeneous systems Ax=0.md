@@ -4,4 +4,5 @@
 2) If I have two homogeneous solutions, then their sum will also be homogeneous.
 	- $A\vec{x_1}=A\vec{x_2}=\vec{0}$
 	- $A(\vec{x_1}+\vec{x_2})=A\vec{x_1}+A\vec{x_2}=\vec{0}$
-3) 
+3) Every solution to $A\vec{x}=\vec{b}$ can be written as the sum of a homogeneous solution and a particular solution:
+	1) Say you have $A\vec{x_p}=\vec{b}
