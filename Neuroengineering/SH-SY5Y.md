@@ -15,7 +15,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/
 ## Reagents
 1.  Dulbecco’s Minimum Essential Medium (DMEM)/F-12
 	- https://www.thermofisher.com/us/en/home/life-science/cell-culture/mammalian-cell-culture/classical-media/d-mem-f12.html
-	- DMEM/F-12 is a widely used basal medium for supporting the growth of many different mammalian cells including MDCK, glial cells, fibroblasts, human endothelial cells, and rat fibroblasts. A 1:1 mixture of DMEM and Ham's F-12, this formulation combines DMEM's high concentrations of glucose, amino acids, and vitamins with F-12's wide variety of components.
+	- DMEM/F-12 is a 1:1 mixture of DMEM and Ham's F-12. This formulation combines DMEM's high concentrations of glucose, amino acids, and vitamins with F-12's wide variety of components. DMEM/F-12 with [GlutaMAX™](http://www.invitrogen.com/site/us/en/home/Products-and-Services/Applications/Cell-Culture/Mammalian-Cell-Culture/media-supplements/GlutaMAX-Media.html) supplement minimizes toxic ammonia build-up and improves cell viability and growth in an easy-to-use format. DMEM/F-12 contains no proteins, lipids, or growth factors. Therefore, DMEM/F-12 may require supplementation, commonly with 10% [Fetal Bovine Serum](http://www.invitrogen.com/site/us/en/home/Products-and-Services/Applications/Cell-Culture/Mammalian-Cell-Culture/fbs.html) (FBS). DMEM/F-12 uses a sodium bicarbonate buffer system and therefore requires a 5–10% CO2 environment to maintain physiological pH.
 3.  Fetal Bovine Serum (FBS), 10 % final concentration.
 4.  Penicillin/Streptomycin (Pen/Strep), 1 % final concentration (100 IU/ml, 100 µg/ml, respectively).
 5.  Trypsin/EDTA.
