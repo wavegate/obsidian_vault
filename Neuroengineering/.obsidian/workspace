@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linear dependence & independence.md",
-            "mode": "preview"
+            "file": "determining linear independence vs linear dependence.md",
+            "mode": "source"
           }
         }
       },
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "linear dependence & independence.md",
+                "file": "determining linear independence vs linear dependence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear dependence & independence.md",
+                "file": "determining linear independence vs linear dependence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,11 +147,11 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "Untitled.md",
     "linear dependence & independence.md",
     "Excalidraw/Drawing 2021-07-18 13.34.36.excalidraw.md",
     "Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md",
     "obsidian hotkeys.md",
-    "Untitled.md",
     "Models for DRG Testing.md",
     "SH-SY5Y.md",
     "restoration of brain circulation and cellular functions hours post-mortem.md",
