@@ -19,3 +19,5 @@ Sestan admits he was amused by some of the sensationalist headlines, dubbing his
 Since the paper was published in April ([Z. Vrselja _Nature_ **568**, 336–343; 2019](https://www.nature.com/articles/s41586-019-1099-1)), the team has been so busy fielding enquiries from the media and scientists that it hasn’t performed any further experiments. Sestan wants to focus on his original questions and explore, for instance, how long the brains can be maintained for, and whether the technology can preserve other organs for transplantation.
 
 From now on, this strand of his research will be decided by committee. “We want to get outside opinion before we do anything,” he says. “When you explore uncharted territory, you have to be very, very thoughtful.”
+
+At the moment, there are no regulations in the United States or in Europe that would stop a researcher from creating consciousness.
