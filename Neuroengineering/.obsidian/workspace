@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linear dependence & independence.md",
+            "file": "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 737.5
   },
   "right": {
     "id": "cceefa140642bb7f",
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "linear dependence & independence.md",
+                "file": "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear dependence & independence.md",
+                "file": "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "537e3cb4b69de4b7",
   "lastOpenFiles": [
+    "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
     "linear dependence & independence.md",
     "nice properties of homogeneous systems Ax=0.md",
     "Abeta-fiber.md",
@@ -153,7 +154,6 @@
     "linear algebra.md",
     "matrix equation Ax=b.md",
     "Untitled.md",
-    "geometry of solutions to Ax=b and Ax=0.md",
-    "Excalidraw/Drawing 2021-07-18 16.17.02.excalidraw.md"
+    "geometry of solutions to Ax=b and Ax=0.md"
   ]
 }
