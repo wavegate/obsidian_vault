@@ -8,4 +8,4 @@
 - i.e. $\vec{x_1} is linearly dependent on $\vec{x_2}\cdots\vec{x_n}$
 
 
-
+![[Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md]]
