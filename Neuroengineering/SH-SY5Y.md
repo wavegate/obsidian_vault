@@ -42,7 +42,8 @@
 	- Cyroprotectant for the cryopreservation of cell lines
 	- $49.00 
 11.  1× Phosphate-buffered saline (PBS).
-12.  Sterile disposable filter apparatus, with 0.22 µm pore size.
+12.  [Sterile disposable filter apparatus, with 0.22 µm pore size.] (https://www.thomassci.com/Laboratory-Supplies/Syringe-Filters/_/Syringe-Filter-PES-022m-30mm-Diameter?q=Syringe%20Filter%200.22)
+	- $60.65 / CS (30/CS)
 
 Price: $495.00 
 
