@@ -22,3 +22,5 @@
 	2) For every $\vec{b}\in\mathbb{R}^m$, $\vec{b}$ is some linear combination of the columns of $A$
 	3) For every $\vec{b}\in\mathbb{R}^m$, $A\vec{x}=\vec{b}$ has a solution
 	4) The RREF of A has a leading 1 (or pivot) in every row
+
+# Proof
