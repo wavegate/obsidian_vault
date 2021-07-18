@@ -3,9 +3,10 @@
 - Forms mounds of undifferentiated cells which then spread and differentiate into the surrounding area
 - Retinoic acid forces cells to dendrify and differentiate
 ![[Pasted image 20210717182248.png]]
+- Original paper: ![[2643.full.pdf]]
 
 # Source
-- The most reported source for access to the SH-SY5Y cell line is via the ATCC.
+- The most reported source for access to the SH-SY5Y cell line is via the ATCC https://www.atcc.org/products/crl-2266. Source: https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-017-0149-0
 # Media and cultivation
 Most common growign cocktail is 1:1 mixture of DMEM and Ham's F12 medium and 10% supplemental fetal bovine serum
 DMEM usually contains 3.7 g/L sodium bicarbonate, 2 mM L-Glutamine, 1 mM sodium pyruvate and 0.1 mM nonessential amino acids
@@ -13,17 +14,6 @@ Cells are always grown at 37 &deg;C and 5% CO2
 Cultivate cells in flasks which are coated for cell culture adhesion
 Not recommended after passage 20 for very specific characteristics!
 
-![[2643.full.pdf]]
-
-https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-017-0149-0
-
-Most-reported source for access to the SH-SY5Y cell line is the American Type Culture Collection (ATCC, CRL-2266, deposited by JL Biedler)
-Other sources involve European Collection of Authenticated Cell Culture s(ECACCC, Catalog number: 94030304, deposited by PFT Vaughan) or the German collection of Microorganisms and Cell Cultures (DSMZ, ACC 209)
-
-ATCC recommends MEM/F12 suppelemented with 10% fetal bovine serum
-DMEM was used most, followed by DMEM/F12
-Media used were supplemented with antibiotics/antimycotics, glutamine, non-essential amino acids, sodium pyruvate, or other components
-80% of articles media was supplemented with 10% fetal bovine serum
 
 SH-SY5Y cells can be manipulated by inducing different programs of terminal neural differentiation
 However, in 81.5% of published studies no differentiation regime was used
