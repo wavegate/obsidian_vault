@@ -16,3 +16,5 @@ should organoids be allowed to reach this level of advanced development?
 
 Yale had partially restored life to brains of pigs killed hours earlier
 infused brain with chemical cocktail and revived neuronal cellular function and ability to transmit electrical signals
+
+[[complex oscillatory waves emerging from cortical organoids model early human brain network development]][[restoration of brain circulation and cellular functions hours post-mortem]]

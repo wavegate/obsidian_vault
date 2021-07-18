@@ -1,0 +1,5 @@
+https://pubmed.ncbi.nlm.nih.gov/31474560/
+
+## Abstract
+
+Structural and transcriptional changes during early brain maturation follow fixed developmental programs defined by genetics. However, whether this is true for functional network activity remains unknown, primarily due to experimental inaccessibility of the initial stages of the living human brain. Here, we developed human cortical organoids that dynamically change cellular populations during maturation and exhibited consistent increases in electrical activity over the span of several months. The spontaneous network formation displayed periodic and regular oscillatory events that were dependent on glutamatergic and GABAergic signaling. The oscillatory activity transitioned to more spatiotemporally irregular patterns, and synchronous network events resembled features similar to those observed in preterm human electroencephalography. These results show that the development of structured network activity in a human neocortex model may follow stable genetic programming. Our approach provides opportunities for investigating and manipulating the role of network activity in the developing human cortex.

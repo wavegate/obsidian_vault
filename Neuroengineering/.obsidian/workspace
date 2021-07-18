@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "can lab grown brains become conscious.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "can lab grown brains become conscious.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "can lab grown brains become conscious.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,15 +136,15 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
-    "Untitled.md",
     "can lab grown brains become conscious.md",
+    "restoration of brain circulation and cellular functions hours post-mortem.md",
+    "Untitled.md",
     "artificial intelligence.md",
     "artificial_intelligence.md",
     "computational model DRG.md",
     "Characterisation of Nav1.7 functional expression in rat dorsal root ganglia neurons by using an electrical field stimulation assay.md",
     "brain_machine_interface.md",
     "bipolar depression.md",
-    "biology.md",
-    "bioelectronic medicine.md"
+    "biology.md"
   ]
 }
