@@ -2,15 +2,10 @@
 - Subcloning from SK-N-SH (isolated from bone marrow biopsy taken from 4-yo female with neuroblastoma) -> SH-SY5 -> SH-SY5Y (1978) by selecting for neuron-like cells
 - Forms mounds of undifferentiated cells which then spread and differentiate into the surrounding area
 - Retinoic acid forces cells to dendrify and differentiate
-
-Two phenotypes - floating and sticking - neuroblast-like and epithelial-like
-N-type (neuronal) (as opposed to S-type SH-EP subcloned cell line)
 ![[Pasted image 20210717182248.png]]
-Over-easy formation where there are mounds of undifferentiated cells which then spread differentiated cells into the surrounding area
-Propagate via mitosis
-Retinoic acid, BDNF, or TPA force cells to dendrify and differentiate from their clumped up nature
-Retinoic acid results in inhibition of cell growth
 
+# Source
+- The most reported source for access to the SH-SY5Y cell line is via the ATCC.
 # Media and cultivation
 Most common growign cocktail is 1:1 mixture of DMEM and Ham's F12 medium and 10% supplemental fetal bovine serum
 DMEM usually contains 3.7 g/L sodium bicarbonate, 2 mM L-Glutamine, 1 mM sodium pyruvate and 0.1 mM nonessential amino acids
