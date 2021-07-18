@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nice properties of homogeneous systems Ax=0.md",
-            "mode": "preview"
+            "file": "linear dependence & independence.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nice properties of homogeneous systems Ax=0.md",
+                "file": "linear dependence & independence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nice properties of homogeneous systems Ax=0.md",
+                "file": "linear dependence & independence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "537e3cb4b69de4b7",
   "lastOpenFiles": [
+    "linear dependence & independence.md",
     "nice properties of homogeneous systems Ax=0.md",
     "Abeta-fiber.md",
     "Alpha-AMS device.md",
@@ -153,7 +154,6 @@
     "matrix equation Ax=b.md",
     "Untitled.md",
     "geometry of solutions to Ax=b and Ax=0.md",
-    "Excalidraw/Drawing 2021-07-18 16.17.02.excalidraw.md",
-    "writing solutions to ax=b in vector form.md"
+    "Excalidraw/Drawing 2021-07-18 16.17.02.excalidraw.md"
   ]
 }
