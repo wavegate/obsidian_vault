@@ -1,0 +1,4 @@
+- eye focuses light onto photosensitive cells in the retina that transduce photons into neural signals
+- after processing within the retina, the retinal ganglion cells (RGC) send the signals along their axons which exit the eye in a bundle to form the optic nerve
+- -optic nerve carries visual information to the lateral geniculate nucleus (LGN) within the thalamus
+- [[anatomy]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "visual prostheses.md",
+            "file": "visual system.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "visual prostheses.md",
+                "file": "visual system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
