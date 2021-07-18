@@ -22,7 +22,9 @@
 	- $605 for 500 mL, can try 50 mL free sample
 	- Cheaper alternative: [FetalPlex™](https://www.gembio.com/product/fetalplextm-animal-serum-complex) is an engineered complex of animal sera, supplemented with a defined blend of vitamins, amino acids, triglycerides and trace elements. This proprietary formulation yields a serum that will, for many routine applications, replace fetal bovine serum at a much lower cost. Biochemical characteristics are comparable to fetal bovine serum, except for an increase in the total protein content. Also, cholesterol levels are slightly higher than in fetal bovine sera. FetalPlex™ is not intended to replace fetal bovine serum where low total-protein concentrations are critical, or where the trouble-free biochemistry of FBS is the only choice for fastidious cell lines or specialized applications. FetalPlex™ has proven useful and cost-effective for the growth and maintenance of a broad range of cell types.
 	- $205 for 500 mL
-4.  Penicillin/Streptomycin (Pen/Strep), 1 % final concentration (100 IU/ml, 100 µg/ml, respectively).
+4.  [Penicillin/Streptomycin (Pen/Strep), 1 % final concentration (100 IU/ml, 100 µg/ml, respectively).] (https://www.thermofisher.com/order/catalog/product/15070063#/15070063)
+	- The antibiotics penicillin and streptomycin are used to prevent bacterial contamination of cell cultures due to their effective combined action against gram-positive and gram-negative bacteria.
+	- $20.58 for 100mL (5,000 U/mL)
 5.  Trypsin/EDTA.
 6.  Neurobasal medium (NB).
 7.  B27 supplement.
