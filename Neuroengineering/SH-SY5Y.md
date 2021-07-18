@@ -5,10 +5,11 @@
 ![[Pasted image 20210717182248.png]]
 - Original paper: ![[2643.full.pdf]]
 
-# Source
-- The most reported source for access to the SH-SY5Y cell line is via the ATCC https://www.atcc.org/products/crl-2266. Source: https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-017-0149-0
+# Review
+- Systematic review: https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-017-0149-0
 
 # Materials
+
 ## Cells
 - Cells can be purchased from ATCC (ATCC® CRL-2266) [http://www.atcc.org/](http://www.atcc.org/). Cells will arrive on dry ice and should be processed immediately or placed in vapor phase liquid nitrogen until ready for culturing.
 ## Reagents
