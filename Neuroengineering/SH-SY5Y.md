@@ -9,11 +9,12 @@
 - Systematic review: https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-017-0149-0
 
 # Materials
-
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/
 ## Cells
 - Cells can be purchased from ATCC (ATCC® CRL-2266) [http://www.atcc.org/](http://www.atcc.org/). Cells will arrive on dry ice and should be processed immediately or placed in vapor phase liquid nitrogen until ready for culturing.
 ## Reagents
 1.  Dulbecco’s Minimum Essential Medium (DMEM).
+	- The most broadly suitable medium for many adherent cell phenotypes among defined media for cell and tissue culture. The Dulbecco’s modification is an enhanced supplementary formulation that boosts select amino acid and vitamin content of the original Eagle’s medium by up to fourfold. Our selection includes a range of glucose concentrations, as well as formulations with and without L-glutamine.
 2.  F12 Medium.
 3.  Fetal Bovine Serum (FBS), 10 % final concentration.
 4.  Penicillin/Streptomycin (Pen/Strep), 1 % final concentration (100 IU/ml, 100 µg/ml, respectively).
@@ -25,21 +26,6 @@
 10.  DMSO.
 11.  1× Phosphate-buffered saline (PBS).
 12.  Sterile disposable filter apparatus, with 0.22 µm pore size.
-# Media and cultivation
-Most common growign cocktail is 1:1 mixture of DMEM and Ham's F12 medium and 10% supplemental fetal bovine serum
-DMEM usually contains 3.7 g/L sodium bicarbonate, 2 mM L-Glutamine, 1 mM sodium pyruvate and 0.1 mM nonessential amino acids
-Cells are always grown at 37 &deg;C and 5% CO2
-Cultivate cells in flasks which are coated for cell culture adhesion
-Not recommended after passage 20 for very specific characteristics!
-
-
-SH-SY5Y cells can be manipulated by inducing different programs of terminal neural differentiation
-However, in 81.5% of published studies no differentiation regime was used
-For studies that do report forced differentiation, the most common method is addition of retinoic acid (RA) in concentrations ranging from 5 uM to 100 uM, for a period of time from 24 hours to 21 days, and, sometimes, a reduction of the concentration of serum in the media
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/
-
-https://www.atcc.org/products/crl-2266
 
 Price: $495.00 
 
