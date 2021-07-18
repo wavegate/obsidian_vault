@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Models for DRG Testing.md",
-            "mode": "preview"
+            "file": "linear algebra.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Models for DRG Testing.md",
+                "file": "linear algebra.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models for DRG Testing.md",
+                "file": "linear algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "Untitled.md",
     "Models for DRG Testing.md",
     "SH-SY5Y.md",
     "restoration of brain circulation and cellular functions hours post-mortem.md",
@@ -144,7 +145,6 @@
     "artificial intelligence.md",
     "computational model DRG.md",
     "Characterisation of Nav1.7 functional expression in rat dorsal root ganglia neurons by using an electrical field stimulation assay.md",
-    "cerebral organoids at the air-liquid interface generate diverse nerve tracts with functional output.md",
-    "Untitled.md"
+    "cerebral organoids at the air-liquid interface generate diverse nerve tracts with functional output.md"
   ]
 }
