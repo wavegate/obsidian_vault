@@ -11,7 +11,7 @@
 # Materials
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/
 ## Cells
-- Cells can be purchased from ATCC (ATCC® CRL-2266) [http://www.atcc.org/](http://www.atcc.org/). Cells will arrive on dry ice and should be processed immediately or placed in vapor phase liquid nitrogen until ready for culturing.
+- Cells can be purchased from ATCC [(ATCC® CRL-2266)] (https://www.atcc.org/products/crl-2266). Cells will arrive on dry ice and should be processed immediately or placed in vapor phase liquid nitrogen until ready for culturing.
 ## Reagents
 1.  [Dulbecco’s Minimum Essential Medium (DMEM)/F-12] (https://www.thermofisher.com/order/catalog/product/10565018#/10565018)
 	- DMEM/F-12 is a 1:1 mixture of DMEM and Ham's F-12. This formulation combines DMEM's high concentrations of glucose, amino acids, and vitamins with F-12's wide variety of components. DMEM/F-12 with [GlutaMAX™](http://www.invitrogen.com/site/us/en/home/Products-and-Services/Applications/Cell-Culture/Mammalian-Cell-Culture/media-supplements/GlutaMAX-Media.html) supplement minimizes toxic ammonia build-up and improves cell viability and growth in an easy-to-use format. DMEM/F-12 contains no proteins, lipids, or growth factors. Therefore, DMEM/F-12 may require supplementation, commonly with 10% [Fetal Bovine Serum](http://www.invitrogen.com/site/us/en/home/Products-and-Services/Applications/Cell-Culture/Mammalian-Cell-Culture/fbs.html) (FBS). DMEM/F-12 uses a sodium bicarbonate buffer system and therefore requires a 5–10% CO2 environment to maintain physiological pH.
