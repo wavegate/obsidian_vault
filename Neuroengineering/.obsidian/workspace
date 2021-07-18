@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hotkey",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,6 +137,8 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "linear dependence & independence.md",
+    "obsidian hotkeys.md",
     "Untitled.md",
     "Models for DRG Testing.md",
     "SH-SY5Y.md",
@@ -143,8 +146,6 @@
     "nenad sestan.md",
     "can lab grown brains become conscious.md",
     "artificial intelligence.md",
-    "computational model DRG.md",
-    "Characterisation of Nav1.7 functional expression in rat dorsal root ganglia neurons by using an electrical field stimulation assay.md",
-    "cerebral organoids at the air-liquid interface generate diverse nerve tracts with functional output.md"
+    "computational model DRG.md"
   ]
 }
