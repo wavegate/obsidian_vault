@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "matrix equation Ax=b.md",
+            "file": "geometry of solutions to Ax=b and Ax=0.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "matrix equation Ax=b.md",
+                "file": "geometry of solutions to Ax=b and Ax=0.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,7 +100,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.713275462622442,
                   "close": false
                 }
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "matrix equation Ax=b.md",
+                "file": "geometry of solutions to Ax=b and Ax=0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,14 +138,14 @@
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
     "Untitled.md",
+    "writing solutions to ax=b in vector form.md",
     "linear algebra.md",
+    "matrix equation Ax=b.md",
     "linear dependence & independence.md",
     "Excalidraw/Drawing 2021-07-18 13.34.36.excalidraw.md",
     "Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md",
     "obsidian hotkeys.md",
     "Models for DRG Testing.md",
-    "SH-SY5Y.md",
-    "restoration of brain circulation and cellular functions hours post-mortem.md",
-    "nenad sestan.md"
+    "SH-SY5Y.md"
   ]
 }
