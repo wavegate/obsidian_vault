@@ -12,7 +12,44 @@
             "file": "bioelectronic medicine.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "6bf59ee4928c7d97"
+      },
+      {
+        "id": "a9f5d5850fa9f056",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "bioelectronic medicine.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "6bf59ee4928c7d97"
       }
     ],
     "direction": "vertical"
@@ -93,8 +130,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "933362b13e7633ba",
+  "active": "a9f5d5850fa9f056",
   "lastOpenFiles": [
+    "bioelectronic medicine.md",
     "Untitled 3.md",
     "visual prostheses.md",
     "visual system.md",
@@ -103,7 +141,6 @@
     "IRIS II.md",
     "phosphene.md",
     "SH-SY5Y.md",
-    "Fetal Bovine Serum (FBS).md",
-    "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md"
+    "Fetal Bovine Serum (FBS).md"
   ]
 }
