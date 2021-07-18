@@ -25,8 +25,10 @@
 4.  [Penicillin/Streptomycin (Pen/Strep), 1 % final concentration (100 IU/ml, 100 µg/ml, respectively).] (https://www.thermofisher.com/order/catalog/product/15070063#/15070063)
 	- The antibiotics penicillin and streptomycin are used to prevent bacterial contamination of cell cultures due to their effective combined action against gram-positive and gram-negative bacteria.
 	- $20.58 for 100mL (5,000 U/mL)
-5.  Trypsin/EDTA.
-6.  Neurobasal medium (NB).
+5.  [Trypsin/EDTA.] (https://www.thermofisher.com/order/catalog/product/R001100#/R001100)
+	- Gibco® Trypsin solutions are made from trypsin powder - a mixture of proteases derived from bovine pancreas. Due to its digestive strength, it is widely used for cell dissociation, during routine cell culture passaging and primary tissue dissociation.
+	- $29.23 for 100 mL
+6.  [Neurobasal medium (NB).] (https://www.thermofisher.com/order/catalog/product/21103049#/21103049)
 7.  B27 supplement.
 8.  GlutaMAX.
 9.  All-_trans_-retinoic acid (ATRA).
