@@ -28,3 +28,6 @@ consciousness can be indicated by EEG readings?
 
 ![[Pasted image 20210718023643.png]]
 In developing human brain organoids, pre-neuronal cells (red) turn into neurons (green), which wire up into networks (white).Credit: Muotri Lab/UC San Diego
+
+organoids can't blink or recoil from painful stimulus and so can't pass clinical test for consciousness
+
