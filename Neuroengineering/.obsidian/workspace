@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Abeta-fiber.md",
-            "mode": "source"
+            "file": "nice properties of homogeneous systems Ax=0.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Abeta-fiber.md",
+                "file": "nice properties of homogeneous systems Ax=0.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abeta-fiber.md",
+                "file": "nice properties of homogeneous systems Ax=0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "537e3cb4b69de4b7",
   "lastOpenFiles": [
+    "nice properties of homogeneous systems Ax=0.md",
     "Abeta-fiber.md",
     "Alpha-AMS device.md",
     "Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md",
@@ -153,7 +154,6 @@
     "Untitled.md",
     "geometry of solutions to Ax=b and Ax=0.md",
     "Excalidraw/Drawing 2021-07-18 16.17.02.excalidraw.md",
-    "writing solutions to ax=b in vector form.md",
-    "determining linear independence vs linear dependence.md"
+    "writing solutions to ax=b in vector form.md"
   ]
 }
