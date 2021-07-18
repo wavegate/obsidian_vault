@@ -1,2 +1,3 @@
 - Say you have $A\vec{x}=\vec{b}$
-- $\Rightarrow\begin{pmatrix}1&0&2&0&\
+- Reduce it to row echelon form:$\Rightarrow\begin{pmatrix}1&0&2&0&\vdots&0\\0&1&0&1&\vdots&1\\0&0&0&0&\vdots&0\end{pmatrix}$
+- Take 
