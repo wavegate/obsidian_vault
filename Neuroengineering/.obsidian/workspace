@@ -7,9 +7,10 @@
         "id": "933362b13e7633ba",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "2643.full.pdf"
+            "file": "Characterisation of Nav1.7 functional expression in rat dorsal root ganglia neurons by using an electrical field stimulation assay.md",
+            "mode": "source"
           }
         }
       }
@@ -75,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2643.full.pdf",
+                "file": "Characterisation of Nav1.7 functional expression in rat dorsal root ganglia neurons by using an electrical field stimulation assay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2643.full.pdf",
+                "file": "Characterisation of Nav1.7 functional expression in rat dorsal root ganglia neurons by using an electrical field stimulation assay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +136,15 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
-    "2643.full.pdf",
-    "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
+    "Characterisation of Nav1.7 functional expression in rat dorsal root ganglia neurons by using an electrical field stimulation assay.md",
+    "Cas9.md",
+    "C-fiber.md",
+    "business.md",
+    "Argus II.md",
+    "Excalidraw/Drawing 2021-07-17 12.59.49.excalidraw.md",
     "Abeta-fiber.md",
-    "artificial_intelligence.md",
-    "brain_machine_interface.md",
-    "chronic pain.md",
-    "economic costs of pain in the United States.md",
-    "electrical engineering.md",
-    "finite element method.md",
-    "visual prostheses.md"
+    "anatomy.md",
+    "Alpha-AMS device.md",
+    "2643.full.pdf"
   ]
 }
