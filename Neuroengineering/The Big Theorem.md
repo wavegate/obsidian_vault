@@ -14,3 +14,7 @@
 # Algebraic problem
 - $\begin{bmatrix}a_{11}x_1 & ... & a_{1n}x_n & b_1 \\ ... & ... & ... & ... \\ a_{m1}x_1 & ... & a_{mn}x_n & b_m\end{bmatrix} => A\vec{x} = \vec{b}$
 - For every $\vec{b}$, can we solve for $\vec{x}$?
+
+# The Big Theorem, Part 1
+- The following are equivalent (TFAE):
+	1) The columns of A span 
