@@ -6,10 +6,10 @@
 - Original paper: ![[2643.full.pdf]]
 
 # Review
-- Systematic review: https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-017-0149-0
+- Systematic review on its use in Parkinson's disease research: https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-017-0149-0
 
 # Materials
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/
 ## Cells
 - Cells can be purchased from ATCC [(ATCC® CRL-2266)] (https://www.atcc.org/products/crl-2266). Cells will arrive on dry ice and should be processed immediately or placed in vapor phase liquid nitrogen until ready for culturing.
 - Price: $495.00
