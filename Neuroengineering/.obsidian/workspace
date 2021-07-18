@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linear dependence & independence.md",
-            "mode": "source"
+            "file": "geometry of solutions to Ax=b and Ax=0.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "linear dependence & independence.md",
+                "file": "geometry of solutions to Ax=b and Ax=0.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear dependence & independence.md",
+                "file": "geometry of solutions to Ax=b and Ax=0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,11 +136,11 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
-    "linear dependence & independence.md",
-    "determining linear independence vs linear dependence.md",
-    "writing solutions to ax=b in vector form.md",
     "geometry of solutions to Ax=b and Ax=0.md",
     "Excalidraw/Drawing 2021-07-18 16.17.02.excalidraw.md",
+    "writing solutions to ax=b in vector form.md",
+    "determining linear independence vs linear dependence.md",
+    "linear dependence & independence.md",
     "Untitled.md",
     "linear algebra.md",
     "matrix equation Ax=b.md",
