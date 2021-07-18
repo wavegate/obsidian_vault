@@ -9,3 +9,6 @@
 - In other words, is $\operatorname{span}\{\vec{a_{1}},...,\vec{a_n}\} = \mathbb{R}^m$?
 - Note that there are $m$ vectors, but each of these vectors has $n$ components.
 - If our vectors are in line with each other, their span does not make up $\mathbb{R}^m$.
+- Or, if all vectors are in one plane, then span is just one plane and not the entire 3D space.
+
+# Algebraic problem
