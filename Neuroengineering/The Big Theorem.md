@@ -26,4 +26,5 @@
 # Proof
 - Let $\begin{bmatrix}A & \vdots & \vec{b}\end{bmatrix}$ be the augmented matrix for $A\vec{x}=\vec{b}$.
 - $\begin{bmatrix}A & \vdots & \vec{b}\end{bmatrix} \xrightarrow{\text{REF}}\begin{bmatrix}R & \vdots & \vec{d}\end{bmatrix}$
-- Example: $\begin{pmatrix}1 & * & * &\vdots & * \\ 0 & 1 & * & \vdots & *\\0 & 0 & 1 & \vdots & * \\ 0 & 0 & 0 & \vdots & 1\end{pmatrix}$
+- Example: $\begin{pmatrix}1 & * & * &\vdots & * \\ 0 & 1 & * & \vdots & *\\0 & 0 & 1 & \vdots & * \\ 0 & 0 & 0 & \vdots & 1\end{pmatrix}$ has an inconsistent bottom row
+- Since it is assumed that $A\vec{x}=\vec{b}$ is always solvable, there must be a leading 1 in every row.
