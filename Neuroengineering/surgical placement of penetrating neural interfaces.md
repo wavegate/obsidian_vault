@@ -1,0 +1,1 @@
+rigid probes cause immune response, whereas flexible probes are not strong enough to be inserted on their own into tissue
