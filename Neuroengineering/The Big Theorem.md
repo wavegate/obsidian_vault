@@ -12,3 +12,4 @@
 - Or, if all vectors are in one plane, then span is just one plane and not the entire 3D space.
 
 # Algebraic problem
+$\begin{matrix}\end{matrix}$
