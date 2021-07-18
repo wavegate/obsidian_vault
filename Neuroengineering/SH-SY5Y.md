@@ -29,7 +29,10 @@
 	- Gibco® Trypsin solutions are made from trypsin powder - a mixture of proteases derived from bovine pancreas. Due to its digestive strength, it is widely used for cell dissociation, during routine cell culture passaging and primary tissue dissociation.
 	- $29.23 for 100 mL
 6.  [Neurobasal medium (NB).] (https://www.thermofisher.com/order/catalog/product/21103049#/21103049)
+	- Neurobasal Medium is a basal medium designed for long-term maintenance and maturation of pure pre-natal and embryonic neuronal cell populations without the need for an astrocyte feeder layer when used with [Gibco B-27 supplements](https://www.thermofisher.com/us/en/home/brands/gibco/gibco-b-27-supplement.html).
+	- $77.25 for 500 mL
 7.  B27 supplement.
+	- The most cited neuronal cell culture supplement, B-27 Supplement is an optimized serum-free supplement used to support the low- or high-density growth and short- or long-term viability of embryonic, post-natal, and adult hippocampal and other CNS neurons.
 8.  GlutaMAX.
 9.  All-_trans_-retinoic acid (ATRA).
 10.  [DMSO.] (https://www.atcc.org/products/4-x)
