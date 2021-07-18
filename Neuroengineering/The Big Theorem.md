@@ -8,3 +8,4 @@
 - Is the span, or linear combinations, of these vectors the entire space $\mathbb{R}^n$?
 - In other words, is $\operatorname{span}\{\vec{a_{1}},...,\vec{a_n}\} = \mathbb{R}^n$?
 - Note that there are $m$ vectors, but each of these vectors has $n$ components.
+- If our vectors are in line with each other, their span 
