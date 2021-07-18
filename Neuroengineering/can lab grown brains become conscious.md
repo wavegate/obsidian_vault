@@ -21,4 +21,5 @@ infused brain with chemical cocktail and revived neuronal cellular function and 
 
 adding human neurons to mouse brains
 
-guidelines to guide the humane use of brain organoi
+guidelines to guide the humane use of brain organoids?
+
