@@ -1,1 +1,2 @@
-electrically-generated pixels of artificial vision
+- electrically-generated pixels of artificial vision
+-mechanical stimu
