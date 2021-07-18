@@ -34,8 +34,10 @@
 	- There is a [B-27 + Neurobasal Medium sample.] (https://www.thermofisher.com/us/en/home/global/forms/life-science/b27-plus-neuronal-culture-system-sample.html)
 7.  B27 supplement.
 	- The most cited neuronal cell culture supplement, B-27 Supplement is an optimized serum-free supplement used to support the low- or high-density growth and short- or long-term viability of embryonic, post-natal, and adult hippocampal and other CNS neurons.
-8.  GlutaMAX.
+	- $107.00 for 10 mL
+8.  GlutaMAX. (included above)
 9.  All-_trans_-retinoic acid (ATRA).
+	- 
 10.  [DMSO.] (https://www.atcc.org/products/4-x)
 	- Cyroprotectant for the cryopreservation of cell lines
 	- $49.00 
