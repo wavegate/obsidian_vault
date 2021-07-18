@@ -12,44 +12,7 @@
             "file": "bioelectronic medicine.md",
             "mode": "source"
           }
-        },
-        "group": "6bf59ee4928c7d97"
-      },
-      {
-        "id": "a9f5d5850fa9f056",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "bioelectronic medicine.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "6bf59ee4928c7d97"
+        }
       }
     ],
     "direction": "vertical"
@@ -104,6 +67,47 @@
     "type": "split",
     "children": [
       {
+        "id": "e1417255f0e87695",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9f5d5850fa9f056",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "bioelectronic medicine.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "631a4937778670d5",
         "type": "tabs",
         "children": [
@@ -130,7 +134,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a9f5d5850fa9f056",
+  "active": "933362b13e7633ba",
   "lastOpenFiles": [
     "bioelectronic medicine.md",
     "Untitled 3.md",
