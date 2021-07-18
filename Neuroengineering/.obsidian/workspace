@@ -7,11 +7,8 @@
         "id": "537e3cb4b69de4b7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +140,7 @@
   },
   "active": "537e3cb4b69de4b7",
   "lastOpenFiles": [
+    "anatomy and physiology.md",
     "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
     "linear dependence & independence.md",
     "nice properties of homogeneous systems Ax=0.md",
@@ -153,7 +149,6 @@
     "Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md",
     "linear algebra.md",
     "matrix equation Ax=b.md",
-    "Untitled.md",
-    "geometry of solutions to Ax=b and Ax=0.md"
+    "Untitled.md"
   ]
 }
