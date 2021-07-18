@@ -19,7 +19,7 @@
 	- $49.40 for 500 mL
 3.  [[Fetal Bovine Serum (FBS)]], 10 % final concentration
 	- Serum offers a highly bioavailable complex of proteins and amino acids, lipids and triglycerides, vitamins, inorganic minerals and salts, as well as other minor components and growth factors that promote culture success. Serum may also contain varying concentrations of iron sequestering heme and mitogenic endotoxin.
-	- $605 for 500 
+	- $605 for 500 mL, can try 50 mL free sample
 	- Cheaper alternative: [FetalPlex™](https://www.gembio.com/product/fetalplextm-animal-serum-complex) is an engineered complex of animal sera, supplemented with a defined blend of vitamins, amino acids, triglycerides and trace elements. This proprietary formulation yields a serum that will, for many routine applications, replace fetal bovine serum at a much lower cost. Biochemical characteristics are comparable to fetal bovine serum, except for an increase in the total protein content. Also, cholesterol levels are slightly higher than in fetal bovine sera. FetalPlex™ is not intended to replace fetal bovine serum where low total-protein concentrations are critical, or where the trouble-free biochemistry of FBS is the only choice for fastidious cell lines or specialized applications. FetalPlex™ has proven useful and cost-effective for the growth and maintenance of a broad range of cell types.
 	- $205 for 500 mL
 4.  Penicillin/Streptomycin (Pen/Strep), 1 % final concentration (100 IU/ml, 100 µg/ml, respectively).
@@ -28,7 +28,9 @@
 7.  B27 supplement.
 8.  GlutaMAX.
 9.  All-_trans_-retinoic acid (ATRA).
-10.  DMSO.
+10.  [DMSO.] (https://www.atcc.org/products/4-x)
+	- Cyroprotectant for the cryopreservation of cell lines
+	- $49.00 
 11.  1× Phosphate-buffered saline (PBS).
 12.  Sterile disposable filter apparatus, with 0.22 µm pore size.
 
