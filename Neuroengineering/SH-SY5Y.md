@@ -22,27 +22,27 @@
 	- $605 for 500 mL, can try 50 mL free sample
 	- Cheaper alternative: [FetalPlex™](https://www.gembio.com/product/fetalplextm-animal-serum-complex) is an engineered complex of animal sera, supplemented with a defined blend of vitamins, amino acids, triglycerides and trace elements. This proprietary formulation yields a serum that will, for many routine applications, replace fetal bovine serum at a much lower cost. Biochemical characteristics are comparable to fetal bovine serum, except for an increase in the total protein content. Also, cholesterol levels are slightly higher than in fetal bovine sera. FetalPlex™ is not intended to replace fetal bovine serum where low total-protein concentrations are critical, or where the trouble-free biochemistry of FBS is the only choice for fastidious cell lines or specialized applications. FetalPlex™ has proven useful and cost-effective for the growth and maintenance of a broad range of cell types.
 	- $205 for 500 mL
-4.  [Penicillin/Streptomycin (Pen/Strep), 1 % final concentration (100 IU/ml, 100 µg/ml, respectively).] (https://www.thermofisher.com/order/catalog/product/15070063#/15070063)
+4.  [Penicillin/Streptomycin (Pen/Strep), 1 % final concentration (100 IU/ml, 100 µg/ml, respectively).](https://www.thermofisher.com/order/catalog/product/15070063#/15070063)
 	- The antibiotics penicillin and streptomycin are used to prevent bacterial contamination of cell cultures due to their effective combined action against gram-positive and gram-negative bacteria.
 	- $20.58 for 100mL (5,000 U/mL)
-5.  [Trypsin/EDTA.] (https://www.thermofisher.com/order/catalog/product/R001100#/R001100)
+5.  [Trypsin/EDTA.](https://www.thermofisher.com/order/catalog/product/R001100#/R001100)
 	- Gibco® Trypsin solutions are made from trypsin powder - a mixture of proteases derived from bovine pancreas. Due to its digestive strength, it is widely used for cell dissociation, during routine cell culture passaging and primary tissue dissociation.
 	- $29.23 for 100 mL
-6.  [Neurobasal medium (NB).] (https://www.thermofisher.com/order/catalog/product/21103049#/21103049)
+6.  [Neurobasal medium (NB).](https://www.thermofisher.com/order/catalog/product/21103049#/21103049)
 	- Neurobasal Medium is a basal medium designed for long-term maintenance and maturation of pure pre-natal and embryonic neuronal cell populations without the need for an astrocyte feeder layer when used with [Gibco B-27 supplements](https://www.thermofisher.com/us/en/home/brands/gibco/gibco-b-27-supplement.html).
 	- $77.25 for 500 mL
-	- There is a [B-27 + Neurobasal Medium sample.] (https://www.thermofisher.com/us/en/home/global/forms/life-science/b27-plus-neuronal-culture-system-sample.html)
+	- There is a [B-27 + Neurobasal Medium sample.](https://www.thermofisher.com/us/en/home/global/forms/life-science/b27-plus-neuronal-culture-system-sample.html)
 7.  B27 supplement.
 	- The most cited neuronal cell culture supplement, B-27 Supplement is an optimized serum-free supplement used to support the low- or high-density growth and short- or long-term viability of embryonic, post-natal, and adult hippocampal and other CNS neurons.
 	- $107.00 for 10 mL
 8.  GlutaMAX. (included above)
-9.  [All-_trans_-retinoic acid (ATRA).] (https://www.fishersci.com/shop/products/all-trans-retinoic-acid-97-acros-organics-3/AC207341000)
+9.  [All-_trans_-retinoic acid (ATRA).](https://www.fishersci.com/shop/products/all-trans-retinoic-acid-97-acros-organics-3/AC207341000)
 	- $42.49 for 100mg
-10.  [DMSO.] (https://www.atcc.org/products/4-x)
+10.  [DMSO.](https://www.atcc.org/products/4-x)
 	- Cyroprotectant for the cryopreservation of cell lines
 	- $49.00 
 11.  1× Phosphate-buffered saline (PBS).
-12.  [Sterile disposable filter apparatus, with 0.22 µm pore size.] (https://www.thomassci.com/Laboratory-Supplies/Syringe-Filters/_/Syringe-Filter-PES-022m-30mm-Diameter?q=Syringe%20Filter%200.22)
+12.  [Sterile disposable filter apparatus, with 0.22 µm pore size.](https://www.thomassci.com/Laboratory-Supplies/Syringe-Filters/_/Syringe-Filter-PES-022m-30mm-Diameter?q=Syringe%20Filter%200.22)
 	- $60.65 / CS (30/CS)
 
 Price: $495.00 
