@@ -23,3 +23,8 @@ adding human neurons to mouse brains
 
 guidelines to guide the humane use of brain organoids?
 
+
+consciousness can be indicated by EEG readings?
+
+![[Pasted image 20210718023643.png]]
+In developing human brain organoids, pre-neuronal cells (red) turn into neurons (green), which wire up into networks (white).Credit: Muotri Lab/UC San Diego
