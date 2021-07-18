@@ -18,3 +18,7 @@ Yale had partially restored life to brains of pigs killed hours earlier
 infused brain with chemical cocktail and revived neuronal cellular function and ability to transmit electrical signals
 
 [[complex oscillatory waves emerging from cortical organoids model early human brain network development]][[restoration of brain circulation and cellular functions hours post-mortem]]
+
+adding human neurons to mouse brains
+
+guidelines to guide the humane use of brain organoi
