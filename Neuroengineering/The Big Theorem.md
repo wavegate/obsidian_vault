@@ -5,4 +5,4 @@
 
 # Geometric problem
 - Suppose we have a list of vectors $\vec{a_{1}},...,\vec{a_n}$
-- Is the span of these vectors the entire region
+- Is the span, or linear combinations, of these vectors the entire space 
