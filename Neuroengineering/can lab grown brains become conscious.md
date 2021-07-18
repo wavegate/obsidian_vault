@@ -15,4 +15,4 @@ experiment was shut down after months
 should organoids be allowed to reach this level of advanced development?
 
 Yale had partially restored life to brains of pigs killed hours earlier
-infused brain with chemical cocktail
+infused brain with chemical cocktail and revived neuronal cellular function and ability to transmit electrical signals
