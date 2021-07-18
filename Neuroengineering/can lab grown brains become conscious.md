@@ -38,4 +38,4 @@ if phi is greater than zero, the organism is considered conscious
 [[global workspace theory]] posits that brain's prefrontal cortex functions as a computer, processing sensory inputs and interpreting them to form a sense of being
 because organoids don't have a prefrontal cortex and can't receive input, they cannot become conscious
 
-2019 Lancaster grew human brain organoids next to mouse spinal column and back muscle, when connecting nerves, muscles began to spontaneously contract
+2019 Lancaster grew human brain organoids next to mouse spinal column and back muscle, when connecting nerves, muscles began to spontaneously contract [[cerebral organoids at the air-liquid interface generate diverse nerve tracts with functional output]]

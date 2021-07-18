@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "can lab grown brains become conscious.md",
+            "file": "cerebral organoids at the air-liquid interface generate diverse nerve tracts with functional output.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "can lab grown brains become conscious.md",
+                "file": "cerebral organoids at the air-liquid interface generate diverse nerve tracts with functional output.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "can lab grown brains become conscious.md",
+                "file": "cerebral organoids at the air-liquid interface generate diverse nerve tracts with functional output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "cerebral organoids at the air-liquid interface generate diverse nerve tracts with functional output.md",
     "can lab grown brains become conscious.md",
     "integrated information theory.md",
     "a new chimeric model to study human brain development and disease.md",
@@ -144,7 +145,6 @@
     "artificial intelligence.md",
     "artificial_intelligence.md",
     "computational model DRG.md",
-    "Characterisation of Nav1.7 functional expression in rat dorsal root ganglia neurons by using an electrical field stimulation assay.md",
-    "brain_machine_interface.md"
+    "Characterisation of Nav1.7 functional expression in rat dorsal root ganglia neurons by using an electrical field stimulation assay.md"
   ]
 }
