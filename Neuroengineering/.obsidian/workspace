@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PRIMA device.md",
+            "file": "visual prostheses.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PRIMA device.md",
+                "file": "visual prostheses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
-    "Untitled 3.md",
+    "visual prostheses.md",
     "visual system.md",
+    "Argus II.md",
+    "Alpha-AMS device.md",
+    "IRIS II.md",
+    "Untitled 3.md",
     "phosphene.md",
     "SH-SY5Y.md",
     "Fetal Bovine Serum (FBS).md",
-    "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
-    "2643.full.pdf",
-    "Models for DRG Testing.md",
-    "rat dorsal root ganglion neurons RDRGN.md",
-    "predictive models for neuroscience research.md"
+    "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md"
   ]
 }
