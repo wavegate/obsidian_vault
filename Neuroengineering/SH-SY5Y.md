@@ -13,9 +13,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127451/
 ## Cells
 - Cells can be purchased from ATCC (ATCC® CRL-2266) [http://www.atcc.org/](http://www.atcc.org/). Cells will arrive on dry ice and should be processed immediately or placed in vapor phase liquid nitrogen until ready for culturing.
 ## Reagents
-1.  Dulbecco’s Minimum Essential Medium (DMEM).
-	- The most broadly suitable medium for many adherent cell phenotypes among defined media for cell and tissue culture. The Dulbecco’s modification is an enhanced supplementary formulation that boosts select amino acid and vitamin content of the original Eagle’s medium by up to fourfold. Our selection includes a range of glucose concentrations, as well as formulations with and without L-glutamine.
-2.  F12 Medium.
+1.  Dulbecco’s Minimum Essential Medium (DMEM)/F-12
+	- https://www.thermofisher.com/us/en/home/life-science/cell-culture/mammalian-cell-culture/classical-media/d-mem-f12.html
+	- DMEM/F-12 is a widely used basal medium for supporting the growth of many different mammalian cells including MDCK, glial cells, fibroblasts, human endothelial cells, and rat fibroblasts. A 1:1 mixture of DMEM and Ham's F-12, this formulation combines DMEM's high concentrations of glucose, amino acids, and vitamins with F-12's wide variety of components.
 3.  Fetal Bovine Serum (FBS), 10 % final concentration.
 4.  Penicillin/Streptomycin (Pen/Strep), 1 % final concentration (100 IU/ml, 100 µg/ml, respectively).
 5.  Trypsin/EDTA.
