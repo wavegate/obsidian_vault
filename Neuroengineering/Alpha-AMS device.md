@@ -1,0 +1,2 @@
+- Retina Implant AG, Germany
+- -1600-site microphotodiode array

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Argus II.md",
+            "file": "PRIMA device.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Argus II.md",
+                "file": "PRIMA device.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
