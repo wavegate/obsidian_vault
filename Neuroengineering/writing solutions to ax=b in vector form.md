@@ -1,0 +1,2 @@
+- Say you have $A\vec{x}=\vec{b}$
+- $\Rightarrow\begin{pmatrix}1&0&2&0&\

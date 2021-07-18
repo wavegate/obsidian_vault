@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "determining linear independence vs linear dependence.md",
+            "file": "writing solutions to ax=b in vector form.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "determining linear independence vs linear dependence.md",
+                "file": "writing solutions to ax=b in vector form.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "determining linear independence vs linear dependence.md",
+                "file": "writing solutions to ax=b in vector form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
