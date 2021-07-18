@@ -12,4 +12,4 @@
 - Or, if all vectors are in one plane, then span is just one plane and not the entire 3D space.
 
 # Algebraic problem
-$\begin{matrix}a_{11}x_1 & ... & a_{1n}x_n & b_1 \\ ... & ... & ... & ... \\ a_{m1}x_1 & ... & a_{1n}x_n & b_1$
+$\begin{bmatrix}a_{11}x_1 & ... & a_{1n}x_n & b_1 \\ ... & ... & ... & ... \\ a_{m1}x_1 & ... & a_{mn}x_n & b_m\end{bmatrix} => A\vec{x$
