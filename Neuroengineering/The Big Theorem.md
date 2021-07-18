@@ -26,4 +26,4 @@
 # Proof
 - Let $\begin{bmatrix}A & \vdots & \vec{b}\end{bmatrix}$ be the augmented matrix for $A\vec{x}=\vec{b}$.
 - $\begin{bmatrix}A & \vdots & \vec{b}\end{bmatrix} \xrightarrow{\text{REF}}\begin{bmatrix}R & \vdots & \vec{d}\end{bmatrix}$
-- Example
+- Example: $\begin{pmatrix}1 & * & * \vdots & * \\ 0 & 1\end{pmatrix}$
