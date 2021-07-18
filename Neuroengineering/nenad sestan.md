@@ -1,4 +1,4 @@
-[[neuroscience]][[ethics]][[consciosness]]
+[[neuroscience]][[ethics]][[consciousness]]
 
 Nenad Sestan was working in his office one afternoon in 2016, when he heard two of his lab members in a room across the hall giggling with excitement over a microscope. “I knew something was happening,” he says. “I realized it was something beyond our expectations.”
 
