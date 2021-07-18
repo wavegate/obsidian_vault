@@ -4,3 +4,4 @@
 2) If I have two homogeneous solutions, then their sum will also be homogeneous.
 	- $A\vec{x_1}=A\vec{x_2}=\vec{0}$
 	- $A(\vec{x_1}+\vec{x_2})=A\vec{x_1}+A\vec{x_2}=\vec{0}$
+3) 
