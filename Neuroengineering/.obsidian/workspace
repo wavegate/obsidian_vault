@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "augmen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,12 +56,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "right": {
     "id": "cceefa140642bb7f",
@@ -101,7 +100,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.713275462622442,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -133,19 +132,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 766.5
+    "width": 100
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
-    "Untitled.md",
+    "geometry of solutions to Ax=b and Ax=0.md",
     "writing solutions to ax=b in vector form.md",
+    "determining linear independence vs linear dependence.md",
+    "Untitled.md",
     "linear algebra.md",
     "matrix equation Ax=b.md",
     "linear dependence & independence.md",
     "Excalidraw/Drawing 2021-07-18 13.34.36.excalidraw.md",
     "Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md",
-    "obsidian hotkeys.md",
-    "Models for DRG Testing.md",
-    "SH-SY5Y.md"
+    "obsidian hotkeys.md"
   ]
 }
