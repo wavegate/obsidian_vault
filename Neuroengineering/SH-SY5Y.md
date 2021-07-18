@@ -7,6 +7,23 @@
 
 # Source
 - The most reported source for access to the SH-SY5Y cell line is via the ATCC https://www.atcc.org/products/crl-2266. Source: https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-017-0149-0
+
+# Materials
+## Cells
+- Cells can be purchased from ATCC (ATCC® CRL-2266) [http://www.atcc.org/](http://www.atcc.org/). Cells will arrive on dry ice and should be processed immediately or placed in vapor phase liquid nitrogen until ready for culturing.
+## Reagents
+1.  Dulbecco’s Minimum Essential Medium (DMEM).
+2.  F12 Medium.
+3.  Fetal Bovine Serum (FBS), 10 % final concentration.
+4.  Penicillin/Streptomycin (Pen/Strep), 1 % final concentration (100 IU/ml, 100 µg/ml, respectively).
+5.  Trypsin/EDTA.
+6.  Neurobasal medium (NB).
+7.  B27 supplement.
+8.  GlutaMAX.
+9.  All-_trans_-retinoic acid (ATRA).
+10.  DMSO.
+11.  1× Phosphate-buffered saline (PBS).
+12.  Sterile disposable filter apparatus, with 0.22 µm pore size.
 # Media and cultivation
 Most common growign cocktail is 1:1 mixture of DMEM and Ham's F12 medium and 10% supplemental fetal bovine serum
 DMEM usually contains 3.7 g/L sodium bicarbonate, 2 mM L-Glutamine, 1 mM sodium pyruvate and 0.1 mM nonessential amino acids
