@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SH-SY5Y.md",
+            "file": "neuroengineering.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SH-SY5Y.md",
+                "file": "neuroengineering.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SH-SY5Y.md",
+                "file": "neuroengineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "neuroengineering.md",
     "SH-SY5Y.md",
     "product development.md",
     "picking the correct cell line.md",
@@ -144,7 +145,6 @@
     "Untitled 1.md",
     "Untitled 2.md",
     "thin films.md",
-    "techops.md",
-    "surgical placement of penetrating neural interfaces.md"
+    "techops.md"
   ]
 }
