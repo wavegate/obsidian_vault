@@ -7,4 +7,4 @@
 3) Every solution to $A\vec{x}=\vec{b}$ can be written as the sum of a homogeneous solution and a particular solution:
 	- Say you have $A\vec{x_p}=\vec{b},A\vec{x}=\vec{b}$ where $x_p$ is a particular solution and $x$ is any solution.
 	- $A(\vec{x}-\vec{x_p})=A\vec{x}-A\vec{x_p}=\vec{b}-\vec{b}=\vec{0}$
-	- In other words, $\vec{x}-\vec{x} 
+	- In other words, $\vec{x}-\vec{x_p}=\vec{x_h}$ 
