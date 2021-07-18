@@ -46,21 +46,6 @@
 
 Price: $495.00 
 
-DMEM (Dulbecco’s Modified Eagle Medium) is the most broadly suitable medium for many adherent cell phenotypes among defined media for cell and tissue culture. The Dulbecco’s modification is an enhanced supplementary formulation that boosts select amino acid and vitamin content of the original Eagle’s medium by up to fourfold. Our selection includes a range of glucose concentrations, as well as formulations with and without L-glutamine. Products without the pH indicator phenol red are available for estrogen-sensitive applications, and our comprehensive offering includes convenient, ready-to-use liquid formats, as well as economical powdered media for easier storage and longer shelf life.
-
-F12 Medium
-Fetal Bovine Serum (FBS), 10% final concentration
-- FetalPlex™ is an engineered complex of animal sera, supplemented with a defined blend of vitamins, amino acids, triglycerides and trace elements. This proprietary formulation yields a serum that will, for many routine applications, replace fetal bovine serum at a much lower cost. Biochemical characteristics are comparable to fetal bovine serum, except for an increase in the total protein content. Also, cholesterol levels are slightly higher than in fetal bovine sera. FetalPlex™ is not intended to replace fetal bovine serum where low total-protein concentrations are critical, or where the trouble-free biochemistry of FBS is the only choice for fastidious cell lines or specialized applications. FetalPlex™ has proven useful and cost-effective for the growth and maintenance of a broad range of cell types.
-Penicillin/Streptomycin (Pen/Strep), 1% final concentration (100 IU/ml, 100 microg/ml, respectively)
-Trypsin/EDTA
-Neurobasal medium (NB)
-B27 supplement
-GlutaMAX
-All-trans-retinoic acid (ATRA)
-DMSO
-1 x Phosphate-buffered saline (PBS)
-Sterile disposable filter apparatus, with 0.22 um pore size
-
 ### 3.1 Initial Culture Conditions
 
 1.  Prepare growth medium: DMEM/F12 (1:1, v:v) medium, (10 % FBS and 1 % pen/strep) and filter through a 0.22 µm pore filter apparatus.
