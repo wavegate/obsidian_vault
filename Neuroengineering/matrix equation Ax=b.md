@@ -1,0 +1,3 @@
+- take b is a vector
+- you have a list of other vectors a1, a2, a3, etc.
+- 

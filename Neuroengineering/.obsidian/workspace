@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linear algebra.md",
+            "file": "matrix equation Ax=b.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "linear algebra.md",
+                "file": "matrix equation Ax=b.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear algebra.md",
+                "file": "matrix equation Ax=b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,8 +137,8 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
-    "linear algebra.md",
     "Untitled.md",
+    "linear algebra.md",
     "linear dependence & independence.md",
     "Excalidraw/Drawing 2021-07-18 13.34.36.excalidraw.md",
     "Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md",
