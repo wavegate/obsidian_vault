@@ -12,4 +12,4 @@
 
 # Definition
 ${\vec{x_1},\cdots,\vec{x_n}}$ is
-1) Linearly *dependent* if you can find $a_1,\cdots,a
+1) Linearly *dependent* if you can find $a_1,\cdots,a_n$ not *all* zero so $a_1\vec{x_1}+\cdots+a_n\vec{x_n}=\vec{0}$
