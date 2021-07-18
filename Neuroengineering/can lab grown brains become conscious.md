@@ -31,3 +31,4 @@ In developing human brain organoids, pre-neuronal cells (red) turn into neurons 
 
 organoids can't blink or recoil from painful stimulus and so can't pass clinical test for consciousness
 
+[[integrated information theory]]: consciousness is a product of how densely neuronal networks are c
