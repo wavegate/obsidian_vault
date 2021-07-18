@@ -1,2 +1,0 @@
-application of fine-grained electrical stimulation to the visual pathway patterned both in space and time to replace information that once originated in the eyes
-- central problem of how stimulation across multiple channels is coordinated in order to evoke a predictable, coherent visual scene
