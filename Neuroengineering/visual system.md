@@ -7,3 +7,6 @@
 - [[phosphene]]
 - late 1960s when Brindley and Lewin used focused electrical stimulation of the brain in blind subjects
 	- 80 electrode grid implanted on the medial surface of the occipital pole of the right hemisphere (placed subdurally, without penetration of the cortex) in 52 yo woman who had lost her vision as result of bilateral glaucoma
+	- 32 of 80 electrodes could evoke phosphenes
+- intact inner retina and primary visual cortex
+- optic nerve and LGN of thalamus
