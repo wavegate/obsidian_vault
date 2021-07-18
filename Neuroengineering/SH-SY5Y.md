@@ -31,6 +31,7 @@
 6.  [Neurobasal medium (NB).] (https://www.thermofisher.com/order/catalog/product/21103049#/21103049)
 	- Neurobasal Medium is a basal medium designed for long-term maintenance and maturation of pure pre-natal and embryonic neuronal cell populations without the need for an astrocyte feeder layer when used with [Gibco B-27 supplements](https://www.thermofisher.com/us/en/home/brands/gibco/gibco-b-27-supplement.html).
 	- $77.25 for 500 mL
+	- Ha
 7.  B27 supplement.
 	- The most cited neuronal cell culture supplement, B-27 Supplement is an optimized serum-free supplement used to support the low- or high-density growth and short- or long-term viability of embryonic, post-natal, and adult hippocampal and other CNS neurons.
 8.  GlutaMAX.
