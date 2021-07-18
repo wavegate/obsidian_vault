@@ -13,3 +13,4 @@
 # Definition
 ${\vec{x_1},\cdots,\vec{x_n}}$ is
 1) Linearly *dependent* if you can find $a_1,\cdots,a_n$ not *all* zero so $a_1\vec{x_1}+\cdots+a_n\vec{x_n}=\vec{0}$
+2) Linearly *independent* if $a_1\vec{x_1}+\cdots+a_n\vec{x_n}=\vec{0}$ forces $a_1=a_2=\cdots=a_n=0$
