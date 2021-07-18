@@ -6,4 +6,4 @@
 # Geometric problem
 - Suppose we have a list of vectors $\vec{a_{1}},...,\vec{a_n}$
 - Is the span, or linear combinations, of these vectors the entire space $\mathbb{R}^n$?
-- In other words, is $\span\{\vec{a_{1}},...,\vec{a_n}\} = \mathbb{R}^n$?
+- In other words, is $\operatorname{span\{\vec{a_{1}},...,\vec{a_n}\} = \mathbb{R}^n$?
