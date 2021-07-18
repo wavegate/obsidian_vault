@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "ea76ed8b6c73b898",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/Drawing 2021-07-18 16.17.02.excalidraw.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
