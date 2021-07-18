@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "933362b13e7633ba",
+        "id": "537e3cb4b69de4b7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "matrix equation Ax=b.md",
+            "file": "Abeta-fiber.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "matrix equation Ax=b.md",
+                "file": "Abeta-fiber.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -104,8 +104,17 @@
                 }
               }
             }
+          },
+          {
+            "id": "933362b13e7633ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "631a4937778670d5",
@@ -117,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "matrix equation Ax=b.md",
+                "file": "Abeta-fiber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,19 +141,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 632.5
+    "width": 1218.5
   },
-  "active": "933362b13e7633ba",
+  "active": "537e3cb4b69de4b7",
   "lastOpenFiles": [
-    "matrix equation Ax=b.md",
+    "Abeta-fiber.md",
+    "Alpha-AMS device.md",
+    "Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md",
     "linear algebra.md",
+    "matrix equation Ax=b.md",
     "Untitled.md",
     "geometry of solutions to Ax=b and Ax=0.md",
     "Excalidraw/Drawing 2021-07-18 16.17.02.excalidraw.md",
     "writing solutions to ax=b in vector form.md",
-    "determining linear independence vs linear dependence.md",
-    "linear dependence & independence.md",
-    "Excalidraw/Drawing 2021-07-18 13.34.36.excalidraw.md",
-    "Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md"
+    "determining linear independence vs linear dependence.md"
   ]
 }
