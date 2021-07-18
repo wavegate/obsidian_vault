@@ -4,4 +4,4 @@
 - Assume that not all $a_1=a_2=\cdots=a_n=0$ (otherwise it would be boring)
 - And that $\vec{x_i}\neq\vec{0}$
 - This means that these vectors are linearly dependent on each other
-- For example, suppose $a_1\neq0=>
+- For example, suppose $a_1\neq0\Rightarrow\vec{x_1}=$
