@@ -9,3 +9,7 @@
 
 
 ![[Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md]]
+
+# Definition
+${\vec{x_1},\cdots,\vec{x_n}}$ is
+1)
