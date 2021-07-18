@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "linear dependence & independence.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2021-07-18 13.34.36.excalidraw.md",
+                "file": "linear dependence & independence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2021-07-18 13.34.36.excalidraw.md",
+                "file": "linear dependence & independence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,10 +145,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "82c9ebc7deb28766",
+  "active": "933362b13e7633ba",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2021-07-18 13.34.36.excalidraw.md",
     "linear dependence & independence.md",
+    "Excalidraw/Drawing 2021-07-18 13.34.36.excalidraw.md",
     "Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md",
     "obsidian hotkeys.md",
     "Untitled.md",
