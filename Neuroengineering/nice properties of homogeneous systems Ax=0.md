@@ -5,4 +5,5 @@
 	- $A\vec{x_1}=A\vec{x_2}=\vec{0}$
 	- $A(\vec{x_1}+\vec{x_2})=A\vec{x_1}+A\vec{x_2}=\vec{0}$
 3) Every solution to $A\vec{x}=\vec{b}$ can be written as the sum of a homogeneous solution and a particular solution:
-	1) Say you have $A\vec{x_p}=\vec{b}
+	- Say you have $A\vec{x_p}=\vec{b},A\vec{x}=\vec{b}$ where $x_p$ is a particular solution and $x$ is any solution.
+	- $A(\vec{x}-\vec{x_p})=A\vec{x}-A\vec{x_p}=\vec{b}-\vec{b}=\vec{0} 
