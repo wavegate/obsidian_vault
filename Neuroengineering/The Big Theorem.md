@@ -17,5 +17,5 @@
 
 # The Big Theorem, Part 1
 - The following are equivalent (TFAE):
-	1) The columns of A span $\mathbb{R}^m$
-	2) For every $\vec{b}\in\mathbb{R}^m$
+	1) The columns of $A$ span $\mathbb{R}^m$
+	2) For every $\vec{b}\in\mathbb{R}^m$, $\vec{b}$ is some linear combination of the columns of $A$
