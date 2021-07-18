@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "can lab grown brains become conscious.md",
+            "file": "a new chimeric model to study human brain development and disease.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "can lab grown brains become conscious.md",
+                "file": "a new chimeric model to study human brain development and disease.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "can lab grown brains become conscious.md",
+                "file": "a new chimeric model to study human brain development and disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,9 +136,9 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "Untitled.md",
     "can lab grown brains become conscious.md",
     "restoration of brain circulation and cellular functions hours post-mortem.md",
-    "Untitled.md",
     "artificial intelligence.md",
     "artificial_intelligence.md",
     "computational model DRG.md",
