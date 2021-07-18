@@ -9,4 +9,4 @@ application of fine-grained electrical stimulation to the visual pathway pattern
 - optic nerve and LGN of thalamus
 - the only systems currently approved for clinical use target the retina: Argus II, Alpha AMS, and IRIS II
 
-despite active pre-clinical efforts in optic nerve, preferred target in the field continues to b
+despite active pre-clinical efforts in optic nerve, preferred target in the field continues to be the retina
