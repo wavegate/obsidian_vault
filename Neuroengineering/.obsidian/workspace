@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cerebral organoids at the air-liquid interface generate diverse nerve tracts with functional output.md",
+            "file": "nenad sestan.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cerebral organoids at the air-liquid interface generate diverse nerve tracts with functional output.md",
+                "file": "nenad sestan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cerebral organoids at the air-liquid interface generate diverse nerve tracts with functional output.md",
+                "file": "nenad sestan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,11 +136,11 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "Untitled.md",
     "cerebral organoids at the air-liquid interface generate diverse nerve tracts with functional output.md",
     "can lab grown brains become conscious.md",
     "integrated information theory.md",
     "a new chimeric model to study human brain development and disease.md",
-    "Untitled.md",
     "restoration of brain circulation and cellular functions hours post-mortem.md",
     "artificial intelligence.md",
     "artificial_intelligence.md",
