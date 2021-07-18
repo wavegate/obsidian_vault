@@ -19,5 +19,4 @@
 - The following are equivalent (TFAE):
 	1) The columns of $A$ span $\mathbb{R}^m$
 		1) For every $\vec{b}\in\mathbb{R}^m$, $\vec{b}=x_1\vec{a_1}+...+x_n\vec{a_n}$ for some $x_1,...,x_n$
-		2) In other words, 
 	2) For every $\vec{b}\in\mathbb{R}^m$, $\vec{b}$ is some linear combination of the columns of $A$
