@@ -36,8 +36,8 @@
 	- The most cited neuronal cell culture supplement, B-27 Supplement is an optimized serum-free supplement used to support the low- or high-density growth and short- or long-term viability of embryonic, post-natal, and adult hippocampal and other CNS neurons.
 	- $107.00 for 10 mL
 8.  GlutaMAX. (included above)
-9.  All-_trans_-retinoic acid (ATRA).
-	- 
+9.  [All-_trans_-retinoic acid (ATRA).] (https://www.fishersci.com/shop/products/all-trans-retinoic-acid-97-acros-organics-3/AC207341000)
+	- $42.49 for 100mg
 10.  [DMSO.] (https://www.atcc.org/products/4-x)
 	- Cyroprotectant for the cryopreservation of cell lines
 	- $49.00 
