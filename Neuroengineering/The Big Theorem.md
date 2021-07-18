@@ -25,4 +25,4 @@
 
 # Proof
 - Let $\begin{bmatrix}A & \vdots & \vec{b}\end{bmatrix}$ be the augmented matrix for $A\vec{x}=\vec{b}$.
-- $\begin{bmatrix}A & \vdots & \vec{b}\end{bmatrix}$
+- $\begin{bmatrix}A & \vdots & \vec{b}\end{bmatrix} \xrightarrow[\text{REF}]$
