@@ -5,3 +5,5 @@
 - [[vision]]
 - LGN in turn sends output through optic radiation to primary visual cortex, V1, where signals branch out to other higher-order centers
 - [[phosphene]]
+- late 1960s when Brindley and Lewin used focused electrical stimulation of the brain in blind subjects
+	- 80 electrode grid implanted on the medial surface of the occipital pole of the right hemisphere (placed subdurally, without penetration of the cortex) in 52 yo woman who had lost her vision as result of bilateral glaucoma
