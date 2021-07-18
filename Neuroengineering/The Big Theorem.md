@@ -5,7 +5,7 @@
 
 # Geometric problem
 - Suppose we have a list of vectors $\vec{a_{1}},...,\vec{a_n}$
-- Is the span, or linear combinations, of these vectors the entire space $\mathbb{R}^n$?
-- In other words, is $\operatorname{span}\{\vec{a_{1}},...,\vec{a_n}\} = \mathbb{R}^n$?
+- Is the span, or linear combinations, of these vectors the entire space $\mathbb{R}^m$?
+- In other words, is $\operatorname{span}\{\vec{a_{1}},...,\vec{a_n}\} = \mathbb{R}^m$?
 - Note that there are $m$ vectors, but each of these vectors has $n$ components.
-- If our vectors are in line with each other, their span 
+- If our vectors are in line with each other, their span does not make up $\mathbb{R}^m$.
