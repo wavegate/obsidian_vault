@@ -24,3 +24,4 @@
 	4) The RREF of A has a leading 1 (or pivot) in every row
 
 # Proof
+- Let $\begin{bmatrix}A & \vdots & \vec{b}\end{bmatrix}
