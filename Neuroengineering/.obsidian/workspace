@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computational model DRG.md",
+            "file": "can lab grown brains become conscious.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "computational model DRG.md",
+                "file": "can lab grown brains become conscious.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computational model DRG.md",
+                "file": "can lab grown brains become conscious.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,15 +136,15 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "can lab grown brains become conscious.md",
+    "artificial intelligence.md",
+    "artificial_intelligence.md",
+    "Untitled.md",
     "computational model DRG.md",
     "Characterisation of Nav1.7 functional expression in rat dorsal root ganglia neurons by using an electrical field stimulation assay.md",
     "brain_machine_interface.md",
     "bipolar depression.md",
     "biology.md",
-    "bioelectronic medicine.md",
-    "AXIS axon isolation system.md",
-    "artificial_intelligence.md",
-    "Cas9.md",
-    "C-fiber.md"
+    "bioelectronic medicine.md"
   ]
 }
