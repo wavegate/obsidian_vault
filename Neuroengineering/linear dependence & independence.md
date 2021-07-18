@@ -16,4 +16,4 @@ ${\vec{x_1},\cdots,\vec{x_n}}$ is
 2) Linearly *independent* if $a_1\vec{x_1}+\cdots+a_n\vec{x_n}=\vec{0}$ forces $a_1=a_2=\cdots=a_n=0$
 
 ![[Excalidraw/Drawing 2021-07-18 13.34.36.excalidraw.md]]
-Because you cannot make $\vec{z}$ with the other two vectors, it is LI (liearly independent) from the other two.
+Because you cannot make $\vec{z}$ as a linear combination of the other two vectors, it is LI (liearly independent) from the other two.
