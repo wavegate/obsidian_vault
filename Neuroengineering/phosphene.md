@@ -1,2 +1,5 @@
 - electrically-generated pixels of artificial vision
--mechanical stimu
+-mechanical stimulation has been recognized as a means to create phosphenes for thousands of years as initially described by Alcmaeon in 5th century BC
+- electrical stimulation has been recognized for over 200 years
+- Le Roy, in an unsuccessful attepmt to cure blindness, applied electric shocks to a blind patient's head, inducing temporary, vivid phosphenes
+- 
