@@ -7,8 +7,11 @@
         "id": "933362b13e7633ba",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SH-SY5Y.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "SH-SY5Y.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -113,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SH-SY5Y.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +136,15 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "SH-SY5Y.md",
+    "product development.md",
+    "picking the correct cell line.md",
+    "photonics.md",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "thin films.md",
     "techops.md",
-    "surgical placement of penetrating neural interfaces.md",
-    "signal processing.md",
-    "rat dorsal root ganglion neurons RDRGN.md",
-    "PRIMA device.md",
-    "Pasted image 20210717140434.png"
+    "surgical placement of penetrating neural interfaces.md"
   ]
 }
