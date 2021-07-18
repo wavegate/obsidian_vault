@@ -10,3 +10,4 @@
 	- 32 of 80 electrodes could evoke phosphenes
 - intact inner retina and primary visual cortex
 - optic nerve and LGN of thalamus
+- the only systems currently approved for clinical use target the retina: Argus II, Alpha AMS, and IRIS II

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "visual system.md",
+            "file": "Argus II.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "visual system.md",
+                "file": "Argus II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +95,9 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "Untitled 3.md",
     "visual system.md",
     "phosphene.md",
-    "Untitled 3.md",
     "SH-SY5Y.md",
     "Fetal Bovine Serum (FBS).md",
     "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
