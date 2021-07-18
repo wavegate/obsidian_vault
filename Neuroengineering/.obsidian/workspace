@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characterisation of Nav1.7 functional expression in rat dorsal root ganglia neurons by using an electrical field stimulation assay.md",
+            "file": "brain_machine_interface.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Characterisation of Nav1.7 functional expression in rat dorsal root ganglia neurons by using an electrical field stimulation assay.md",
+                "file": "brain_machine_interface.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characterisation of Nav1.7 functional expression in rat dorsal root ganglia neurons by using an electrical field stimulation assay.md",
+                "file": "brain_machine_interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,15 +136,15 @@
   },
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
+    "brain_machine_interface.md",
+    "bipolar depression.md",
+    "biology.md",
+    "bioelectronic medicine.md",
+    "AXIS axon isolation system.md",
+    "artificial_intelligence.md",
     "Characterisation of Nav1.7 functional expression in rat dorsal root ganglia neurons by using an electrical field stimulation assay.md",
     "Cas9.md",
     "C-fiber.md",
-    "business.md",
-    "Argus II.md",
-    "Excalidraw/Drawing 2021-07-17 12.59.49.excalidraw.md",
-    "Abeta-fiber.md",
-    "anatomy.md",
-    "Alpha-AMS device.md",
-    "2643.full.pdf"
+    "business.md"
   ]
 }
