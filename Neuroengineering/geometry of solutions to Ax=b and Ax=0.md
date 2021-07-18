@@ -12,3 +12,4 @@
 - Take each row without a leading one and convert that to a variable: $x_2=s$ and $x_1=-2s$
 - Convert this into vector form: $\vec{x_h}=s\begin{pmatrix}-2\\1\end{pmatrix}$
 - In other words, the solution to the matrix is a line through the origin
+- ![[Excalidraw/Drawing 2021-07-18 16.17.02.excalidraw.md]]

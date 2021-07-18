@@ -10,17 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "geometry of solutions to Ax=b and Ax=0.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ea76ed8b6c73b898",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2021-07-18 16.17.02.excalidraw.md"
+            "mode": "preview"
           }
         }
       }
@@ -147,6 +137,7 @@
   "active": "933362b13e7633ba",
   "lastOpenFiles": [
     "geometry of solutions to Ax=b and Ax=0.md",
+    "Excalidraw/Drawing 2021-07-18 16.17.02.excalidraw.md",
     "writing solutions to ax=b in vector form.md",
     "determining linear independence vs linear dependence.md",
     "Untitled.md",
@@ -154,7 +145,6 @@
     "matrix equation Ax=b.md",
     "linear dependence & independence.md",
     "Excalidraw/Drawing 2021-07-18 13.34.36.excalidraw.md",
-    "Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md",
-    "obsidian hotkeys.md"
+    "Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md"
   ]
 }
