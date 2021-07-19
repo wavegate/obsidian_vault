@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "medicine.md",
+            "file": "neuroscience.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "medicine.md",
+                "file": "neuroscience.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "medicine.md",
+                "file": "neuroscience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "neuroscience.md",
     "Untitled 4.md",
     "mathematics.md",
     "materials.md",
@@ -153,7 +154,6 @@
     "electrical engineering.md",
     "data science.md",
     "computer science.md",
-    "Untitled 3.md",
-    "chemistry.md"
+    "Untitled 3.md"
   ]
 }
