@@ -3,3 +3,8 @@
 - a transformation $T:\mathbb{R}^n\rightarrow\mathbb{R}^m$ aka $T(\vec{x})=\vec{y}$
 - There is a unique output for every input.
 - $\mathbb{R}^n$ is the domain and $\mathbb{R}^m$ is the codomain
+
+
+# Examples
+
+![[Pasted image 20210718203046.png]]
