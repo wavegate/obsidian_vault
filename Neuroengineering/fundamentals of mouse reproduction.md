@@ -1,3 +1,5 @@
 - sexually mature 6-8 weeks
 - can breed for 7-8 months, producing four or more litters
 - nearly less than half of c57L/J breeder pairs are fertile
+- gestation is 18.5 days in c57bl/6j mice
+- generation time is about 12 weeks: 3 weeks getation, 3-4 weeks suckling, and 
