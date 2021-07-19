@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "data science.md",
+            "file": "electrical engineering.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "data science.md",
+                "file": "electrical engineering.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data science.md",
+                "file": "electrical engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "electrical engineering.md",
     "data science.md",
     "Untitled 4.md",
     "computer science.md",
@@ -153,7 +154,6 @@
     "Untitled 2.md",
     "business.md",
     "medical product prototyping.md",
-    "medical product ideation.md",
-    "medical product entrepreneurship.md"
+    "medical product ideation.md"
   ]
 }
