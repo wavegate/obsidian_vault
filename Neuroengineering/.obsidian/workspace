@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "neuroscience.md",
+            "file": "robotics.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "neuroscience.md",
+                "file": "robotics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neuroscience.md",
+                "file": "robotics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +145,15 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "robotics.md",
+    "physics.md",
+    "photonics.md",
     "neuroscience.md",
     "Untitled 4.md",
     "mathematics.md",
     "materials.md",
     "industrial engineering.md",
     "imaging.md",
-    "electrical engineering.md",
-    "data science.md",
-    "computer science.md",
-    "Untitled 3.md"
+    "electrical engineering.md"
   ]
 }
