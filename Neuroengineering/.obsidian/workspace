@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "immunology.md",
+            "file": "biology.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "immunology.md",
+                "file": "biology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "immunology.md",
+                "file": "biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,8 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "biology.md",
+    "Untitled.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
@@ -152,8 +154,6 @@
     "integrated information theory.md",
     "can lab grown brains become conscious.md",
     "cellular automata.md",
-    "Untitled.md",
-    "computer modeling of natural processes.md",
-    "bipolar depression.md"
+    "computer modeling of natural processes.md"
   ]
 }
