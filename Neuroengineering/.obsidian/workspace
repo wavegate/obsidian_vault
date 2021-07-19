@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer modeling of natural processes.md",
+            "file": "cellular automata.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "computer modeling of natural processes.md",
+                "file": "cellular automata.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer modeling of natural processes.md",
+                "file": "cellular automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +145,15 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
-    "computer modeling of natural processes.md",
+    "cellular automata.md",
     "Untitled.md",
+    "computer modeling of natural processes.md",
     "bipolar depression.md",
     "Argus II.md",
     "anatomy.md",
     "Alpha-AMS device.md",
     "Abeta-fiber.md",
     "anatomy and physiology.md",
-    "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
-    "linear dependence & independence.md"
+    "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md"
   ]
 }

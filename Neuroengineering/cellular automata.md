@@ -1,0 +1,1 @@
+[[monte carlo simulation]][[theory of self-organized criticality]][[scale invariance and fractals]][[spatial and temporal correlations and memory]][[sandpile]][[forest-fire]][[Manna]][[OFC]][[slider-block]][[earthquakes]][[friction laws]][[modeling of fracture and flow of materials and rocks]][[fiber-bundle model]][[percolation and dif]]
