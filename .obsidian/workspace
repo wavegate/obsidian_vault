@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "viruses.md",
-            "mode": "source"
+            "file": "Neuroengineering/Models for DRG Testing.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "viruses.md",
+                "file": "Neuroengineering/Models for DRG Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "d2e86f760d8b5148",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Neuroengineering/Models for DRG Testing.md",
+    "Untitled 1.md",
     "Neuroengineering/SH-SY5Y.md",
     "Untitled.md",
     "Neuroengineering/Modelling the dorsal root ganglia using human pluripotent stem cells -  A platform to study peripheral neuropathies.md",
