@@ -1,1 +1,1 @@
-[[stochastic]][[monte carlo simulation]][[cellular automata]]{{stochastic}}
+[[stochastic]][[monte carlo simulation]][[cellular automata]]
