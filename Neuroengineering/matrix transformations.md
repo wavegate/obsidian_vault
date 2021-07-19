@@ -6,5 +6,7 @@
 
 
 # Examples
-
-![[Pasted image 20210718203046.png]]
+Expansion = makes the vector longer/shorter
+Reflection = reflects the vector across x=y
+Sheer = 
+![[Pasted image 20210718203155.png]]
