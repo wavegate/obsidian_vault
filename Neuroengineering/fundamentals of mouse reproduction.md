@@ -1,0 +1,2 @@
+- sexually mature 6-8 weeks
+- can breed for 7-8 months, producing four or more litters
