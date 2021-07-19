@@ -2,4 +2,6 @@
 - can breed for 7-8 months, producing four or more litters
 - nearly less than half of c57L/J breeder pairs are fertile
 - gestation is 18.5 days in c57bl/6j mice
-- generation time is about 12 weeks: 3 weeks getation, 3-4 weeks suckling, and 
+- generation time is about 12 weeks: 3 weeks getation, 3-4 weeks suckling, and 5-6 weeks until sexual maturity
+- litter size ranges from 2-3 pups/litter to 12+ pups in some
+- weaning between 18-28 days depending on weanling size and maturity, most are weaned at 21 days old
