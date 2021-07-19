@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "the anatomy of melancholy.md",
+            "file": "symptoms of despair, fear, sorrow, suspicion, anxiety, horror of conscience, fearful dreams and visions.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "the anatomy of melancholy.md",
+                "file": "symptoms of despair, fear, sorrow, suspicion, anxiety, horror of conscience, fearful dreams and visions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the anatomy of melancholy.md",
+                "file": "symptoms of despair, fear, sorrow, suspicion, anxiety, horror of conscience, fearful dreams and visions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
