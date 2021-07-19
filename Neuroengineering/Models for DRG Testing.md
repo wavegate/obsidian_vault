@@ -49,7 +49,7 @@
 ## Stem Cells
 | Pros | Cons |
 | ---- | ---- |
-| Capable of long-term self-renewal     |      |
+| Capable of long-term self-renewal     |  Have to differentiate for a long time    |
 
 ### N27
 - Rat dopaminergic neural crest line.
