@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wolfram.md",
+            "file": "computer modeling of natural processes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Wolfram.md",
+                "file": "computer modeling of natural processes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wolfram.md",
+                "file": "computer modeling of natural processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "computer modeling of natural processes.md",
     "Untitled.md",
     "bipolar depression.md",
     "Argus II.md",
@@ -153,7 +154,6 @@
     "Abeta-fiber.md",
     "anatomy and physiology.md",
     "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
-    "linear dependence & independence.md",
-    "nice properties of homogeneous systems Ax=0.md"
+    "linear dependence & independence.md"
   ]
 }
