@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linear transformations.md",
+            "file": "immunology.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "linear transformations.md",
+                "file": "immunology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear transformations.md",
+                "file": "immunology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +145,15 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
     "Untitled 1.md",
     "integrated information theory.md",
     "can lab grown brains become conscious.md",
     "cellular automata.md",
     "Untitled.md",
     "computer modeling of natural processes.md",
-    "bipolar depression.md",
-    "Argus II.md",
-    "anatomy.md",
-    "Alpha-AMS device.md"
+    "bipolar depression.md"
   ]
 }
