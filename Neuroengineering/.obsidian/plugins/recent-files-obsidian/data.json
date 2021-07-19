@@ -5,6 +5,10 @@
       "path": "symptoms of despair, fear, sorrow, suspicion, anxiety, horror of conscience, fearful dreams and visions.md"
     },
     {
+      "basename": "6736",
+      "path": "6736.md"
+    },
+    {
       "basename": "the anatomy of melancholy",
       "path": "the anatomy of melancholy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "systems approach inflammation",
       "path": "systems approach inflammation.md"
-    },
-    {
-      "basename": "systemic physiology",
-      "path": "systemic physiology.md"
     }
   ],
   "omittedPaths": [],
