@@ -1,2 +1,3 @@
 - sexually mature 6-8 weeks
 - can breed for 7-8 months, producing four or more litters
+- nearly less than half of c57L/J breeder pairs are fertile
