@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Neuroengineering/bipolar depression.md",
-            "mode": "source"
+            "file": "Neuroengineering/SH-SY5Y.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuroengineering/bipolar depression.md",
+                "file": "Neuroengineering/SH-SY5Y.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,15 @@
   },
   "active": "d2e86f760d8b5148",
   "lastOpenFiles": [
+    "Neuroengineering/SH-SY5Y.md",
+    "Neuroengineering/Models for DRG Testing.md",
+    "Neuroengineering/Modelling the dorsal root ganglia using human pluripotent stem cells -  A platform to study peripheral neuropathies.md",
     "Neuroengineering/bipolar depression.md",
     "Neuroengineering/Argus II.md",
     "Neuroengineering/Abeta-fiber.md",
     "Neuroengineering/Alpha-AMS device.md",
     "Neuroengineering/Cas9.md",
     "Neuroengineering/biology.md",
-    "Neuroengineering/anatomy.md",
-    "Neuroengineering/A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md"
+    "Neuroengineering/anatomy.md"
   ]
 }
