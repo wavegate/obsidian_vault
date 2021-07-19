@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 2.md",
+            "file": "data science.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "data science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "data science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +145,15 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "data science.md",
+    "Untitled 4.md",
+    "computer science.md",
+    "Untitled 3.md",
+    "chemistry.md",
     "Untitled 2.md",
     "business.md",
     "medical product prototyping.md",
     "medical product ideation.md",
-    "medical product entrepreneurship.md",
-    "medical product development.md",
-    "commercializing new technologies.md",
-    "polymers.md",
-    "chemical engineering.md",
-    "Untitled 1.md"
+    "medical product entrepreneurship.md"
   ]
 }
