@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "scRNA-seq.md",
     "Untitled 4.md",
     "robotics.md",
     "physics.md",
@@ -153,7 +154,6 @@
     "mathematics.md",
     "materials.md",
     "industrial engineering.md",
-    "imaging.md",
-    "electrical engineering.md"
+    "imaging.md"
   ]
 }
