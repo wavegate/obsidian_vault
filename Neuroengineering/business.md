@@ -1,0 +1,1 @@
+[[commercializing new technologies]][[medical product development]][[medical product entrepreneurship]][[medical product ideation]][[medical product prototyping]]

@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "537e3cb4b69de4b7",
+        "id": "0f76718a1dc73a79",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "scRNA-seq.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "augmen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 737.5
+    "width": 221.5
   },
   "right": {
     "id": "cceefa140642bb7f",
@@ -73,6 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "scRNA-seq.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "scRNA-seq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,19 +141,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 755.5
+    "width": 318.5
   },
-  "active": "537e3cb4b69de4b7",
+  "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
-    "anatomy and physiology.md",
-    "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md",
-    "linear dependence & independence.md",
-    "nice properties of homogeneous systems Ax=0.md",
-    "Abeta-fiber.md",
-    "Alpha-AMS device.md",
-    "Excalidraw/Drawing 2021-07-18 13.16.54.excalidraw.md",
-    "linear algebra.md",
-    "matrix equation Ax=b.md",
-    "Untitled.md"
+    "Untitled 4.md",
+    "robotics.md",
+    "physics.md",
+    "photonics.md",
+    "neuroscience.md",
+    "mathematics.md",
+    "materials.md",
+    "industrial engineering.md",
+    "imaging.md",
+    "electrical engineering.md"
   ]
 }
