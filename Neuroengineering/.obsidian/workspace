@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cellular automata.md",
+            "file": "can lab grown brains become conscious.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "augmen",
+                "query": "conscious",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cellular automata.md",
+                "file": "can lab grown brains become conscious.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cellular automata.md",
+                "file": "can lab grown brains become conscious.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +146,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "can lab grown brains become conscious.md",
     "cellular automata.md",
     "Untitled.md",
     "computer modeling of natural processes.md",
@@ -153,7 +155,6 @@
     "anatomy.md",
     "Alpha-AMS device.md",
     "Abeta-fiber.md",
-    "anatomy and physiology.md",
-    "A computational model of a small DRG neuron to explore pain (Verma et al. 2019, 2020).md"
+    "anatomy and physiology.md"
   ]
 }
