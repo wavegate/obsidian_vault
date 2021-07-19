@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "the anatomy of melancholy",
+      "path": "the anatomy of melancholy.md"
+    },
+    {
       "basename": "scRNA-seq",
       "path": "scRNA-seq.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "machine learning",
       "path": "machine learning.md"
-    },
-    {
-      "basename": "linear transformations",
-      "path": "linear transformations.md"
     }
   ],
   "omittedPaths": [],

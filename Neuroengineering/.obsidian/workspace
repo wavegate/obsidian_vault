@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "scRNA-seq.md",
+            "file": "the anatomy of melancholy.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "scRNA-seq.md",
+                "file": "the anatomy of melancholy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scRNA-seq.md",
+                "file": "the anatomy of melancholy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,8 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
-    "scRNA-seq.md",
     "Untitled 4.md",
+    "scRNA-seq.md",
     "robotics.md",
     "physics.md",
     "photonics.md",
