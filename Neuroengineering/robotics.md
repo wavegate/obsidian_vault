@@ -1,1 +1,1 @@
-[[advanced perception]][[computer vision]][[kinematics dynamic systems and control]][[mathematical fundamentals for robotics]][[mechanics of manipulation]][[mobile robot programming]][[]]
+[[advanced perception]][[computer vision]][[kinematics dynamic systems and control]][[mathematical fundamentals for robotics]][[mechanics of manipulation]][[mobile robot programming]][[robotic manipulation]][[sensing and sensors]]
