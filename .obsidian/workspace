@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Neuroengineering/Models for DRG Testing.md",
-            "mode": "preview"
+            "file": "Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuroengineering/Models for DRG Testing.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "d2e86f760d8b5148",
   "lastOpenFiles": [
+    "Untitled.md",
     "Neuroengineering/Models for DRG Testing.md",
     "Neuroengineering/SH-SY5Y.md",
     "Neuroengineering/Modelling the dorsal root ganglia using human pluripotent stem cells -  A platform to study peripheral neuropathies.md",
@@ -96,7 +97,6 @@
     "Neuroengineering/Abeta-fiber.md",
     "Neuroengineering/Alpha-AMS device.md",
     "Neuroengineering/Cas9.md",
-    "Neuroengineering/biology.md",
-    "Neuroengineering/anatomy.md"
+    "Neuroengineering/biology.md"
   ]
 }
