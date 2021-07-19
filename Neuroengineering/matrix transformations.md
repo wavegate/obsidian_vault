@@ -6,7 +6,7 @@
 
 
 # Examples
-Expansion = makes the vector longer/shorter
-Reflection = reflects the vector across x=y
-Sheer = 
+- Expansion = makes the vector longer/shorter
+- Reflection = reflects the vector across x=y
+- Shear = keeps one component the same but stretches the other
 ![[Pasted image 20210718203155.png]]
