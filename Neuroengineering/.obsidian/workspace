@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mathematics.md",
+            "file": "Untitled 4.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mathematics.md",
+                "file": "Untitled 4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathematics.md",
+                "file": "Untitled 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,13 +145,13 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "Untitled 4.md",
     "mathematics.md",
     "materials.md",
     "industrial engineering.md",
     "imaging.md",
     "electrical engineering.md",
     "data science.md",
-    "Untitled 4.md",
     "computer science.md",
     "Untitled 3.md",
     "chemistry.md"

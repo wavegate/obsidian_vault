@@ -1,1 +1,1 @@
-[[algebra]][[applied mathematics]][[bifurcation theory]][[calculus]][[computational neuroscience methods]][]
+[[algebra]][[applied mathematics]][[bifurcation theory]][[calculus]][[computational neuroscience methods]][[differential equations]][[differential geometry]][[dynamical systems]][[estimation theory]][[information theory]][[linear algebra]][[linear and complex analysis]][[math in scientific computing]][[mathematical biology]][[mathematical neuroscience]][[matrices and linear operators]][[partial differential equations]][[probability]][[statistics]]
