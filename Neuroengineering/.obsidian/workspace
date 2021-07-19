@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "imaging.md",
+            "file": "mathematics.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "imaging.md",
+                "file": "mathematics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imaging.md",
+                "file": "mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +145,15 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "mathematics.md",
+    "materials.md",
+    "industrial engineering.md",
     "imaging.md",
     "electrical engineering.md",
     "data science.md",
     "Untitled 4.md",
     "computer science.md",
     "Untitled 3.md",
-    "chemistry.md",
-    "Untitled 2.md",
-    "business.md",
-    "medical product prototyping.md"
+    "chemistry.md"
   ]
 }
