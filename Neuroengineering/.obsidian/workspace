@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "can lab grown brains become conscious.md",
+            "file": "integrated information theory.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "can lab grown brains become conscious.md",
+                "file": "integrated information theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "can lab grown brains become conscious.md",
+                "file": "integrated information theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +146,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "integrated information theory.md",
     "can lab grown brains become conscious.md",
     "cellular automata.md",
     "Untitled.md",
@@ -154,7 +155,6 @@
     "Argus II.md",
     "anatomy.md",
     "Alpha-AMS device.md",
-    "Abeta-fiber.md",
-    "anatomy and physiology.md"
+    "Abeta-fiber.md"
   ]
 }
