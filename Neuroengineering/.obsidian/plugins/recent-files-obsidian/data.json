@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "fundamentals of mouse reproduction",
+      "path": "fundamentals of mouse reproduction.md"
+    },
+    {
+      "basename": "mouse breeding",
+      "path": "mouse breeding.md"
+    },
+    {
       "basename": "symptoms of despair, fear, sorrow, suspicion, anxiety, horror of conscience, fearful dreams and visions",
       "path": "symptoms of despair, fear, sorrow, suspicion, anxiety, horror of conscience, fearful dreams and visions.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "cancer biology",
       "path": "cancer biology.md"
-    },
-    {
-      "basename": "angiogenesis",
-      "path": "angiogenesis.md"
-    },
-    {
-      "basename": "systems approach inflammation",
-      "path": "systems approach inflammation.md"
     }
   ],
   "omittedPaths": [],
