@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "row echelon form",
+      "path": "row echelon form.md"
+    },
+    {
+      "basename": "pivot",
+      "path": "pivot.md"
+    },
+    {
       "basename": "elementary transformations",
       "path": "elementary transformations.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "chemical engineering",
       "path": "chemical engineering.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     }
   ],
   "omittedPaths": [],

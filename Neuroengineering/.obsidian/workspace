@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "elementary transformations.md",
+            "file": "row echelon form.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "elementary transformations.md",
+                "file": "row echelon form.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "elementary transformations.md",
+                "file": "row echelon form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,9 +145,9 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "Untitled 4.md",
     "elementary transformations.md",
     "solving systems of linear equations.md",
-    "Untitled 4.md",
     "mathematics for machine learning.md",
     "matrix.md",
     "linear affine mapping.md",
