@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "vector",
+      "path": "vector.md"
+    },
+    {
       "basename": "mathematics for machine learning",
       "path": "mathematics for machine learning.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "cell therapy",
       "path": "cell therapy.md"
-    },
-    {
-      "basename": "cell biology",
-      "path": "cell biology.md"
     }
   ],
   "omittedPaths": [],
