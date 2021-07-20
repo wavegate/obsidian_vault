@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "group",
+      "path": "group.md"
+    },
+    {
+      "basename": "Untitled 6",
+      "path": "Untitled 6.md"
+    },
+    {
       "basename": "modular arithmetic",
       "path": "modular arithmetic.md"
     },
     {
       "basename": "closure",
       "path": "closure.md"
-    },
-    {
-      "basename": "group",
-      "path": "group.md"
     },
     {
       "basename": "Gaussian elimination",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 3",
       "path": "Untitled 3.md"
-    },
-    {
-      "basename": "chemistry",
-      "path": "chemistry.md"
     }
   ],
   "omittedPaths": [],

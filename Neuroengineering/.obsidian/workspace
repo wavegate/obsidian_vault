@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "modular arithmetic.md",
+            "file": "group.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "modular arithmetic.md",
+                "file": "group.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modular arithmetic.md",
+                "file": "group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,9 +145,9 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "group.md",
     "Untitled 6.md",
     "closure.md",
-    "group.md",
     "Gaussian elimination.md",
     "mathematics for machine learning.md",
     "matrix inverse.md",
