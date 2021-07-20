@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "matrix inverse",
+      "path": "matrix inverse.md"
+    },
+    {
+      "basename": "Untitled 5",
+      "path": "Untitled 5.md"
+    },
+    {
       "basename": "the minus-1 trick",
       "path": "the minus-1 trick.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "medical product prototyping",
       "path": "medical product prototyping.md"
-    },
-    {
-      "basename": "medical product ideation",
-      "path": "medical product ideation.md"
-    },
-    {
-      "basename": "medical product entrepreneurship",
-      "path": "medical product entrepreneurship.md"
     }
   ],
   "omittedPaths": [],

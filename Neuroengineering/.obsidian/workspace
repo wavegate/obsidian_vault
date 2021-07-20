@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "the minus-1 trick.md",
+            "file": "matrix inverse.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "the minus-1 trick.md",
+                "file": "matrix inverse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the minus-1 trick.md",
+                "file": "matrix inverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "matrix inverse.md",
     "Untitled 5.md",
     "reduced row echelon form.md",
     "Untitled 4.md",
@@ -153,7 +154,6 @@
     "mathematics for machine learning.md",
     "matrix.md",
     "linear affine mapping.md",
-    "basis.md",
-    "linear independence.md"
+    "basis.md"
   ]
 }
