@@ -1,3 +1,3 @@
 gaussian elimination is an intuitive and constructive way to solve a system of linaer equations with thousands of variables
 however, for systems with millions of variables, it is impractical as the required number of arithmetic operations scales cubically in the number of simultaneous equations
-in practice, systems are solved indirectly by either stationary iterative methods, such as the [[Richardson method]][[Jacobi method]][[GauB-Seidel method]][[successive over-relaxation metho]]
+in practice, systems are solved indirectly by either stationary iterative methods, such as the [[Richardson method]][[Jacobi method]][[GauB-Seidel method]][[successive over-relaxation method]][[Krylov subspace methods]][[conjugate gradients]][[generalized minimal residual]][[biconjugate gradients]]
