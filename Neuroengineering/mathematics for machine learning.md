@@ -57,4 +57,5 @@ many optimization techniques require the concept of a gradient, which tells us t
 audio signals are vectors
 elements of $\mathbb{R}^n$ (tuples of $n$ real numbers) are vectors
 
-[[closure]] the question: what is the set of all things that ca
+[[closure]] the question: what is the set of all things that can result from my proposed operations?
+- in the case of vectors: what is the set of vectors that can result by starting with a small set of vectors, and adding them to each other and scaling them? this resluts in a [[vector space]]
