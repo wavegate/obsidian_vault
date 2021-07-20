@@ -9,5 +9,5 @@ By convention $(1,n)$-matrices are called [[rows]] and $(m,1)$-matrices are call
 # Matrix addition and multiplication
 Multiplication involves dot product
 Can only be multiplied if "neighboring" dimensions match
-If matrix A is n x k and matrix B is k x m, AB works, but BA doenst work if n is not equal to m
+If matrix A is n x k and matrix B is k x m, AB works, but BA doenst work if n is not equal to m; in other words, matrix multiplication is not commutative
 Matrix multiplication is NOT element-wise... element-wise multiplication is called [[Hadamard product]]
