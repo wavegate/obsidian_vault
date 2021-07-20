@@ -40,3 +40,4 @@ We call (n,n)-matrices [[square matrices]] because they possess the same number 
 - The sum of symmetric matrices is always symmetric, but their product is generally not symmetric (but always defined)
 
 # Multiplication by a scalar
+Demonstrates associativity and 
