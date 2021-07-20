@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "closure",
+      "path": "closure.md"
+    },
+    {
       "basename": "group",
       "path": "group.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 2",
       "path": "Untitled 2.md"
-    },
-    {
-      "basename": "business",
-      "path": "business.md"
     }
   ],
   "omittedPaths": [],
