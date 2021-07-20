@@ -21,3 +21,7 @@ we represent numerical data as vectors and represent a table of such data as a m
 the study of vectors and matrices is called [[linear algebra]]
 
 vectors that are similar should be predicted to have similar outputs by our machine learning algorithm (our predictor)
+to formalize the idea of similarity between vectors, we need to introduce operations that take two vectors as input and return a numerical value representing their similarity
+construction of similarity and distances is central to [[analytic geometry]]
+
+[[matrix decomposition]]
