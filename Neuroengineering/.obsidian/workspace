@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "general linear group.md",
-            "mode": "source"
+            "file": "group.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "general linear group.md",
+                "file": "group.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "general linear group.md",
+                "file": "group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,8 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
-    "Untitled 7.md",
     "group.md",
+    "Untitled 7.md",
     "Untitled 6.md",
     "closure.md",
     "Gaussian elimination.md",
