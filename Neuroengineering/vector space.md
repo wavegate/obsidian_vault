@@ -4,4 +4,4 @@ n-dimensional space ("n-space") are all the vectors that can be described by vec
 
 ![[Pasted image 20210720013853.png]]
 
-vectors form a 
+vectors form a [[commutative group]]
