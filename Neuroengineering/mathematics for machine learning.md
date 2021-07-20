@@ -41,4 +41,4 @@ many optimization techniques require the concept of a gradient, which tells us t
 - key objective is to find a compact, lower=dimensional representation of high-dimensional data $x \in \mathbb{R}^D$, which is often easier to analyze than the original data
 - unlike regression, there are no labels associated with data points
 
-[[density estimation]]
+[[density estimation]] - objective is to find a probability distribution that describes a given dataset
