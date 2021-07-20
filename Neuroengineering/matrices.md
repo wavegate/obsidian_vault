@@ -15,3 +15,5 @@ Matrix multiplication is NOT element-wise... element-wise multiplication is call
 [[identity matrix]] nxn matrix containing 1 on the diagonal and 0 everywhere else; multiplying matrix by identity matrix gives itself
 [[associativity]] (AB)C = A(BC)
 [[distributivity]] (A+B)C = AC+BC, A(C+D) = AC+AD
+
+# Inverse and transpose
