@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "group",
+      "path": "group.md"
+    },
+    {
       "basename": "Gaussian elimination",
       "path": "Gaussian elimination.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "system of linear equations",
       "path": "system of linear equations.md"
-    },
-    {
-      "basename": "group",
-      "path": "group.md"
     },
     {
       "basename": "vector space",
