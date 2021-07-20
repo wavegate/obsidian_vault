@@ -10,4 +10,6 @@ Which means $c_3=8c_1+2c_2$
 So $0=8c_1+2c_2-1c_3+0c_4$ which gives us one infinite set of solutions (8,2,-1,0) (multiplying this by a scalar still leads to 0)
 You can do the same for the fourth column to get (-4,12,0,-1)
 Putting everything together, you obtain all solutions of the equation system, called the [[general solution]]
-$\begin{bmatrix}42\\8\\0\\0\end{bmatrix}+
+$\begin{bmatrix}42\\8\\0\\0\end{bmatrix}+\lambda_1\begin{bmatrix}8\\2\\-1\\0\end{bmatrix}+\lambda_2\begin{bmatrix}-4\\12\\0\\-1\end{bmatrix}$
+
+The general approach involves the three steps:
