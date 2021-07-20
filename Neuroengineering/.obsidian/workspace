@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "reduced row echelon form.md",
+            "file": "Untitled 5.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "reduced row echelon form.md",
+                "file": "Untitled 5.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reduced row echelon form.md",
+                "file": "Untitled 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "Untitled 5.md",
     "reduced row echelon form.md",
     "Untitled 4.md",
     "elementary transformations.md",
@@ -153,7 +154,6 @@
     "matrix.md",
     "linear affine mapping.md",
     "basis.md",
-    "linear independence.md",
-    "vector.md"
+    "linear independence.md"
   ]
 }

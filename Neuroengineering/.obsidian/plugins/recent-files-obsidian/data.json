@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "the minus-1 trick",
+      "path": "the minus-1 trick.md"
+    },
+    {
       "basename": "reduced row echelon form",
       "path": "reduced row echelon form.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "medical product entrepreneurship",
       "path": "medical product entrepreneurship.md"
-    },
-    {
-      "basename": "medical product development",
-      "path": "medical product development.md"
     }
   ],
   "omittedPaths": [],
