@@ -10,3 +10,10 @@ bottom up:
 top-down:
 - from practical needs to more basic requirements
 - readers know at all times why they need to work on a particular concept
+- clear path of required knowledge
+- potentially shaky foundations
+- have to remember a set of words that they do not have any way of understanding
+
+pillars of machine learning: regression, dimensionality reduction, density estimat
+
+![[Pasted image 20210719195401.png]]
