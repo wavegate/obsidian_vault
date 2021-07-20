@@ -5,6 +5,10 @@
       "path": "reduced row echelon form.md"
     },
     {
+      "basename": "Untitled 4",
+      "path": "Untitled 4.md"
+    },
+    {
       "basename": "basic and free variables",
       "path": "basic and free variables.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "medical product development",
       "path": "medical product development.md"
-    },
-    {
-      "basename": "commercializing new technologies",
-      "path": "commercializing new technologies.md"
     }
   ],
   "omittedPaths": [],

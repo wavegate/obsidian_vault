@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "reduced row echelon form.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "reduced row echelon form.md",
     "Untitled 4.md",
     "elementary transformations.md",
     "solving systems of linear equations.md",
@@ -153,7 +154,6 @@
     "linear affine mapping.md",
     "basis.md",
     "linear independence.md",
-    "vector.md",
-    "system of linear equations.md"
+    "vector.md"
   ]
 }
