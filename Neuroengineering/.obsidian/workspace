@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mathematics for machine learning.md",
+            "file": "Gaussian elimination.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mathematics for machine learning.md",
+                "file": "Gaussian elimination.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathematics for machine learning.md",
+                "file": "Gaussian elimination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "Gaussian elimination.md",
     "mathematics for machine learning.md",
     "matrix inverse.md",
     "Untitled 5.md",
@@ -153,7 +154,6 @@
     "elementary transformations.md",
     "solving systems of linear equations.md",
     "matrix.md",
-    "linear affine mapping.md",
-    "basis.md"
+    "linear affine mapping.md"
   ]
 }

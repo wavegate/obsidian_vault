@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Gaussian elimination",
+      "path": "Gaussian elimination.md"
+    },
+    {
       "basename": "mathematics for machine learning",
       "path": "mathematics for machine learning.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "business",
       "path": "business.md"
-    },
-    {
-      "basename": "medical product prototyping",
-      "path": "medical product prototyping.md"
     }
   ],
   "omittedPaths": [],
