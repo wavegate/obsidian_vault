@@ -25,5 +25,6 @@ Let matrix B have the property that AB = $I_n$ = BA. B is called the [[inverse]]
 
 $b_{ij}=a_{ji}$ is the [[transpose]] of A, or $B=A^\top$
 - In general $A^\top$ can be obtained by writing the columns of $A$ as the rows of $A^\top$
-- Important properties:
-	- $A
+- Important properties of inverse and transpose:
+	- $AA^{-1}=I=A^{-1}A$
+	- $(AB)^{-1}=B^{-1}A^{-1}$
