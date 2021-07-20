@@ -6,4 +6,8 @@ With $m, n \in \mathbb{N}$ a real-valued $(m,n)$ matrix $A$ is an $m\cdot n$ tup
 $A = \begin{bmatrix}a_{11}&a_{12}&\cdots&a_{1n}\\a_{21}&a_{22}&\cdots&a_{2n}\\\vdots&\vdots&&\vdots\\a_{m1}&a_{m2}&\cdots&a_{mn}\end{bmatrix},a_{ij}\in\mathbb{R}.$
 By convention $(1,n)$-matrices are called [[rows]] and $(m,1)$-matrices are called [[columns]]. These special matrices are also called [[row-column vectors]]
 
-# Matr
+# Matrix addition and multiplication
+Multiplication involves dot product
+Can only be multiplied if "neighboring" dimensions match
+If matrix A is n x k and matrix B is k x m, AB works, but BA doenst work if n is not equal to m
+
