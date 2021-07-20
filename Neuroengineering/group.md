@@ -16,4 +16,4 @@ if you combine any element with the identity , you get the same element
 finally, there is associativity
 
 commutativity is not required
-however, if it is commutative, then it is called a []
+however, if it is commutative, then it is called a [[commutative group]] or [[Abelian group]]
