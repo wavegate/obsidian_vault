@@ -10,4 +10,4 @@ By convention $(1,n)$-matrices are called [[rows]] and $(m,1)$-matrices are call
 Multiplication involves dot product
 Can only be multiplied if "neighboring" dimensions match
 If matrix A is n x k and matrix B is k x m, AB works, but BA doenst work if n is not equal to m
-
+Matrix multiplication is NOT element-wise... 
