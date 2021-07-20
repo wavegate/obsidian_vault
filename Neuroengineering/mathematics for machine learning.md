@@ -14,6 +14,10 @@ top-down:
 - potentially shaky foundations
 - have to remember a set of words that they do not have any way of understanding
 
-pillars of machine learning: regression, dimensionality reduction, density estimat
-
+pillars of machine learning: regression, dimensionality reduction, density estimation, and classification
 ![[Pasted image 20210719195401.png]]
+
+we represent numerical data as vectors and represent a table of such data as a matrix
+the study of vectors and matrices is called [[linear algebra]]
+
+vectors that are similar should be predicted to have similar outputs by our machine learning algorithm (our predictor)
