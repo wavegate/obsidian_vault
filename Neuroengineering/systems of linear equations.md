@@ -1,0 +1,1 @@
+central part of [[linear algebra]]

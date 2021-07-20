@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "systems of linear equations",
+      "path": "systems of linear equations.md"
+    },
+    {
+      "basename": "mathematics for machine learning",
+      "path": "mathematics for machine learning.md"
+    },
+    {
+      "basename": "matrix",
+      "path": "matrix.md"
+    },
+    {
       "basename": "linear affine mapping",
       "path": "linear affine mapping.md"
     },
@@ -21,20 +33,12 @@
       "path": "system of linear equations.md"
     },
     {
-      "basename": "matrix",
-      "path": "matrix.md"
-    },
-    {
       "basename": "group",
       "path": "group.md"
     },
     {
       "basename": "vector space",
       "path": "vector space.md"
-    },
-    {
-      "basename": "mathematics for machine learning",
-      "path": "mathematics for machine learning.md"
     },
     {
       "basename": "fundamentals of mouse reproduction",
@@ -195,10 +199,6 @@
     {
       "basename": "biology",
       "path": "biology.md"
-    },
-    {
-      "basename": "stem cells",
-      "path": "stem cells.md"
     }
   ],
   "omittedPaths": [],
