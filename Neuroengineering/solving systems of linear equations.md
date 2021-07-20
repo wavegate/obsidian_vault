@@ -6,4 +6,5 @@ This solution is called a [[particular solution]] or a [[special solution]]
 However, this is not the only solution
 To capture all the other solutions, generate 0 in a non-trivial way using teh columns of the matrix
 Express the third column using the first two columns: $\begin{bmatrix}8\\2\end{bmatrix}=8\begin{bmatrix}1\\0\end{bmatrix}+2\begin{bmatrix}0\\1\end{bmatrix}$
-Which means $
+Which means $c_3=8c_1+2c_2$
+Then you want 
