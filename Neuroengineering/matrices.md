@@ -23,4 +23,7 @@ Let matrix B have the property that AB = $I_n$ = BA. B is called the [[inverse]]
 - Example: B is $A^{-1}$:
 - $A=\begin{bmatrix}1&2&1\\4&4&5\\6&7&7\end{bmatrix}, B=\begin{bmatrix}-7&-7&6\\2&1&-1\\4&5&-4\end{bmatrix}$
 
-$b_{ij}=a_{ji}$ is the [[transpose]] of A, or $B=A^
+$b_{ij}=a_{ji}$ is the [[transpose]] of A, or $B=A^\top$
+- In general $A^\top$ can be obtained by writing the columns of $A$ as the rows of $A^\top$
+- Important properties:
+	- $A
