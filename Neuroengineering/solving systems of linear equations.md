@@ -13,3 +13,9 @@ Putting everything together, you obtain all solutions of the equation system, ca
 $\begin{bmatrix}42\\8\\0\\0\end{bmatrix}+\lambda_1\begin{bmatrix}8\\2\\-1\\0\end{bmatrix}+\lambda_2\begin{bmatrix}-4\\12\\0\\-1\end{bmatrix}$
 
 The general approach involves the three steps:
+1. Find a particular solution to $Ax=b$
+2. Find all solutions to $Ax=0$
+3. Combine the solutions from steps 1 and 2 to the general solution
+
+In order to convert any system of equations to this form, you use Gaussian elimination
+Key to Gaussian elimination are elementary transformations
