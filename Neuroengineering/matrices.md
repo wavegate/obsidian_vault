@@ -28,3 +28,5 @@ $b_{ij}=a_{ji}$ is the [[transpose]] of A, or $B=A^\top$
 - Important properties of inverse and transpose:
 	- $AA^{-1}=I=A^{-1}A$
 	- $(AB)^{-1}=B^{-1}A^{-1}$
+	- $(A+B)^{-1}\neq A^{-1}+B^{-1}$
+	- $(A^\top)^\top=A$
