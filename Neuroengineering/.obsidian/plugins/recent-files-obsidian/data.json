@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "example",
+      "path": "example.md"
+    },
+    {
       "basename": "feature",
       "path": "feature.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "industrial engineering",
       "path": "industrial engineering.md"
-    },
-    {
-      "basename": "imaging",
-      "path": "imaging.md"
     }
   ],
   "omittedPaths": [],

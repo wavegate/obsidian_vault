@@ -1,1 +1,2 @@
-an input variable 
+an input variable - x in simple linear regression
+for example in a spam detector, features could be the words in the text, the sender's address, the time of day the email was sent, or whether the email contains a specific phrase
