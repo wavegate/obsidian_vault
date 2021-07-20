@@ -32,3 +32,5 @@ to train machine learning models, we typically find parameters that maximize som
 many optimization techniques require the concept of a gradient, which tells us the direction to which to search for a solution [[vector calculus]]
 
 [[optimization]] to find maxima/minima of functions
+
+[[linear regression]] objective is to find functions that map inputs $x \in \mathbb{R}^D$ 
