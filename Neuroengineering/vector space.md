@@ -11,3 +11,5 @@ vectors form a [[commutative group]]
 - there is a field of scalars that you can multiply vectors by
 - distributive and associative properties
 - vectors are unchanged when scaled by 1
+
+![[Pasted image 20210720014355.png]]
