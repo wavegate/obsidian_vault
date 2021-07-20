@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "matrices",
+      "path": "matrices.md"
+    },
+    {
       "basename": "systems of linear equations",
       "path": "systems of linear equations.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "anatomy",
       "path": "anatomy.md"
-    },
-    {
-      "basename": "biology",
-      "path": "biology.md"
     }
   ],
   "omittedPaths": [],
