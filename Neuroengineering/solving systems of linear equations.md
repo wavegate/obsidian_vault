@@ -7,5 +7,6 @@ However, this is not the only solution
 To capture all the other solutions, generate 0 in a non-trivial way using teh columns of the matrix
 Express the third column using the first two columns: $\begin{bmatrix}8\\2\end{bmatrix}=8\begin{bmatrix}1\\0\end{bmatrix}+2\begin{bmatrix}0\\1\end{bmatrix}$
 Which means $c_3=8c_1+2c_2$
-So $0=8c_1+2c_2-1c_3+0c_4$ which gives us one general solution (8,2,-1,0)
-You can do the same for the fourth column
+So $0=8c_1+2c_2-1c_3+0c_4$ which gives us one infinite set of solutions (8,2,-1,0)
+You can do the same for the fourth column to get (-4,12,0,-1)
+Putting everything together, you obtain all solutions of the equation system, called the [[general solution]]
