@@ -1,0 +1,3 @@
+- exchange of two equations
+- multiplication of an equation with a constant
+- addition of two equations

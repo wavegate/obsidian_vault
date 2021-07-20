@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "solving systems of linear equations.md",
-            "mode": "preview"
+            "file": "elementary transformations.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "solving systems of linear equations.md",
+                "file": "elementary transformations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "solving systems of linear equations.md",
+                "file": "elementary transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,8 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "elementary transformations.md",
+    "solving systems of linear equations.md",
     "Untitled 4.md",
     "mathematics for machine learning.md",
     "matrix.md",
@@ -152,8 +154,6 @@
     "basis.md",
     "linear independence.md",
     "vector.md",
-    "system of linear equations.md",
-    "vector space.md",
-    "fundamentals of mouse reproduction.md"
+    "system of linear equations.md"
   ]
 }

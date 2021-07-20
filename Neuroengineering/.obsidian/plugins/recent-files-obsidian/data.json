@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "elementary transformations",
+      "path": "elementary transformations.md"
+    },
+    {
       "basename": "solving systems of linear equations",
       "path": "solving systems of linear equations.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "artificial intelligence",
-      "path": "artificial intelligence.md"
     }
   ],
   "omittedPaths": [],
