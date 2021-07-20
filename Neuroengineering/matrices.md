@@ -20,4 +20,5 @@ Matrix multiplication is NOT element-wise... element-wise multiplication is call
 Let matrix B have the property that AB = $I_n$ = BA. B is called the [[inverse]] of A and is denoted by $A^{-1}$
 - Not every matrix possesses an inverse; if one does exist, this is called [[regular invertible nonsingular]]; otherwise it is called [[singular noninvertible]]
 - Basically the inverse of a matrix is what you can multiply that matrix with to get the identity matrix
-- Example: 
+- Example: B is $A^{-1}$:
+- $A=\begin{bmatrix}1&2&1\\4&4&5\\6&7&7\end{bmatrix}, B=\begin{bmatrix}-7&-7&6\\2&1&-1\\4&5&-4\end{bmatrix}$
