@@ -12,6 +12,6 @@ Can only be multiplied if "neighboring" dimensions match
 If matrix A is n x k and matrix B is k x m, AB works, but BA doenst work if n is not equal to m; in other words, matrix multiplication is not commutative
 Matrix multiplication is NOT element-wise... element-wise multiplication is called [[Hadamard product]]
 
-[[identity matrix]] nxn matrix containing 1 on the diagonal and 0 everywhere else
+[[identity matrix]] nxn matrix containing 1 on the diagonal and 0 everywhere else; multiplying matrix by identity matrix gives itself
 [[associativity]] (AB)C = A(BC)
 [[distributivity]] (A+B)C = AC+BC, A(C+D) = AC+AD
