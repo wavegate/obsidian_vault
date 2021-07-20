@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "mathematics for machine learning",
+      "path": "mathematics for machine learning.md"
+    },
+    {
       "basename": "fundamentals of mouse reproduction",
       "path": "fundamentals of mouse reproduction.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "cell biology",
       "path": "cell biology.md"
-    },
-    {
-      "basename": "cancer biology",
-      "path": "cancer biology.md"
     }
   ],
   "omittedPaths": [],

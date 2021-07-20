@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "fundamentals of mouse reproduction.md",
+            "file": "mathematics for machine learning.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "fundamentals of mouse reproduction.md",
+                "file": "mathematics for machine learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fundamentals of mouse reproduction.md",
+                "file": "mathematics for machine learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,8 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
-    "fundamentals of mouse reproduction.md",
     "Untitled 4.md",
+    "fundamentals of mouse reproduction.md",
     "symptoms of despair, fear, sorrow, suspicion, anxiety, horror of conscience, fearful dreams and visions.md",
     "6736.md",
     "scRNA-seq.md",
