@@ -33,4 +33,4 @@ many optimization techniques require the concept of a gradient, which tells us t
 
 [[optimization]] to find maxima/minima of functions
 
-[[linear regression]] objective is to find functions that map inputs $x \in \mathbb{R}^D$ 
+[[linear regression]] objective is to find functions that map inputs $x \in \mathbb{R}^D$ to corresponding observed function values $y \in \mathbb{R}$
