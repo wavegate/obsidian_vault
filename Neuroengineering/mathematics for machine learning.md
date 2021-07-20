@@ -25,3 +25,8 @@ to formalize the idea of similarity between vectors, we need to introduce operat
 construction of similarity and distances is central to [[analytic geometry]]
 
 [[matrix decomposition]]
+
+quantification of uncertainty is the realm of [[probability theory]]
+
+to train machine learning models, we typically find parameters that maximize some performance measure
+many optimization techniques require the concept of a gradient, which tells us the direction to which to search for a solution
