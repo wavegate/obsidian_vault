@@ -42,3 +42,6 @@ many optimization techniques require the concept of a gradient, which tells us t
 - unlike regression, there are no labels associated with data points
 
 [[density estimation]] - objective is to find a probability distribution that describes a given dataset
+- [[Gaussian mixture models]]
+
+[[classification]]
