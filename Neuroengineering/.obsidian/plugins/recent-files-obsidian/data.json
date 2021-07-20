@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "feature",
+      "path": "feature.md"
+    },
+    {
+      "basename": "label",
+      "path": "label.md"
+    },
+    {
       "basename": "vector subspace",
       "path": "vector subspace.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "imaging",
       "path": "imaging.md"
-    },
-    {
-      "basename": "electrical engineering",
-      "path": "electrical engineering.md"
-    },
-    {
-      "basename": "data science",
-      "path": "data science.md"
     }
   ],
   "omittedPaths": [],
