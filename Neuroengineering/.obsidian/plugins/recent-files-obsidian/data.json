@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "general linear group",
+      "path": "general linear group.md"
+    },
+    {
       "basename": "group",
       "path": "group.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "computer science",
       "path": "computer science.md"
-    },
-    {
-      "basename": "Untitled 3",
-      "path": "Untitled 3.md"
     }
   ],
   "omittedPaths": [],
