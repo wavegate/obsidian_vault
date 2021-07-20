@@ -3,3 +3,6 @@ Consider the system of equations $\begin{bmatrix}1&0&8&-4\\0&1&2&12\end{bmatrix}
 Because it is in [[RREF]], a solution can immediately be found by taking 42 times the first column and 8 times the second column
 Therefore, a solution is $\begin{bmatrix}42\\8\\0\\0\end{bmatrix}$
 This solution is called a [[particular solution]] or a [[special solution]]
+However, this is not the only solution
+To capture all the other solutions, generate 0 in a non-trivial way using teh columns of the matrix
+Express the third column using the first two columns: $\begin{bmatrix}8\\2\end{bmatrix}=8\begin{bmatrix}1\\0\end{bmatrix}+2\begin{bmatri}
