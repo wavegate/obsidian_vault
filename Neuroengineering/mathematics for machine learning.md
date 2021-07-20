@@ -47,3 +47,6 @@ many optimization techniques require the concept of a gradient, which tells us t
 [[classification]]
 
 [[algebra]] - construct a set of objects (symbols) and a set of rules to manipulate these objects
+
+[[geometric vector]] familiar from high school math and physics
+- directed segments that can be drawn in 2D
