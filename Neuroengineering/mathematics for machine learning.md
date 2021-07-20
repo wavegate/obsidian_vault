@@ -45,3 +45,5 @@ many optimization techniques require the concept of a gradient, which tells us t
 - [[Gaussian mixture models]]
 
 [[classification]]
+
+[[algebra]] - construct a set of objects (symbols) and a set of rules to manipulate these objects
