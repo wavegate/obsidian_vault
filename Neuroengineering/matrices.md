@@ -17,3 +17,4 @@ Matrix multiplication is NOT element-wise... element-wise multiplication is call
 [[distributivity]] (A+B)C = AC+BC, A(C+D) = AC+AD
 
 # Inverse and transpose
+Let matrix B have the property that AB = $I_n$ = BA. B is called the [[inverse]] of A and is denoted by $A^{-1}$
