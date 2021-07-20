@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "linear affine mapping",
+      "path": "linear affine mapping.md"
+    },
+    {
+      "basename": "basis",
+      "path": "basis.md"
+    },
+    {
+      "basename": "linear independence",
+      "path": "linear independence.md"
+    },
+    {
+      "basename": "vector",
+      "path": "vector.md"
+    },
+    {
       "basename": "system of linear equations",
       "path": "system of linear equations.md"
     },
@@ -9,20 +25,12 @@
       "path": "matrix.md"
     },
     {
-      "basename": "linear affine mapping",
-      "path": "linear affine mapping.md"
-    },
-    {
       "basename": "group",
       "path": "group.md"
     },
     {
       "basename": "vector space",
       "path": "vector space.md"
-    },
-    {
-      "basename": "vector",
-      "path": "vector.md"
     },
     {
       "basename": "mathematics for machine learning",
@@ -191,14 +199,6 @@
     {
       "basename": "stem cells",
       "path": "stem cells.md"
-    },
-    {
-      "basename": "signal transduction",
-      "path": "signal transduction.md"
-    },
-    {
-      "basename": "molecular biology",
-      "path": "molecular biology.md"
     }
   ],
   "omittedPaths": [],
