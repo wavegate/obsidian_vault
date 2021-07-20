@@ -6,3 +6,4 @@ The objective is to find an optimal production plan, i.e., a plan of how many un
 If we produce $x_1,...,x_n$ units of the corresponding products, we need a total of $a_{i1}x_1+\cdots+a_{in}x_n$ many units of resource $R_i$. An optimal production plan $(x_i,...,x_n)\in\mathbb{R}^n$, therefore, has to satisfy the following system of equations:
 $\begin{matrix}a_{11}x_1+\cdots+a_{1n}x_n=b_1 \\
 \vdots\\a_{m1}x_1+\cdots+a_{mn}x_n=b_m\end{matrix}$
+where $a_{ij}\in\mathbb{R}$ and $b_i\in\mathbb{R}$.
