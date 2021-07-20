@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "mathematics for machine learning",
+      "path": "mathematics for machine learning.md"
+    },
+    {
       "basename": "matrix inverse",
       "path": "matrix inverse.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "systems of linear equations",
       "path": "systems of linear equations.md"
-    },
-    {
-      "basename": "mathematics for machine learning",
-      "path": "mathematics for machine learning.md"
     },
     {
       "basename": "matrix",

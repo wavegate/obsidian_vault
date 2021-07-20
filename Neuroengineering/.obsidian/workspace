@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "matrix inverse.md",
+            "file": "mathematics for machine learning.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "matrix inverse.md",
+                "file": "mathematics for machine learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "matrix inverse.md",
+                "file": "mathematics for machine learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,13 +145,13 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "mathematics for machine learning.md",
     "matrix inverse.md",
     "Untitled 5.md",
     "reduced row echelon form.md",
     "Untitled 4.md",
     "elementary transformations.md",
     "solving systems of linear equations.md",
-    "mathematics for machine learning.md",
     "matrix.md",
     "linear affine mapping.md",
     "basis.md"
