@@ -53,3 +53,6 @@ many optimization techniques require the concept of a gradient, which tells us t
 
 [[polynomial]] are also vectors; they can be multiplied by scalar
 - abstract concepts as opposed to concrete drawings in geometric vectors
+
+audio signals are vectors
+elements of $\mathbb{R}^n$ (tuples of $n$ real numbers) are vectors
