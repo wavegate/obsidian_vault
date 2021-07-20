@@ -56,3 +56,5 @@ many optimization techniques require the concept of a gradient, which tells us t
 
 audio signals are vectors
 elements of $\mathbb{R}^n$ (tuples of $n$ real numbers) are vectors
+
+[[closure]] the question: what is the set of all things that ca
