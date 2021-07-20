@@ -8,3 +8,6 @@ vectors form a [[commutative group]]
 
 # definition
 - commutative group under which the elements are called vectors
+- there is a field of scalars that you can multiply vectors by
+- distributive and associative properties
+- vectors are unchanged when scaled by 1
