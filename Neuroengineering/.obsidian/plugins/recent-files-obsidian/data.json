@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "modular arithmetic",
+      "path": "modular arithmetic.md"
+    },
+    {
       "basename": "closure",
       "path": "closure.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "chemistry",
       "path": "chemistry.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "Untitled 2.md"
     }
   ],
   "omittedPaths": [],
