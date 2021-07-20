@@ -1,0 +1,1 @@
+a subset of $\mathbb{R}^n$ (a vectors with n components)

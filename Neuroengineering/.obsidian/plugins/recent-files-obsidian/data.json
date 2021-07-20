@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "vector subspace",
+      "path": "vector subspace.md"
+    },
+    {
       "basename": "vector space",
       "path": "vector space.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "data science",
       "path": "data science.md"
-    },
-    {
-      "basename": "neural data analysis",
-      "path": "neural data analysis.md"
     }
   ],
   "omittedPaths": [],

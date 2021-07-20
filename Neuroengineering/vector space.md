@@ -13,3 +13,5 @@ vectors form a [[commutative group]]
 - vectors are unchanged when scaled by 1
 
 ![[Pasted image 20210720014355.png]]
+
+[[vector subspace]]
