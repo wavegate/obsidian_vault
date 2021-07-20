@@ -1,0 +1,1 @@
+collection of all the possible vectors in a dimension
