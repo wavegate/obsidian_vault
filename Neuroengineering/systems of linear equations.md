@@ -11,3 +11,6 @@ $\begin{matrix}a_{11}x_1+\cdots+a_{1n}x_n=b_1 \\
 
 
 where $a_{ij}\in\mathbb{R}$ and $b_i\in\mathbb{R}$.
+
+In general, for a real-valued system of liear equations we obtain either no, exactly one, or infinitely many solutions. [[linear regression]] solves a versio nwhen we cannot solve the system of linear equations
+
