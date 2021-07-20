@@ -30,3 +30,8 @@ $b_{ij}=a_{ji}$ is the [[transpose]] of A, or $B=A^\top$
 	- $(AB)^{-1}=B^{-1}A^{-1}$
 	- $(A+B)^{-1}\neq A^{-1}+B^{-1}$
 	- $(A^\top)^\top=A$
+	- $(A+B)^\top=A^\top+B^\top$
+	- $(AB)^\top=B^\top A^\top$
+
+# Symmetric
+A matrix is [[symmetric]] if 
