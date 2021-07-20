@@ -51,4 +51,6 @@ many optimization techniques require the concept of a gradient, which tells us t
 [[geometric vector]] familiar from high school math and physics
 - directed segments that can be drawn in 2D
 
-[[polynomial]] are also vectors; they can be multiple
+[[polynomial]] are also vectors; they can be multiplied by scalar
+- abstract concepts as opposed to concrete drawings in geometric vectors
+- 
