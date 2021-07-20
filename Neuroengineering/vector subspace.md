@@ -1,1 +1,1 @@
-a subset of $\mathbb{R}^n$ (a vectors with n components)
+a subset of $\mathbb{R}^n$ (all real vectors with n components) in which there is closure under scalar multiplication
