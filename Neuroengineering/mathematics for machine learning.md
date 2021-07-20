@@ -35,4 +35,7 @@ many optimization techniques require the concept of a gradient, which tells us t
 
 [[linear regression]] objective is to find functions that map inputs $x \in \mathbb{R}^D$ to corresponding observed function values $y \in \mathbb{R}$
 - [[classical model fitting]][[parameter estimation]] via maximum likelihood and maximum a posteriori estimation
-- [[]]
+- [[Bayesian linear regression]] - integrate parameters out instead of ptimizing them
+
+[[dimensionality reduction]] using principal component analysis
+- key objective is to find a compact, lower=dimensional representation of high-dimensional data $x \in \mathbb{R}^D$, which is often easier to analyze than the original data
