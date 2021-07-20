@@ -1,0 +1,1 @@
+variables corresponding to pivots in row-echelon form is [[basic variables]] and the others are [[free variables]]

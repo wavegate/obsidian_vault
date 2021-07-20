@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "basic and free variables",
+      "path": "basic and free variables.md"
+    },
+    {
       "basename": "row echelon form",
       "path": "row echelon form.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "polymers",
       "path": "polymers.md"
-    },
-    {
-      "basename": "chemical engineering",
-      "path": "chemical engineering.md"
     }
   ],
   "omittedPaths": [],
