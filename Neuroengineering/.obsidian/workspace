@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vector.md",
+            "file": "system of linear equations.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vector.md",
+                "file": "system of linear equations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vector.md",
+                "file": "system of linear equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +145,15 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "system of linear equations.md",
     "Untitled 4.md",
+    "vector space.md",
     "fundamentals of mouse reproduction.md",
     "symptoms of despair, fear, sorrow, suspicion, anxiety, horror of conscience, fearful dreams and visions.md",
     "6736.md",
     "scRNA-seq.md",
     "robotics.md",
     "physics.md",
-    "photonics.md",
-    "neuroscience.md",
-    "mathematics.md"
+    "photonics.md"
   ]
 }

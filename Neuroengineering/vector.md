@@ -1,0 +1,1 @@
+closure into [[vector space]]

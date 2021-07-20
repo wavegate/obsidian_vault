@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "system of linear equations",
+      "path": "system of linear equations.md"
+    },
+    {
+      "basename": "matrix",
+      "path": "matrix.md"
+    },
+    {
+      "basename": "linear affine mapping",
+      "path": "linear affine mapping.md"
+    },
+    {
+      "basename": "group",
+      "path": "group.md"
+    },
+    {
+      "basename": "vector space",
+      "path": "vector space.md"
+    },
+    {
       "basename": "vector",
       "path": "vector.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "molecular biology",
       "path": "molecular biology.md"
-    },
-    {
-      "basename": "in vitro",
-      "path": "in vitro.md"
-    },
-    {
-      "basename": "immunology",
-      "path": "immunology.md"
-    },
-    {
-      "basename": "extracellular matrix",
-      "path": "extracellular matrix.md"
-    },
-    {
-      "basename": "developmental neurobiology",
-      "path": "developmental neurobiology.md"
-    },
-    {
-      "basename": "cell therapy",
-      "path": "cell therapy.md"
     }
   ],
   "omittedPaths": [],
