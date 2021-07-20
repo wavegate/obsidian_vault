@@ -29,4 +29,6 @@ construction of similarity and distances is central to [[analytic geometry]]
 quantification of uncertainty is the realm of [[probability theory]]
 
 to train machine learning models, we typically find parameters that maximize some performance measure
-many optimization techniques require the concept of a gradient, which tells us the direction to which to search for a solution
+many optimization techniques require the concept of a gradient, which tells us the direction to which to search for a solution [[vector calculus]]
+
+[[optimization]] to find maxima/minima of functions
