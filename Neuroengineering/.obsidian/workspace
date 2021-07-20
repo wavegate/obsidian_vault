@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "group.md",
-            "mode": "preview"
+            "file": "complex numbers.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "group.md",
+                "file": "complex numbers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "group.md",
+                "file": "complex numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,8 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
-    "group.md",
     "Untitled 7.md",
+    "group.md",
     "Untitled 6.md",
     "closure.md",
     "Gaussian elimination.md",

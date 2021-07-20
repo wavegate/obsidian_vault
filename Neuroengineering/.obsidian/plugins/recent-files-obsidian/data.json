@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "complex numbers",
+      "path": "complex numbers.md"
+    },
+    {
+      "basename": "real numbers",
+      "path": "real numbers.md"
+    },
+    {
+      "basename": "rational numbers",
+      "path": "rational numbers.md"
+    },
+    {
+      "basename": "integers",
+      "path": "integers.md"
+    },
+    {
       "basename": "group",
       "path": "group.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "neural data analysis",
       "path": "neural data analysis.md"
-    },
-    {
-      "basename": "neuro data design",
-      "path": "neuro data design.md"
-    },
-    {
-      "basename": "neural implants and interfaces",
-      "path": "neural implants and interfaces.md"
-    },
-    {
-      "basename": "models of the neuron",
-      "path": "models of the neuron.md"
-    },
-    {
-      "basename": "computer science",
-      "path": "computer science.md"
     }
   ],
   "omittedPaths": [],
