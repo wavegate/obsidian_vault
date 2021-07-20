@@ -37,4 +37,6 @@ $b_{ij}=a_{ji}$ is the [[transpose]] of A, or $B=A^\top$
 A matrix is [[symmetric]] if $A=A^\top$
 Only (n,n)-matrices can be symmetric
 We call (n,n)-matrices [[square matrices]] because they possess the same number of rows and columns
-- The sum o
+- The sum of symmetric matrices is always symmetric, but their product is generally not symmetric (but always defined)
+
+# Multiplication by a scalar
