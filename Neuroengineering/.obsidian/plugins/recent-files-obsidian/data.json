@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "squared loss",
+      "path": "squared loss.md"
+    },
+    {
       "basename": "internet of things",
       "path": "internet of things.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "scRNA-seq",
       "path": "scRNA-seq.md"
-    },
-    {
-      "basename": "semantic scholar",
-      "path": "semantic scholar.md"
     }
   ],
   "omittedPaths": [],
