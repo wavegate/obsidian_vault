@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "classification model.md",
+            "file": "linear regression.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "classification model.md",
+                "file": "linear regression.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "classification model.md",
+                "file": "linear regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "linear regression.md",
     "Untitled 7.md",
     "vector subspace.md",
     "vector space.md",
@@ -153,7 +154,6 @@
     "closure.md",
     "Gaussian elimination.md",
     "mathematics for machine learning.md",
-    "matrix inverse.md",
-    "Untitled 5.md"
+    "matrix inverse.md"
   ]
 }

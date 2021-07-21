@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "linear regression",
+      "path": "linear regression.md"
+    },
+    {
+      "basename": "linear",
+      "path": "linear.md"
+    },
+    {
       "basename": "classification model",
       "path": "classification model.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "physics",
       "path": "physics.md"
-    },
-    {
-      "basename": "photonics",
-      "path": "photonics.md"
-    },
-    {
-      "basename": "neuroscience",
-      "path": "neuroscience.md"
     }
   ],
   "omittedPaths": [],
