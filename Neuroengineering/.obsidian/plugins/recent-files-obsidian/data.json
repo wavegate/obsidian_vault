@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "classification model",
+      "path": "classification model.md"
+    },
+    {
+      "basename": "regression model",
+      "path": "regression model.md"
+    },
+    {
+      "basename": "inference",
+      "path": "inference.md"
+    },
+    {
       "basename": "training",
       "path": "training.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "neuroscience",
       "path": "neuroscience.md"
-    },
-    {
-      "basename": "medicine",
-      "path": "medicine.md"
-    },
-    {
-      "basename": "mechanical engineering",
-      "path": "mechanical engineering.md"
-    },
-    {
-      "basename": "mathematics",
-      "path": "mathematics.md"
     }
   ],
   "omittedPaths": [],

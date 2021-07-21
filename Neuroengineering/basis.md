@@ -1,1 +1,1 @@
-[[classification]][[dimensionality reduction]]
+[[classification model]][[dimensionality reduction]]

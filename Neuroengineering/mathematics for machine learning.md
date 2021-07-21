@@ -44,7 +44,7 @@ many optimization techniques require the concept of a gradient, which tells us t
 [[density estimation]] - objective is to find a probability distribution that describes a given dataset
 - [[Gaussian mixture models]]
 
-[[classification]]
+[[classification model]]
 
 [[algebra]] - construct a set of objects (symbols) and a set of rules to manipulate these objects
 

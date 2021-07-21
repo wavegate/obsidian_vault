@@ -1,1 +1,1 @@
-creating or learn
+creating or learning the model
