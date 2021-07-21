@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "training",
+      "path": "training.md"
+    },
+    {
       "basename": "bioquant",
       "path": "bioquant.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "mathematics",
       "path": "mathematics.md"
-    },
-    {
-      "basename": "materials",
-      "path": "materials.md"
     }
   ],
   "omittedPaths": [],
