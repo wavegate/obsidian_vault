@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "training",
+      "path": "training.md"
+    },
+    {
       "basename": "linear regression",
       "path": "linear regression.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "inference",
       "path": "inference.md"
-    },
-    {
-      "basename": "training",
-      "path": "training.md"
     },
     {
       "basename": "bioquant",
