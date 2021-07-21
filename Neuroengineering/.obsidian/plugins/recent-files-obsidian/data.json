@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "bioquant",
+      "path": "bioquant.md"
+    },
+    {
       "basename": "example",
       "path": "example.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "materials",
       "path": "materials.md"
-    },
-    {
-      "basename": "industrial engineering",
-      "path": "industrial engineering.md"
     }
   ],
   "omittedPaths": [],
