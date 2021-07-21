@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "mathematics for machine learning",
+      "path": "mathematics for machine learning.md"
+    },
+    {
       "basename": "training",
       "path": "training.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "Gaussian elimination",
       "path": "Gaussian elimination.md"
-    },
-    {
-      "basename": "mathematics for machine learning",
-      "path": "mathematics for machine learning.md"
     },
     {
       "basename": "matrix inverse",
