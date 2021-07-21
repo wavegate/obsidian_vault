@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "internet of things",
+      "path": "internet of things.md"
+    },
+    {
       "basename": "Real-time decoding of question-and-answer speech dialogue using human cortical activity",
       "path": "Real-time decoding of question-and-answer speech dialogue using human cortical activity.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "semantic scholar",
       "path": "semantic scholar.md"
-    },
-    {
-      "basename": "robotics",
-      "path": "robotics.md"
     }
   ],
   "omittedPaths": [],
