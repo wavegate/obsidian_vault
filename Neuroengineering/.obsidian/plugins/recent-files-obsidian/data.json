@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Real-time decoding of question-and-answer speech dialogue using human cortical activity",
+      "path": "Real-time decoding of question-and-answer speech dialogue using human cortical activity.md"
+    },
+    {
       "basename": "mathematics for machine learning",
       "path": "mathematics for machine learning.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "robotics",
       "path": "robotics.md"
-    },
-    {
-      "basename": "physics",
-      "path": "physics.md"
     }
   ],
   "omittedPaths": [],
