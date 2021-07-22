@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "AUC",
+      "path": "AUC.md"
+    },
+    {
       "basename": "ROC curve",
       "path": "ROC curve.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "modular arithmetic",
       "path": "modular arithmetic.md"
-    },
-    {
-      "basename": "closure",
-      "path": "closure.md"
     }
   ],
   "omittedPaths": [],
