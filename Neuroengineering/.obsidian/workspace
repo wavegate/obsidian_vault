@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "one-hot encoding.md",
-            "mode": "source"
+            "file": "feature engineering.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "one-hot encoding.md",
+                "file": "feature engineering.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "one-hot encoding.md",
+                "file": "feature engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "feature engineering.md",
     "Untitled 7.md",
     "batch.md",
     "basic and free variables.md",
@@ -153,7 +154,6 @@
     "training.md",
     "linear regression.md",
     "vector subspace.md",
-    "vector space.md",
-    "group.md"
+    "vector space.md"
   ]
 }

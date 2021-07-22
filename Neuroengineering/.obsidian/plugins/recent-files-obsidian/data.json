@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "feature engineering",
+      "path": "feature engineering.md"
+    },
+    {
       "basename": "one-hot encoding",
       "path": "one-hot encoding.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "binning trick",
       "path": "binning trick.md"
-    },
-    {
-      "basename": "feature engineering",
-      "path": "feature engineering.md"
     },
     {
       "basename": "validation set",
