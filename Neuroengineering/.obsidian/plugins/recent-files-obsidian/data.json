@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "generalization",
+      "path": "generalization.md"
+    },
+    {
       "basename": "batch",
       "path": "batch.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "mouse breeding",
       "path": "mouse breeding.md"
-    },
-    {
-      "basename": "symptoms of despair, fear, sorrow, suspicion, anxiety, horror of conscience, fearful dreams and visions",
-      "path": "symptoms of despair, fear, sorrow, suspicion, anxiety, horror of conscience, fearful dreams and visions.md"
     }
   ],
   "omittedPaths": [],
