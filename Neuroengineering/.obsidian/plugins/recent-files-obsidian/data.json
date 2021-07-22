@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "acceptance and commitment theory",
+      "path": "acceptance and commitment theory.md"
+    },
+    {
       "basename": "takaki komiyama",
       "path": "takaki komiyama.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "the minus-1 trick",
       "path": "the minus-1 trick.md"
-    },
-    {
-      "basename": "reduced row echelon form",
-      "path": "reduced row echelon form.md"
     }
   ],
   "omittedPaths": [],
