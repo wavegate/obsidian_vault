@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "microfluidics",
+      "path": "microfluidics.md"
+    },
+    {
+      "basename": "Untitled 7",
+      "path": "Untitled 7.md"
+    },
+    {
       "basename": "FRESH 3D bioprinting vasculature",
       "path": "FRESH 3D bioprinting vasculature.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "elementary transformations",
       "path": "elementary transformations.md"
-    },
-    {
-      "basename": "solving systems of linear equations",
-      "path": "solving systems of linear equations.md"
-    },
-    {
-      "basename": "matrices",
-      "path": "matrices.md"
     }
   ],
   "omittedPaths": [],
