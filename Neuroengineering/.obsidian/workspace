@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "microfluidics.md",
+            "file": "decellularization.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "microfluidics.md",
+                "file": "decellularization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "microfluidics.md",
+                "file": "decellularization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "decellularization.md",
     "Untitled 8.md",
     "Untitled 7.md",
     "feature engineering.md",
@@ -153,7 +154,6 @@
     "internet of things.md",
     "mathematics for machine learning.md",
     "training.md",
-    "linear regression.md",
-    "vector subspace.md"
+    "linear regression.md"
   ]
 }

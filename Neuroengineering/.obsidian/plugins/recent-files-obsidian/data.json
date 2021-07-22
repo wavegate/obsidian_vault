@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "decellularization",
+      "path": "decellularization.md"
+    },
+    {
       "basename": "microfluidics",
       "path": "microfluidics.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "pivot",
       "path": "pivot.md"
-    },
-    {
-      "basename": "elementary transformations",
-      "path": "elementary transformations.md"
     }
   ],
   "omittedPaths": [],
