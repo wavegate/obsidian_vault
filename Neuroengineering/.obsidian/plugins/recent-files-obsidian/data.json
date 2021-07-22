@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "L2 regularization",
+      "path": "L2 regularization.md"
+    },
+    {
       "basename": "structural risk minimization",
       "path": "structural risk minimization.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Gaussian elimination",
       "path": "Gaussian elimination.md"
-    },
-    {
-      "basename": "matrix inverse",
-      "path": "matrix inverse.md"
     }
   ],
   "omittedPaths": [],
