@@ -6,3 +6,4 @@ embed in gel as opposed to in open air
 
 yield-stress material
 
+gel consists of gelati microparticles
