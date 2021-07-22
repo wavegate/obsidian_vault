@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ROC curve",
+      "path": "ROC curve.md"
+    },
+    {
       "basename": "regularization",
       "path": "regularization.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "closure",
       "path": "closure.md"
-    },
-    {
-      "basename": "Gaussian elimination",
-      "path": "Gaussian elimination.md"
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "regularization.md",
+            "file": "ROC curve.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "regularization.md",
+                "file": "ROC curve.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "regularization.md",
+                "file": "ROC curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,9 +145,9 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "Untitled 8.md",
     "regularization.md",
     "structural risk minimization.md",
-    "Untitled 8.md",
     "decellularization.md",
     "Untitled 7.md",
     "feature engineering.md",
