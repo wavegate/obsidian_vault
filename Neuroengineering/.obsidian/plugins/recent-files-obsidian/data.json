@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "structural risk minimization",
+      "path": "structural risk minimization.md"
+    },
+    {
       "basename": "regularization",
       "path": "regularization.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "matrix inverse",
       "path": "matrix inverse.md"
-    },
-    {
-      "basename": "Untitled 5",
-      "path": "Untitled 5.md"
     }
   ],
   "omittedPaths": [],
