@@ -1,0 +1,1 @@
+convert continuous variables into discrete bins
