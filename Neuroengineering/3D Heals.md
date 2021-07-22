@@ -1,2 +1,3 @@
 jenny chen
 
+finds startups

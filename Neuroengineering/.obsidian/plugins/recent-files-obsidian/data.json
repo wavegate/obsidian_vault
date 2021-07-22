@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "FRESH 3D bioprinting vasculature",
+      "path": "FRESH 3D bioprinting vasculature.md"
+    },
+    {
       "basename": "3D Heals",
       "path": "3D Heals.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "matrices",
       "path": "matrices.md"
-    },
-    {
-      "basename": "systems of linear equations",
-      "path": "systems of linear equations.md"
     }
   ],
   "omittedPaths": [],
