@@ -1,0 +1,1 @@
+in gradient descent, this is the total number of examples you use to calculate the gradient in a single iteration

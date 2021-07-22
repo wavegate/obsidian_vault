@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "batch",
+      "path": "batch.md"
+    },
+    {
       "basename": "squared loss",
       "path": "squared loss.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "the anatomy of melancholy",
       "path": "the anatomy of melancholy.md"
-    },
-    {
-      "basename": "scRNA-seq",
-      "path": "scRNA-seq.md"
     }
   ],
   "omittedPaths": [],
