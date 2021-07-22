@@ -7,3 +7,6 @@ However, 0 and 1 have no meaning.. they are just indexes. We don't want to give 
 We also can't account for multiple values of street names
 To deal with this, we can create a binary vector
 ![[Pasted image 20210722024648.png]]
+let's say you have 1 million different street names
+creating a binary vector of 1 million elements where only 1 or 2 elements are true is very inefficient
+we can use [[sparse representation]] in which only nonzero values are stored
