@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "L2 regularization.md",
-            "mode": "preview"
+            "file": "regularization.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "L2 regularization.md",
+                "file": "regularization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L2 regularization.md",
+                "file": "regularization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,8 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "regularization.md",
+    "structural risk minimization.md",
     "Untitled 8.md",
     "decellularization.md",
     "Untitled 7.md",
@@ -152,8 +154,6 @@
     "batch.md",
     "basic and free variables.md",
     "internet of things.md",
-    "mathematics for machine learning.md",
-    "training.md",
-    "linear regression.md"
+    "mathematics for machine learning.md"
   ]
 }
