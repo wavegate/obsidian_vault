@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "regularization",
+      "path": "regularization.md"
+    },
+    {
       "basename": "acceptance and commitment theory",
       "path": "acceptance and commitment theory.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 5",
       "path": "Untitled 5.md"
-    },
-    {
-      "basename": "the minus-1 trick",
-      "path": "the minus-1 trick.md"
     }
   ],
   "omittedPaths": [],
