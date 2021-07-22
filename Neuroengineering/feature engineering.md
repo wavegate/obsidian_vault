@@ -7,3 +7,7 @@ feature values should appear with non-zero value more than a small handful of ti
 should have a clear, obvious meaning
 
 don't take on "magic" values
+
+definition shouldn't change over time
+
+distribution should not have extreme outliers
