@@ -7,6 +7,7 @@ feature values should appear with non-zero value more than a small handful of ti
 should have a clear, obvious meaning
 
 don't take on "magic" values
+- for continuous variables, use the mean value of the data for missing values so it doesn't affect the model
 
 definition shouldn't change over time
 
