@@ -5,3 +5,4 @@
 
 handling extreme outliers
 - one way is to take log
+- you can also cap or clip off values at an arbitrary value
