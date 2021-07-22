@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "validation set",
+      "path": "validation set.md"
+    },
+    {
       "basename": "generalization",
       "path": "generalization.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "fundamentals of mouse reproduction",
       "path": "fundamentals of mouse reproduction.md"
-    },
-    {
-      "basename": "mouse breeding",
-      "path": "mouse breeding.md"
     }
   ],
   "omittedPaths": [],
