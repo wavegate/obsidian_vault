@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "feature crosses",
+      "path": "feature crosses.md"
+    },
+    {
       "basename": "cleaning data",
       "path": "cleaning data.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "matrix",
       "path": "matrix.md"
-    },
-    {
-      "basename": "linear affine mapping",
-      "path": "linear affine mapping.md"
     }
   ],
   "omittedPaths": [],
