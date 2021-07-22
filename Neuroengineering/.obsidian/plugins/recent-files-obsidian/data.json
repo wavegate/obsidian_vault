@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "batch",
+      "path": "batch.md"
+    },
+    {
+      "basename": "basic and free variables",
+      "path": "basic and free variables.md"
+    },
+    {
       "basename": "biological anthropology of mental health",
       "path": "biological anthropology of mental health.md"
     },
     {
       "basename": "stochastic gradient descent (SGD)",
       "path": "stochastic gradient descent (SGD).md"
-    },
-    {
-      "basename": "batch",
-      "path": "batch.md"
     },
     {
       "basename": "squared loss",
@@ -135,10 +139,6 @@
     {
       "basename": "Untitled 4",
       "path": "Untitled 4.md"
-    },
-    {
-      "basename": "basic and free variables",
-      "path": "basic and free variables.md"
     },
     {
       "basename": "row echelon form",

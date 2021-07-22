@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "biological anthropology of mental health.md",
+            "file": "batch.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "biological anthropology of mental health.md",
+                "file": "batch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biological anthropology of mental health.md",
+                "file": "batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,8 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "batch.md",
+    "basic and free variables.md",
     "Untitled 7.md",
     "internet of things.md",
     "mathematics for machine learning.md",
@@ -152,8 +154,6 @@
     "linear regression.md",
     "vector subspace.md",
     "vector space.md",
-    "group.md",
-    "Untitled 6.md",
-    "closure.md"
+    "group.md"
   ]
 }
