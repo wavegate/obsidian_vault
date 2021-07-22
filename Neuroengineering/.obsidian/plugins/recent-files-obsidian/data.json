@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "feature engineering",
+      "path": "feature engineering.md"
+    },
+    {
       "basename": "validation set",
       "path": "validation set.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "system of linear equations",
       "path": "system of linear equations.md"
-    },
-    {
-      "basename": "fundamentals of mouse reproduction",
-      "path": "fundamentals of mouse reproduction.md"
     }
   ],
   "omittedPaths": [],
