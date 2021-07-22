@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "stochastic gradietn descent (SGD)",
+      "path": "stochastic gradietn descent (SGD).md"
+    },
+    {
       "basename": "batch",
       "path": "batch.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "6736",
       "path": "6736.md"
-    },
-    {
-      "basename": "the anatomy of melancholy",
-      "path": "the anatomy of melancholy.md"
     }
   ],
   "omittedPaths": [],
