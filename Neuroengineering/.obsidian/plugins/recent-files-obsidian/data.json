@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "cleaning data",
+      "path": "cleaning data.md"
+    },
+    {
       "basename": "feature engineering",
       "path": "feature engineering.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "linear affine mapping",
       "path": "linear affine mapping.md"
-    },
-    {
-      "basename": "basis",
-      "path": "basis.md"
     }
   ],
   "omittedPaths": [],
