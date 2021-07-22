@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3D Heals",
+      "path": "3D Heals.md"
+    },
+    {
       "basename": "feature crosses",
       "path": "feature crosses.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "systems of linear equations",
       "path": "systems of linear equations.md"
-    },
-    {
-      "basename": "matrix",
-      "path": "matrix.md"
     }
   ],
   "omittedPaths": [],
