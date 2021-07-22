@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 7",
+      "path": "Untitled 7.md"
+    },
+    {
       "basename": "binning trick",
       "path": "binning trick.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "linear independence",
       "path": "linear independence.md"
-    },
-    {
-      "basename": "vector",
-      "path": "vector.md"
     }
   ],
   "omittedPaths": [],
