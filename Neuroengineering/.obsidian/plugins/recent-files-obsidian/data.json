@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "voltage",
-      "path": "voltage.md"
-    },
-    {
       "basename": "coulomb",
       "path": "coulomb.md"
+    },
+    {
+      "basename": "voltage",
+      "path": "voltage.md"
     },
     {
       "basename": "joule",

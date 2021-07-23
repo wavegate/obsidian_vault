@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "voltage.md",
+            "file": "coulomb.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "voltage.md",
+                "file": "coulomb.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "voltage.md",
+                "file": "coulomb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "coulomb.md",
     "Untitled 16.md",
     "Untitled 15.md",
     "learning path.md",
@@ -153,7 +154,6 @@
     "Untitled 13.md",
     "Untitled 12.md",
     "Untitled 10.md",
-    "innovation.md",
-    "Untitled 11.md"
+    "innovation.md"
   ]
 }
