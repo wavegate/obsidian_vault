@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "capacitor",
+      "path": "capacitor.md"
+    },
+    {
       "basename": "transformer",
       "path": "transformer.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "feature engineering",
       "path": "feature engineering.md"
-    },
-    {
-      "basename": "one-hot encoding",
-      "path": "one-hot encoding.md"
     }
   ],
   "omittedPaths": [],
