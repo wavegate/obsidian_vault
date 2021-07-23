@@ -1,0 +1,1 @@
+induce voltage into a second cioil when alternating current is used
