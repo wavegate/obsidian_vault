@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "alphastar.md",
+            "file": "innovation.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "alphastar.md",
+                "file": "innovation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "alphastar.md",
+                "file": "innovation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "Untitled 10.md",
     "Untitled 9.md",
     "photonics.md",
     "rectified linear unit activation function.md",
@@ -153,7 +154,6 @@
     "regularization.md",
     "structural risk minimization.md",
     "decellularization.md",
-    "Untitled 7.md",
-    "feature engineering.md"
+    "Untitled 7.md"
   ]
 }

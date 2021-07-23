@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "innovation",
+      "path": "innovation.md"
+    },
+    {
+      "basename": "Untitled 9",
+      "path": "Untitled 9.md"
+    },
+    {
+      "basename": "extrapolation",
+      "path": "extrapolation.md"
+    },
+    {
       "basename": "alphastar",
       "path": "alphastar.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "regression model",
       "path": "regression model.md"
-    },
-    {
-      "basename": "inference",
-      "path": "inference.md"
-    },
-    {
-      "basename": "bioquant",
-      "path": "bioquant.md"
-    },
-    {
-      "basename": "example",
-      "path": "example.md"
     }
   ],
   "omittedPaths": [],
