@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "deepmind",
+      "path": "deepmind.md"
+    },
+    {
       "basename": "language understanding",
       "path": "language understanding.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "internet of things",
       "path": "internet of things.md"
-    },
-    {
-      "basename": "Real-time decoding of question-and-answer speech dialogue using human cortical activity",
-      "path": "Real-time decoding of question-and-answer speech dialogue using human cortical activity.md"
     }
   ],
   "omittedPaths": [],
