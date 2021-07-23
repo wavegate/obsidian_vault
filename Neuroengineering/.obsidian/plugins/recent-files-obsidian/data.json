@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "backpropagation",
+      "path": "backpropagation.md"
+    },
+    {
       "basename": "rectified linear unit activation function",
       "path": "rectified linear unit activation function.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "integers",
       "path": "integers.md"
-    },
-    {
-      "basename": "group",
-      "path": "group.md"
     }
   ],
   "omittedPaths": [],
