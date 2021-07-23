@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "transformer",
+      "path": "transformer.md"
+    },
+    {
       "basename": "electromagnetic induction",
       "path": "electromagnetic induction.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "one-hot encoding",
       "path": "one-hot encoding.md"
-    },
-    {
-      "basename": "good habits",
-      "path": "good habits.md"
     }
   ],
   "omittedPaths": [],
