@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "least squares regression.md",
+            "file": "real numbers.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "least squares regression.md",
+                "file": "real numbers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "least squares regression.md",
+                "file": "real numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "real numbers.md",
     "Untitled 8.md",
     "regularization.md",
     "structural risk minimization.md",
@@ -153,7 +154,6 @@
     "feature engineering.md",
     "batch.md",
     "basic and free variables.md",
-    "internet of things.md",
-    "mathematics for machine learning.md"
+    "internet of things.md"
   ]
 }
