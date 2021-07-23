@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rectified linear unit activation function.md",
+            "file": "photonics.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "rectified linear unit activation function.md",
+                "file": "photonics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rectified linear unit activation function.md",
+                "file": "photonics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "photonics.md",
     "rectified linear unit activation function.md",
     "real numbers.md",
     "Untitled 8.md",
@@ -153,7 +154,6 @@
     "decellularization.md",
     "Untitled 7.md",
     "feature engineering.md",
-    "batch.md",
-    "basic and free variables.md"
+    "batch.md"
   ]
 }

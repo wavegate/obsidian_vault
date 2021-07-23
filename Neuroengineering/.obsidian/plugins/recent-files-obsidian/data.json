@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "photonics",
+      "path": "photonics.md"
+    },
+    {
       "basename": "rectified linear unit activation function",
       "path": "rectified linear unit activation function.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "vector space",
       "path": "vector space.md"
-    },
-    {
-      "basename": "complex numbers",
-      "path": "complex numbers.md"
     }
   ],
   "omittedPaths": [],
