@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "electromagnetic induction",
+      "path": "electromagnetic induction.md"
+    },
+    {
       "basename": "inductor",
       "path": "inductor.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "good habits",
       "path": "good habits.md"
-    },
-    {
-      "basename": "binning trick",
-      "path": "binning trick.md"
     }
   ],
   "omittedPaths": [],

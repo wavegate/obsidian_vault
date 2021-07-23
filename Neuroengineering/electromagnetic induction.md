@@ -1,0 +1,1 @@
+passing a magnetic field through a coil will induce a voltage and current
