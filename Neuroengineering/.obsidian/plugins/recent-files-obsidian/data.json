@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "angstrom error",
+      "path": "angstrom error.md"
+    },
+    {
       "basename": "deepmind",
       "path": "deepmind.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "squared loss",
       "path": "squared loss.md"
-    },
-    {
-      "basename": "internet of things",
-      "path": "internet of things.md"
     }
   ],
   "omittedPaths": [],
