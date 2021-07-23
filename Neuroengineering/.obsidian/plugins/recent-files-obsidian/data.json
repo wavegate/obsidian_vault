@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "inductor",
+      "path": "inductor.md"
+    },
+    {
       "basename": "resistance",
       "path": "resistance.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "binning trick",
       "path": "binning trick.md"
-    },
-    {
-      "basename": "validation set",
-      "path": "validation set.md"
     }
   ],
   "omittedPaths": [],
