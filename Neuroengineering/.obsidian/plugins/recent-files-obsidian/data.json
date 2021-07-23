@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "basic circuit elements",
+      "path": "basic circuit elements.md"
+    },
+    {
       "basename": "learning path",
       "path": "learning path.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "stochastic gradient descent (SGD)",
       "path": "stochastic gradient descent (SGD).md"
-    },
-    {
-      "basename": "squared loss",
-      "path": "squared loss.md"
     }
   ],
   "omittedPaths": [],
