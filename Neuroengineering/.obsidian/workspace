@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "real numbers.md",
+            "file": "rectified linear unit activation function.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "real numbers.md",
+                "file": "rectified linear unit activation function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real numbers.md",
+                "file": "rectified linear unit activation function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "rectified linear unit activation function.md",
     "real numbers.md",
     "Untitled 8.md",
     "regularization.md",
@@ -153,7 +154,6 @@
     "Untitled 7.md",
     "feature engineering.md",
     "batch.md",
-    "basic and free variables.md",
-    "internet of things.md"
+    "basic and free variables.md"
   ]
 }

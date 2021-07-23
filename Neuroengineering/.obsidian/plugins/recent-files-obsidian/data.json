@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "rectified linear unit activation function",
+      "path": "rectified linear unit activation function.md"
+    },
+    {
       "basename": "real numbers",
       "path": "real numbers.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "backpropagation",
       "path": "backpropagation.md"
-    },
-    {
-      "basename": "rectified linear unit activation function",
-      "path": "rectified linear unit activation function.md"
     },
     {
       "basename": "sigmoid activation function",
