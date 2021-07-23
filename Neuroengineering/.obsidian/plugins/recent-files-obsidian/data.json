@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "learning path",
+      "path": "learning path.md"
+    },
+    {
       "basename": "photonics",
       "path": "photonics.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "vector subspace",
       "path": "vector subspace.md"
-    },
-    {
-      "basename": "vector space",
-      "path": "vector space.md"
     }
   ],
   "omittedPaths": [],
