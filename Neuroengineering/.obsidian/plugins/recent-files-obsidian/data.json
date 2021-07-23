@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "resistance",
+      "path": "resistance.md"
+    },
+    {
       "basename": "coulomb",
       "path": "coulomb.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "validation set",
       "path": "validation set.md"
-    },
-    {
-      "basename": "generalization",
-      "path": "generalization.md"
     }
   ],
   "omittedPaths": [],

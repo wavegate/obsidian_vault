@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "coulomb.md",
+            "file": "resistance.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "coulomb.md",
+                "file": "resistance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coulomb.md",
+                "file": "resistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,8 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
-    "coulomb.md",
     "Untitled 16.md",
+    "coulomb.md",
     "Untitled 15.md",
     "learning path.md",
     "angstrom error.md",
