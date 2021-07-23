@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "direct current",
+      "path": "direct current.md"
+    },
+    {
+      "basename": "alternating current",
+      "path": "alternating current.md"
+    },
+    {
       "basename": "capacitor",
       "path": "capacitor.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "feature crosses",
       "path": "feature crosses.md"
-    },
-    {
-      "basename": "cleaning data",
-      "path": "cleaning data.md"
-    },
-    {
-      "basename": "feature engineering",
-      "path": "feature engineering.md"
     }
   ],
   "omittedPaths": [],
