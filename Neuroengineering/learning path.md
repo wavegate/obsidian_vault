@@ -26,3 +26,15 @@ chemical engineering
 information theory
 scientific computing
 implants and interfaces
+design of neural data
+models of the neuron
+electrical engineering
+	adaptive filters
+	stochastic processes
+	digital signaling
+	flexible electronics
+	linear circuits
+	nonlinear design
+	optimization
+	pattern recognition
+	
