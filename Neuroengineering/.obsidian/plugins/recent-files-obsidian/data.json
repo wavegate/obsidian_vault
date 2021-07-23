@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "least squares regression",
+      "path": "least squares regression.md"
+    },
+    {
       "basename": "backpropagation",
       "path": "backpropagation.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "rational numbers",
       "path": "rational numbers.md"
-    },
-    {
-      "basename": "integers",
-      "path": "integers.md"
     }
   ],
   "omittedPaths": [],
