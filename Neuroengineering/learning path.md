@@ -37,4 +37,13 @@ electrical engineering
 	nonlinear design
 	optimization
 	pattern recognition
+	signal processing
+ethics
+game development
+graphic design
+law
+leadership
+material science
+	tissue engineering
+mathematics
 	
