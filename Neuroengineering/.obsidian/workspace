@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "angstrom error.md",
+            "file": "learning path.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "angstrom error.md",
+                "file": "learning path.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "angstrom error.md",
+                "file": "learning path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "learning path.md",
     "angstrom error.md",
     "Untitled 15.md",
     "Untitled 14.md",
@@ -153,7 +154,6 @@
     "Untitled 10.md",
     "innovation.md",
     "Untitled 11.md",
-    "Untitled 9.md",
-    "photonics.md"
+    "Untitled 9.md"
   ]
 }
