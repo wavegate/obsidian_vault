@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "demis hassabis",
+      "path": "demis hassabis.md"
+    },
+    {
       "basename": "learning path",
       "path": "learning path.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "label",
       "path": "label.md"
-    },
-    {
-      "basename": "vector subspace",
-      "path": "vector subspace.md"
     }
   ],
   "omittedPaths": [],
