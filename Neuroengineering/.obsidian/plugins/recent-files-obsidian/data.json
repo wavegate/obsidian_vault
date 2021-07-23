@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "sigmoid activation function",
+      "path": "sigmoid activation function.md"
+    },
+    {
       "basename": "prediction bias",
       "path": "prediction bias.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "general linear group",
       "path": "general linear group.md"
-    },
-    {
-      "basename": "Untitled 6",
-      "path": "Untitled 6.md"
     }
   ],
   "omittedPaths": [],
