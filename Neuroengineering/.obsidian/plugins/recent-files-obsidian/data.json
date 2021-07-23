@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "rectified linear unit activation function",
+      "path": "rectified linear unit activation function.md"
+    },
+    {
       "basename": "sigmoid activation function",
       "path": "sigmoid activation function.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "group",
       "path": "group.md"
-    },
-    {
-      "basename": "general linear group",
-      "path": "general linear group.md"
     }
   ],
   "omittedPaths": [],
