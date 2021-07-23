@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "alphastar",
+      "path": "alphastar.md"
+    },
+    {
+      "basename": "long short-term memory",
+      "path": "long short-term memory.md"
+    },
+    {
       "basename": "demis hassabis",
       "path": "demis hassabis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "example",
       "path": "example.md"
-    },
-    {
-      "basename": "feature",
-      "path": "feature.md"
-    },
-    {
-      "basename": "label",
-      "path": "label.md"
     }
   ],
   "omittedPaths": [],
