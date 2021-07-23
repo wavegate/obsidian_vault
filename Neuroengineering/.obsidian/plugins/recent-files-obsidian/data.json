@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "voltage",
+      "path": "voltage.md"
+    },
+    {
+      "basename": "coulomb",
+      "path": "coulomb.md"
+    },
+    {
+      "basename": "joule",
+      "path": "joule.md"
+    },
+    {
+      "basename": "Untitled 15",
+      "path": "Untitled 15.md"
+    },
+    {
       "basename": "basic circuit elements",
       "path": "basic circuit elements.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "generalization",
       "path": "generalization.md"
-    },
-    {
-      "basename": "batch",
-      "path": "batch.md"
-    },
-    {
-      "basename": "basic and free variables",
-      "path": "basic and free variables.md"
-    },
-    {
-      "basename": "biological anthropology of mental health",
-      "path": "biological anthropology of mental health.md"
-    },
-    {
-      "basename": "stochastic gradient descent (SGD)",
-      "path": "stochastic gradient descent (SGD).md"
     }
   ],
   "omittedPaths": [],

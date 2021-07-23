@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "basic circuit elements.md",
+            "file": "voltage.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "basic circuit elements.md",
+                "file": "voltage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basic circuit elements.md",
+                "file": "voltage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "Untitled 16.md",
     "Untitled 15.md",
     "learning path.md",
     "angstrom error.md",
@@ -153,7 +154,6 @@
     "Untitled 12.md",
     "Untitled 10.md",
     "innovation.md",
-    "Untitled 11.md",
-    "Untitled 9.md"
+    "Untitled 11.md"
   ]
 }
