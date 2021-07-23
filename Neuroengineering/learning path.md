@@ -46,4 +46,11 @@ leadership
 material science
 	tissue engineering
 mathematics
-	
+	calculus
+	linear algebra
+	differential equations
+mechanical engineering
+	finite elements
+	fluid mechanics
+neuroscience
+	computational/quan
