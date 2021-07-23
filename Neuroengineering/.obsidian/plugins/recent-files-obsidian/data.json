@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "language understanding",
+      "path": "language understanding.md"
+    },
+    {
+      "basename": "Untitled 14",
+      "path": "Untitled 14.md"
+    },
+    {
+      "basename": "Untitled 13",
+      "path": "Untitled 13.md"
+    },
+    {
+      "basename": "Untitled 12",
+      "path": "Untitled 12.md"
+    },
+    {
+      "basename": "Untitled 10",
+      "path": "Untitled 10.md"
+    },
+    {
       "basename": "innovation",
       "path": "innovation.md"
+    },
+    {
+      "basename": "Untitled 11",
+      "path": "Untitled 11.md"
     },
     {
       "basename": "Untitled 9",
@@ -175,30 +199,6 @@
     {
       "basename": "Real-time decoding of question-and-answer speech dialogue using human cortical activity",
       "path": "Real-time decoding of question-and-answer speech dialogue using human cortical activity.md"
-    },
-    {
-      "basename": "mathematics for machine learning",
-      "path": "mathematics for machine learning.md"
-    },
-    {
-      "basename": "training",
-      "path": "training.md"
-    },
-    {
-      "basename": "linear regression",
-      "path": "linear regression.md"
-    },
-    {
-      "basename": "linear",
-      "path": "linear.md"
-    },
-    {
-      "basename": "classification model",
-      "path": "classification model.md"
-    },
-    {
-      "basename": "regression model",
-      "path": "regression model.md"
     }
   ],
   "omittedPaths": [],

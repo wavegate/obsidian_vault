@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "innovation.md",
+            "file": "language understanding.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "innovation.md",
+                "file": "language understanding.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "innovation.md",
+                "file": "language understanding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +145,15 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "Untitled 15.md",
+    "Untitled 14.md",
+    "Untitled 13.md",
+    "Untitled 12.md",
     "Untitled 10.md",
+    "innovation.md",
+    "Untitled 11.md",
     "Untitled 9.md",
     "photonics.md",
-    "rectified linear unit activation function.md",
-    "real numbers.md",
-    "Untitled 8.md",
-    "regularization.md",
-    "structural risk minimization.md",
-    "decellularization.md",
-    "Untitled 7.md"
+    "rectified linear unit activation function.md"
   ]
 }
