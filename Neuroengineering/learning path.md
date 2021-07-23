@@ -53,4 +53,13 @@ mechanical engineering
 	finite elements
 	fluid mechanics
 neuroscience
-	computational/quan
+	computational
+	quantitative
+	cellular
+	molecluar
+	cognitive
+	systems
+physics
+robotics
+	conputer vision
+	sensors/perception
