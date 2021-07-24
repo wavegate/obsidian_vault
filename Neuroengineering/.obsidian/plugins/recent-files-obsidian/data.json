@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "residual current device RCD",
+      "path": "residual current device RCD.md"
+    },
+    {
+      "basename": "ground fault circuit interrupter GFCI",
+      "path": "ground fault circuit interrupter GFCI.md"
+    },
+    {
       "basename": "direct current",
       "path": "direct current.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "FRESH 3D bioprinting vasculature",
       "path": "FRESH 3D bioprinting vasculature.md"
-    },
-    {
-      "basename": "3D Heals",
-      "path": "3D Heals.md"
-    },
-    {
-      "basename": "feature crosses",
-      "path": "feature crosses.md"
     }
   ],
   "omittedPaths": [],
