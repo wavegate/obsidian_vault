@@ -31,4 +31,5 @@ supported by two types of glial cells: satellite glial cells (SGCs) and Schwann 
 
 ![[Pasted image 20210725231028.png]]
 
+- cell bodies are completely wrapped by sheaths that may have one or sveeral layers of SGCs
 - 
