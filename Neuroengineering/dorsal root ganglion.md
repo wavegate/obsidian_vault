@@ -22,4 +22,5 @@ peripheral DRG branch has axonal hallmarks
 - a lot of heterogeneity
 - originate from neural crest (in contrast t oneural tube like CNS)
 - migrate ventrally to the DRG between E8.5 and E10 in the mouse
+- specified from cell progeny of neural crest cells in two overlapping successive waves controlled by neurogenin 1 and 2
 - 
