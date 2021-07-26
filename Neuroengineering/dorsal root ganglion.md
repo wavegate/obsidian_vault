@@ -18,3 +18,5 @@ peripheral DRG branch has axonal hallmarks
 - positive for the somatodendritic marker microtublue-associated protein 2 (MAP2) raising the hypothesis that at the molecular level it has some dendritic-like features
 
 ![[Pasted image 20210725225713.png]]
+
+- a lot of he
