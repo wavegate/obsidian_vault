@@ -35,3 +35,7 @@ supported by two types of glial cells: satellite glial cells (SGCs) and Schwann 
 
 ![[Pasted image 20210725231226.png]]
 
+- stem axon can be very long
+- proximal region of stem axon is always unmyelinated 
+- distal part of stem axon is ensheathed by Schwann cells and can be myelinated
+- 
