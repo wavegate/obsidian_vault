@@ -20,4 +20,6 @@ peripheral DRG branch has axonal hallmarks
 ![[Pasted image 20210725225713.png]]
 
 - a lot of heterogeneity
+- originate from neural crest (in contrast t oneural tube like CNS)
+- migrate ventrally to the DRG between E8.5 and E10 in the mouse
 - 
