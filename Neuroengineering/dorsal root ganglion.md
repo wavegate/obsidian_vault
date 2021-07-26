@@ -27,4 +27,8 @@ peripheral DRG branch has axonal hallmarks
 supported by two types of glial cells: satellite glial cells (SGCs) and Schwann cells
 - SGCs interact with the cell bodies and initial part of the stem axon
 - Schwann cells envelop distal part of stem axon adn both peripheral and central axons
+
+
+![[Pasted image 20210725231028.png]]
+
 - 
