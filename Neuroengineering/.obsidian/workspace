@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "lattice-light microscopy.md",
+            "file": "dorsal root ganglion.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "lattice-light microscopy.md",
+                "file": "dorsal root ganglion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lattice-light microscopy.md",
+                "file": "dorsal root ganglion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "dorsal root ganglion.md",
     "Untitled 17.md",
     "Untitled 16.md",
     "coulomb.md",
@@ -153,7 +154,6 @@
     "angstrom error.md",
     "Untitled 14.md",
     "Untitled 13.md",
-    "Untitled 12.md",
-    "Untitled 10.md"
+    "Untitled 12.md"
   ]
 }

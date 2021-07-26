@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "dorsal root ganglion",
+      "path": "dorsal root ganglion.md"
+    },
+    {
+      "basename": "Untitled 17",
+      "path": "Untitled 17.md"
+    },
+    {
       "basename": "lattice-light microscopy",
       "path": "lattice-light microscopy.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "freeform reversible embedding of suspended hydrogensl",
       "path": "freeform reversible embedding of suspended hydrogensl.md"
-    },
-    {
-      "basename": "soft materials",
-      "path": "soft materials.md"
-    },
-    {
-      "basename": "decellularization",
-      "path": "decellularization.md"
     }
   ],
   "omittedPaths": [],
