@@ -19,4 +19,5 @@ peripheral DRG branch has axonal hallmarks
 
 ![[Pasted image 20210725225713.png]]
 
-- a lot of he
+- a lot of heterogeneity
+- 
