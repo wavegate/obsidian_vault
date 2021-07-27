@@ -59,11 +59,11 @@ Grass SD9 Square Pulse Stimulator
 
 # What is the structure of the DRG organ?
 # What happens at the cell membrane?
-- Effects of an electric field on neuronal tissue are cauesd by an establishment of a transmembrane potential
+- Effects of an electric field on neuronal tissue are caused by an establishment of a transmembrane potential
 - When a neuron is positioned inside an electric field, the electric field will induce a change in the resting transmembrane potential by superimposing an electrically-induced transmembrane potential (TIP)
 - Under extreme conditions, a large induced potential can generate a configuration change in the membrane, forming pores and causing electroporation
-- Neurons are activated by electrolyte activity between the extracellular fluid and intracellular fluid
-- Electrolytes enter or leave the cell membrane through ion channels
+- the properties of the externally-applied electric field play significant roles in membrane polarization; these include direction, intensity, frequency,and waveform of the field.
+-
 # How is the calcium signalled?
 
 GCaMP6s signaling
