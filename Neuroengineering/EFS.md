@@ -7,6 +7,8 @@ Grass SD9 Square Pulse Stimulator
 - Generates pulses from 20 microseconds to 200 milliseconds in duration, with interpulse frequencies from 0.2 Hz to 200 Hz
 - Output voltage could be defined from 100 mV to 100 V
 - No software control
+- 100V Monophasic, no biphasic
+- 
 
 ## What is electrical isolation?
 ## What is a square wave?
