@@ -59,6 +59,9 @@ Grass SD9 Square Pulse Stimulator
 
 # What is the structure of the DRG organ?
 # What happens at the cell membrane?
+- Effects of an electric field on neuronal tissue are cauesd by an establishment of a transmembrane potential
+- When a neuron is positioned inside an electric field, the electric field will induce a change in the resting transmembrane potential by superimposing an electrically-induced transmembrane potential (TIP)
+- Under extreme conditi
 - Neurons are activated by electrolyte activity between the extracellular fluid and intracellular fluid
 - Electrolytes enter or leave the cell membrane through ion channels
 # How is the calcium signalled?
