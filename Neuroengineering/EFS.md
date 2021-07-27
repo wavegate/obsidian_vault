@@ -16,7 +16,8 @@ Grass SD9 Square Pulse Stimulator
 ## What is a monophasic?
 # What is an oscilloscope?
 - Measures voltage between scope ground and tip of probe
-- Travels through coaxial cable 
+- Travels through coaxial cable to a BNC connector
+- Tip of probe can be a hook that grabs to wires or can remove it to probe different parts of circuit
 # What does electrical stimulation do to the bath?
 # What is the structure of the DRG organ?
 # What happens at the cell membrane?
