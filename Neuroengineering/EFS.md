@@ -34,8 +34,8 @@ Grass SD9 Square Pulse Stimulator
 - Can measure conductance in units of siemen (S) with conductivity probe
 # What is the structure of the DRG organ?
 # What happens at the cell membrane?
-
-Ion channels
+- Neurons are activated by electrolyte activity between the extracellular fluid and intracellular fluid
+- Electrolytes enter or leave the cell membrane through ion ch
 # How is the calcium signalled?
 
 GCaMP6s signaling
