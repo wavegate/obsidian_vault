@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dorsal root ganglion.md",
+            "file": "Untitled 18.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dorsal root ganglion.md",
+                "file": "Untitled 18.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dorsal root ganglion.md",
+                "file": "Untitled 18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "Untitled 18.md",
     "dorsal root ganglion.md",
     "Untitled 17.md",
     "Untitled 16.md",
@@ -153,7 +154,6 @@
     "learning path.md",
     "angstrom error.md",
     "Untitled 14.md",
-    "Untitled 13.md",
-    "Untitled 12.md"
+    "Untitled 13.md"
   ]
 }
