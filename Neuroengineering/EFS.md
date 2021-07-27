@@ -121,4 +121,5 @@ supported by two types of glial cells: satellite glial cells (SGCs) and Schwann 
 - Confocal microscopy gets in-focus images and removes out-focus images
 
 Conventional:
-![[Pasted image 20210727150824.png]]
+![[Pasted image 20210727150902.png]]
+
