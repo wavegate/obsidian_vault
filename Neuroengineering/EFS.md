@@ -61,7 +61,7 @@ Grass SD9 Square Pulse Stimulator
 # What happens at the cell membrane?
 - Effects of an electric field on neuronal tissue are cauesd by an establishment of a transmembrane potential
 - When a neuron is positioned inside an electric field, the electric field will induce a change in the resting transmembrane potential by superimposing an electrically-induced transmembrane potential (TIP)
-- Under extreme conditi
+- Under extreme conditions, a large induced potential can generate a configuration change in the membrane, forming pores and causing electroporation
 - Neurons are activated by electrolyte activity between the extracellular fluid and intracellular fluid
 - Electrolytes enter or leave the cell membrane through ion channels
 # How is the calcium signalled?
