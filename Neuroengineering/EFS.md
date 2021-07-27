@@ -102,6 +102,7 @@ supported by two types of glial cells: satellite glial cells (SGCs) and Schwann 
 - 
 # How is the calcium signalled?
 - Ca2+ channels are present throughout the different parts of the neuron (dendrites, soma, synaptic terminals)
+- Ca2+ currents can be separated into transient, long lasting, and neither
 - At physiologic membrane potential, VGCCs are normally closed
 - The concentration of calcium is normally several thousand times higher outside the cell than inside
 - Based on similar structural elemenets, the voltage-gated NaV, CaV, and KV channels are classified as the S4 channel superfamily. In this family, the voltage sensor consists of several positively charged residues in the fourth TM segment.
