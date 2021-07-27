@@ -101,6 +101,7 @@ supported by two types of glial cells: satellite glial cells (SGCs) and Schwann 
 - distal part of stem axon is ensheathed by Schwann cells and can be myelinated
 - 
 # How is the calcium signalled?
+- Ca2+ channels are present throughout the different parts of the neuron (dendrites, soma, synaptic terminals)
 - At physiologic membrane potential, VGCCs are normally closed
 - The concentration of calcium is normally several thousand times higher outside the cell than inside
 - Based on similar structural elemenets, the voltage-gated NaV, CaV, and KV channels are classified as the S4 channel superfamily. In this family, the voltage sensor consists of several positively charged residues in the fourth TM segment.
