@@ -55,14 +55,14 @@ Grass SD9 Square Pulse Stimulator
 - Can measure conductance in units of siemen (S) with conductivity probe
 - We should be able to change the "current" or ion flow rate through the liquid by increasing concentration of the salts
 
-# What is a salt bridge?
-
-# What is the structure of the DRG organ?
+## What is a salt bridge?
 # What happens at the cell membrane?
 - Effects of an electric field on neuronal tissue are caused by an establishment of a transmembrane potential
 - When a neuron is positioned inside an electric field, the electric field will induce a change in the resting transmembrane potential by superimposing an electrically-induced transmembrane potential (TIP)
 - Under extreme conditions, a large induced potential can generate a configuration change in the membrane, forming pores and causing electroporation
 - the properties of the externally-applied electric field play significant roles in membrane polarization; these include direction, intensity, frequency,and waveform of the field.
+
+# What is the structure of the DRG organ?
 -
 # How is the calcium signalled?
 
