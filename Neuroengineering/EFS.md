@@ -1,5 +1,6 @@
 # What is a pulse stimulator?
 Grass SD9 Square Pulse Stimulator
+![[Pasted image 20210727103141.png]]
 - Designed for student teaching
 - Built-in isolation providing higher level of safety
 - Voltage device only, does not generate constant current
