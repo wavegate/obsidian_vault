@@ -103,7 +103,7 @@ supported by two types of glial cells: satellite glial cells (SGCs) and Schwann 
 # How is the calcium signalled?
 - At physiologic membrane potential, VGCCs are normally closed
 - The concentration of calcium is normally several thousand times higher outside the cell than inside
-- Based on similar structural elemenets, the voltage-gated NaV, CaV, and KV channels are classified as the S4 channel superfamily
+- Based on similar structural elemenets, the voltage-gated NaV, CaV, and KV channels are classified as the S4 channel superfamily. In this family, the voltage sensor consists of several positively charged residues in the fourth TM segment.
 - Neurons were stimulated in imaging buffer containing a drug cocktail to inhibit synaptic receptors (10 mM CNQX, 10 mM(R)-CPP, 10 mM gabazine, 1mM (S)-MCPG, Tocris Bioscience). Under these conditions, intracellular calcium increases are presumably caused by the opening of voltage sensitive calcium channels.
 - Neurons have unusually fast calcium dynamics and low peak calcium accumulation
 - GCaMP consist of circularly permuted green fluorescent protein, the calcium-binding protein calmodulatin (CaM) and CaM-interacting M13 peptide
