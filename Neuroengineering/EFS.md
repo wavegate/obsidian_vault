@@ -10,7 +10,7 @@ Grass SD9 Square Pulse Stimulator
 
 ## What is electrical isolation?
 ## What is a square wave?
-## What is a unipolar/bipolar pulse?
+## What is a monophasic?
 # What is an oscilloscope?
 # What does electrical stimulation do to the bath?
 # What is the structure of the DRG organ?
