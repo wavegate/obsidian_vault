@@ -21,6 +21,7 @@ Grass SD9 Square Pulse Stimulator
 - Plots voltage change over time 
 - Can adjust x (time) and y (voltage) scales using knobs
 - Scope ground is connected to earth through power cord which is eventually shorted to the neutral. If I accidentally connected the scope ground to the live wire I short the power lines. Can use adapter to bypass the earth ground.
+- Need electrical circuit basic understanding to continue
 # What does electrical stimulation do to the bath?
 # What is the structure of the DRG organ?
 # What happens at the cell membrane?
