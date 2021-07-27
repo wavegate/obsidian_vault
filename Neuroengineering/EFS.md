@@ -101,7 +101,6 @@ supported by two types of glial cells: satellite glial cells (SGCs) and Schwann 
 - distal part of stem axon is ensheathed by Schwann cells and can be myelinated
 - 
 # How is the calcium signalled?
-
-GCaMP6s signaling
+- Neurons have unusually fast calcium dynamics and low peak 
 # How does the calcium signal travel to the camera?
 Fluorescence microscopy
