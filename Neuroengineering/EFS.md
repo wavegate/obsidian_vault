@@ -37,7 +37,7 @@ Grass SD9 Square Pulse Stimulator
 ![[Pasted image 20210727122622.png]]
 
 - For example, for NaCl in water, the cathode reaction will be 2 H2O + 2e− → 2 OH− + H2, and the anode reaction will be 2 NaCl → 2 Na+ + Cl2 + 2e−
-- This means hydrogen gas will bubble up and chlorine gas will be liberated into solution where it reacts with sodium and hydroxyl ions to produce sodiu
+- This means hydrogen gas will bubble up and chlorine gas will be liberated into solution where it reacts with sodium and hydroxyl ions to produce sodium hypochlorite - household bleach
 - How well the current passes depends on how much ion is dissolved
 - Can measure conductance in units of siemen (S) with conductivity probe
 # What is the structure of the DRG organ?
