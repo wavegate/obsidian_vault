@@ -23,6 +23,7 @@ Grass SD9 Square Pulse Stimulator
 - Scope ground is connected to earth through power cord which is eventually shorted to the neutral. If I accidentally connected the scope ground to the live wire I short the power lines. Can use adapter to bypass the earth ground.
 - Need electrical circuit basic understanding to continue
 # What does electrical stimulation do to the bath?
+- Bath is artificial CSF: 124 mM NaCl, 5 mM KCl, 20 mM HEPES, 10 mM D-glucose, 1.3 mM MgCl2, 1.5 mM CaCl2, 26 mM NaHCO3, 1.25 mM NaH2PO4
 # What is the structure of the DRG organ?
 # What happens at the cell membrane?
 
