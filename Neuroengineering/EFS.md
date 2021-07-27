@@ -27,6 +27,8 @@ Grass SD9 Square Pulse Stimulator
 - Electrically conducting solution when dissolved in a polar solvent (water)
 - Cations and anions dissolve uniformly through the solvent (solvation)
 - If an electrical potential is applied to the solution, the cations are drawn to the electrode with abundance of electrons, and the anions are drawn to the electrode with a deficit of electrons
+- When electrodes are placed in an electrolyte and a voltage is applied, the electrolyte will conduct electricity
+- A chemical rea
 - This movement of anions and cations amounts to a current
 - 
 - Ions dissociate
@@ -35,7 +37,7 @@ Grass SD9 Square Pulse Stimulator
 # What is the structure of the DRG organ?
 # What happens at the cell membrane?
 - Neurons are activated by electrolyte activity between the extracellular fluid and intracellular fluid
-- Electrolytes enter or leave the cell membrane through ion ch
+- Electrolytes enter or leave the cell membrane through ion channels
 # How is the calcium signalled?
 
 GCaMP6s signaling
