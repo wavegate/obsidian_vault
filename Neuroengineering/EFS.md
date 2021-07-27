@@ -24,6 +24,9 @@ Grass SD9 Square Pulse Stimulator
 - Need electrical circuit basic understanding to continue
 # What does electrical stimulation do to the bath?
 - Bath is artificial CSF: 124 mM NaCl, 5 mM KCl, 20 mM HEPES, 10 mM D-glucose, 1.3 mM MgCl2, 1.5 mM CaCl2, 26 mM NaHCO3, 1.25 mM NaH2PO4
+- Electrically conducting solution when dissolved in a polar solvent (water)
+- Cations and anions dissolve uniformly through the solvent
+- If an electrical potential is applied to the solution, the cations are drawn to the electrode with ab
 - Ions dissociate
 - How well the current passes depends on how much ion is dissolved
 - Can measure conductance in units of siemen (S) with conductivity probe
