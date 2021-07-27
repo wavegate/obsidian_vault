@@ -33,6 +33,8 @@ Grass SD9 Square Pulse Stimulator
 - As a result, a negative charge cloud develops in the electrolyte around the cathode, and a positive charge develops around the anode
 - The ions in the electrolyte neutralize these charges, enabling the electrons to keep flowing and the reactions to continue
 - This movement of anions and cations amounts to a current
+- When a stimulus is applied to a physiological medium, a redistribution of charge first occurs, and then, if the stimulus is of long-enough duration, the electrodes will begin to chemically react with the medium to sustain current.
+- A system delivering short stimulation pulses can thus be designed to allow only a tolerable amount of chemical reactions to occur by selecting the electrode properties and pulse characteristics that favor reversible redistributions of charge in the double layer at the electrode–electrolyte interface and reversible chemical reactions32
 
 ![[Pasted image 20210727122622.png]]
 
