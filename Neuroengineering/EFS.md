@@ -28,10 +28,14 @@ Grass SD9 Square Pulse Stimulator
 - Cations and anions dissolve uniformly through the solvent (solvation)
 - If an electrical potential is applied to the solution, the cations are drawn to the electrode with abundance of electrons, and the anions are drawn to the electrode with a deficit of electrons
 - When electrodes are placed in an electrolyte and a voltage is applied, the electrolyte will conduct electricity
-- A chemical rea
+- A chemical reaction occurs at the cathode, providing electrons to the electrolyte
+- Another reaction occurs at the anode, consuming electrons from the electrolyte
+- As a result, a negative charge cloud develops in the electrolyte around the cathode, and a positive charge develops around the anode
+- The ions in the electrolyte neutralize these charges, enabling the electrons to keep flowing and the reactions to continue
 - This movement of anions and cations amounts to a current
-- 
-- Ions dissociate
+
+![[Pasted image 20210727122622.png]]
+
 - How well the current passes depends on how much ion is dissolved
 - Can measure conductance in units of siemen (S) with conductivity probe
 # What is the structure of the DRG organ?
