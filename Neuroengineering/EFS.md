@@ -120,7 +120,7 @@ supported by two types of glial cells: satellite glial cells (SGCs) and Schwann 
 - The illumination light is separated from the much weaker emitted fluorescence through the use of a spectral emission filter
 - Confocal microscopy gets in-focus images and removes out-focus images
 - Uses a pinhole which is at the same focal plane as the sample
-
+- Images by raster scanning... moving one spot at a time
 Conventional:
 ![[Pasted image 20210727150902.png]]
 
