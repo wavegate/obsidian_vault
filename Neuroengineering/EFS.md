@@ -39,6 +39,9 @@ Grass SD9 Square Pulse Stimulator
 - In addition, experimentally, we have also identified a safe stimulation range using carbon rod electrodes with neonatal rat cardiomyocytes, and at this point, we do not recommend stimulation at levels of 8 V/cm and above, although we may refine this range in the future28.
 - A system delivering DC stimuli (such as that shown in Box 1 using Ag/AgCl electrodes which efficiently corrode, providing a steady current) is different than one delivering short pulses, as it necessarily generates chemical byproducts and therefore must be designed to shield the cells from chemical reactions by the use of salt bridges
 - As the incorporation of salt bridges necessarily adds another level of complexity, these systems are recommended only if the signal of interest generates intolerable amounts of chemical reactions.
+- The injection of charge from the electrode into electrolyte (culture medium in our case) can be accomplished by either attaching a current source between the two electrodes (that defines the current to be passed) or applying a voltage source.
+- Although the second method is simpler to implement, it enables only the control of the net potential between the two electrodes, and not of the current, which, rather than voltage, dictates the amount of electrical field applied to the cells
+- Nonetheless, for pulsatile electrical field stimuli delivered by carbon electrodes, we have found that a voltage-controlled source is sufficient for accomplishing stimulation (for the DC stimulation applied in Box 1, however, a currentcontrolled device is utilized).
 
 ![[Pasted image 20210727122622.png]]
 
