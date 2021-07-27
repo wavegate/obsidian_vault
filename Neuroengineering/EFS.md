@@ -37,6 +37,8 @@ Grass SD9 Square Pulse Stimulator
 - A system delivering short stimulation pulses can thus be designed to allow only a tolerable amount of chemical reactions to occur by selecting the electrode properties and pulse characteristics that favor reversible redistributions of charge in the double layer at the electrode–electrolyte interface and reversible chemical reactions32
 - We have found that a square-wave pulse with relatively short-duration (2 ms, or 0.2% of the total cycle) and a relatively long time between pulses, with the carbon electrodes used throughout this protocol, provides time for the vast majority (B85%) of the processes occurring between electrodes and the electrolyte to reverse28.
 - In addition, experimentally, we have also identified a safe stimulation range using carbon rod electrodes with neonatal rat cardiomyocytes, and at this point, we do not recommend stimulation at levels of 8 V/cm and above, although we may refine this range in the future28.
+- A system delivering DC stimuli (such as that shown in Box 1 using Ag/AgCl electrodes which efficiently corrode, providing a steady current) is different than one delivering short pulses, as it necessarily generates chemical byproducts and therefore must be designed to shield the cells from chemical reactions by the use of salt bridges
+- As the incorporation of salt bridges necessarily adds another level of complexity, these systems are recommended only if the signal of interest generates intolerable amounts of chemical reactions.
 
 ![[Pasted image 20210727122622.png]]
 
