@@ -119,7 +119,10 @@ supported by two types of glial cells: satellite glial cells (SGCs) and Schwann 
 - The specimen is illuminated with light of a specific wavelength which is absorbed by fluorophores, causing them to emit light of longer wavelengths
 - The illumination light is separated from the much weaker emitted fluorescence through the use of a spectral emission filter
 - Confocal microscopy gets in-focus images and removes out-focus images
+- Uses a pinhole which is at the same focal plane as the sample
 
 Conventional:
 ![[Pasted image 20210727150902.png]]
 
+Confocal:
+![[Pasted image 20210727151000.png]]
