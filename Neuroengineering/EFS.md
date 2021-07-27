@@ -8,7 +8,8 @@ Grass SD9 Square Pulse Stimulator
 - Output voltage could be defined from 100 mV to 100 V
 - No software control
 - 100V Monophasic, no biphasic
-- 
+- Requires optional SIUs for current control
+- No control over train duration/frequency
 
 ## What is electrical isolation?
 ## What is a square wave?
