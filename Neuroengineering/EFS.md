@@ -1,5 +1,5 @@
 # What is a pulse stimulator?
-Grass SD( Square Pulse Stimulator)
+Grass SD9 Square Pulse Stimulator
 # What does electrical stimulation do to the bath?
 # What is the structure of the DRG organ?
 # What happens at the cell membrane?
