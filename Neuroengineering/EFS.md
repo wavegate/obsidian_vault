@@ -43,6 +43,10 @@ Grass SD9 Square Pulse Stimulator
 - Although the second method is simpler to implement, it enables only the control of the net potential between the two electrodes, and not of the current, which, rather than voltage, dictates the amount of electrical field applied to the cells
 - Nonetheless, for pulsatile electrical field stimuli delivered by carbon electrodes, we have found that a voltage-controlled source is sufficient for accomplishing stimulation (for the DC stimulation applied in Box 1, however, a current controlled device is utilized).
 
+![[Pasted image 20210727134649.png]]
+
+- The well-defined chamber geometry permits application of a prescribed electrical field strength or current density. Two salt bridges prevent electrolysis products from contaminating the chamber by providing a pathway for current from each media reservoir to an Ag–AgCl electrode (one positive: anode, and one negative: cathode). Salt bridges are prepared from flexible plastic tubing filled with 2% agarose in PBS. This chamber is ideally suited for DC stimulation because of its well-defined geometry. However, to attain voltages in the physiological range, high voltage levels are needed to overcome high electrical resistance of system. In addition, because of corrosion of the silver/silver chloride electrodes, the electrical resistance of the system is constantly changing, necessitating a current-controlled system. We recommend the Keithley SourceMeter 2410.
+
 ![[Pasted image 20210727122622.png]]
 
 - For example, for NaCl in water, the cathode reaction will be 2 H2O + 2e− → 2 OH− + H2, and the anode reaction will be 2 NaCl → 2 Na+ + Cl2 + 2e−
