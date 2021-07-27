@@ -103,6 +103,6 @@ supported by two types of glial cells: satellite glial cells (SGCs) and Schwann 
 # How is the calcium signalled?
 - Neurons have unusually fast calcium dynamics and low peak calcium accumulation
 - GCaMP consist of circularly permuted green fluorescent protein, the calcium-binding protein calmodulatin (CaM) and CaM-interacting M13 peptide
-- Calcium-dependent con
+- Calcium-dependent conformational changes in CaM-M13 cause increased brightness with calcium binding
 # How does the calcium signal travel to the camera?
 Fluorescence microscopy
