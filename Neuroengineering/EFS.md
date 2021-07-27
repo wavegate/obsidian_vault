@@ -1,5 +1,8 @@
 # What is a pulse stimulator?
-Grass SD9 Square Pulse Stimulator	
+Grass SD9 Square Pulse Stimulator
+- Designed for student teaching
+- Built-in isolation providing higher level of safety
+- Voltage device only, does not generate constant current
 # What does electrical stimulation do to the bath?
 # What is the structure of the DRG organ?
 # What happens at the cell membrane?
