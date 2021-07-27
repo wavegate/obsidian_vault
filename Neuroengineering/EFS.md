@@ -18,7 +18,8 @@ Grass SD9 Square Pulse Stimulator
 - Measures voltage between scope ground and tip of probe
 - Travels through coaxial cable to a BNC connector
 - Tip of probe can be a hook that grabs to wires or can remove it to probe different parts of circuit
-- Plots voltage change over time to e
+- Plots voltage change over time 
+- Can adjust x (time) and y (voltage) scales using knobs
 # What does electrical stimulation do to the bath?
 # What is the structure of the DRG organ?
 # What happens at the cell membrane?
