@@ -24,6 +24,7 @@ Grass SD9 Square Pulse Stimulator
 - Need electrical circuit basic understanding to continue
 # What does electrical stimulation do to the bath?
 - Bath is artificial CSF: 124 mM NaCl, 5 mM KCl, 20 mM HEPES, 10 mM D-glucose, 1.3 mM MgCl2, 1.5 mM CaCl2, 26 mM NaHCO3, 1.25 mM NaH2PO4
+- Ions dissociate
 # What is the structure of the DRG organ?
 # What happens at the cell membrane?
 
