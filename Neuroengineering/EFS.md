@@ -20,6 +20,7 @@ Grass SD9 Square Pulse Stimulator
 - Tip of probe can be a hook that grabs to wires or can remove it to probe different parts of circuit
 - Plots voltage change over time 
 - Can adjust x (time) and y (voltage) scales using knobs
+- Scope ground is connected to earth through power cord
 # What does electrical stimulation do to the bath?
 # What is the structure of the DRG organ?
 # What happens at the cell membrane?
