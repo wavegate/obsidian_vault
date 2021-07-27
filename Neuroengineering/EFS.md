@@ -41,6 +41,9 @@ Grass SD9 Square Pulse Stimulator
 - How well the current passes depends on how much ion is dissolved
 - Can measure conductance in units of siemen (S) with conductivity probe
 - We should be able to change the "current" or ion flow rate through the liquid by increasing concentration of the salts
+
+# What is a salt bridge?
+
 # What is the structure of the DRG organ?
 # What happens at the cell membrane?
 - Neurons are activated by electrolyte activity between the extracellular fluid and intracellular fluid
