@@ -118,3 +118,4 @@ supported by two types of glial cells: satellite glial cells (SGCs) and Schwann 
 # How does the calcium signal travel to the camera?
 - The specimen is illuminated with light of a specific wavelength which is absorbed by fluorophores, causing them to emit light of longer wavelengths
 - The illumination light is separated from the much weaker emitted fluorescence through the use of a spectral emission filter
+- Confocal microscopy gets
