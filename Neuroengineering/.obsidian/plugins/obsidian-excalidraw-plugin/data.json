@@ -1,1 +1,23 @@
-{"folder":"Excalidraw","templateFilePath":"Excalidraw/Template.excalidraw","drawingFilenamePrefix":"Drawing ","drawingFilenameDateTime":"YYYY-MM-DD HH.mm.ss","width":"400","linkPrefix":"🔸","showLinkBrackets":true,"allowCtrlClick":true,"exportWithTheme":true,"exportWithBackground":true,"keepInSync":true,"autoexportSVG":true,"autoexportPNG":false,"autoexportExcalidraw":false,"syncExcalidraw":false,"experimentalFileType":false,"experimentalFileTag":"✏️","compatibilityMode":false,"loadCount":1,"drawingOpenCount":8,"library":"{\"type\":\"excalidrawlib\",\"version\":1,\"library\":[]}"}
+{
+  "folder": "Excalidraw",
+  "templateFilePath": "Excalidraw/Template.excalidraw",
+  "drawingFilenamePrefix": "Drawing ",
+  "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
+  "width": "400",
+  "linkPrefix": "🔸",
+  "showLinkBrackets": true,
+  "allowCtrlClick": true,
+  "exportWithTheme": true,
+  "exportWithBackground": true,
+  "keepInSync": true,
+  "autoexportSVG": true,
+  "autoexportPNG": false,
+  "autoexportExcalidraw": false,
+  "syncExcalidraw": false,
+  "experimentalFileType": false,
+  "experimentalFileTag": "✏️",
+  "compatibilityMode": false,
+  "loadCount": 2,
+  "drawingOpenCount": 8,
+  "library": "{\"type\":\"excalidrawlib\",\"version\":1,\"library\":[]}"
+}
