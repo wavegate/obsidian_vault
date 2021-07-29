@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Models for DRG Testing",
+      "path": "Models for DRG Testing.md"
+    },
+    {
+      "basename": "DRG explant",
+      "path": "DRG explant.md"
+    },
+    {
       "basename": "EFS",
       "path": "EFS.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "regularization",
       "path": "regularization.md"
-    },
-    {
-      "basename": "structural risk minimization",
-      "path": "structural risk minimization.md"
-    },
-    {
-      "basename": "L2 regularization",
-      "path": "L2 regularization.md"
     }
   ],
   "omittedPaths": [],
