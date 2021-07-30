@@ -5,6 +5,10 @@
       "path": "diode.md"
     },
     {
+      "basename": "Pasted image 20210730123736",
+      "path": "Pasted image 20210730123736.png"
+    },
+    {
       "basename": "semiconductor",
       "path": "semiconductor.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "prediction bias",
       "path": "prediction bias.md"
-    },
-    {
-      "basename": "AUC",
-      "path": "AUC.md"
     }
   ],
   "omittedPaths": [],
