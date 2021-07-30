@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "battery",
+      "path": "battery.md"
+    },
+    {
       "basename": "full bridge rectifier",
       "path": "full bridge rectifier.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "backpropagation",
       "path": "backpropagation.md"
-    },
-    {
-      "basename": "sigmoid activation function",
-      "path": "sigmoid activation function.md"
     }
   ],
   "omittedPaths": [],
