@@ -2,4 +2,4 @@
 
 uses diodes to convert alternating current to only one direction
 
-then use
+then uses capacitor to smooth the current
