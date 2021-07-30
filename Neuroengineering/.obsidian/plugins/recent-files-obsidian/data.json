@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "semiconductor",
-      "path": "semiconductor.md"
-    },
-    {
       "basename": "diode",
       "path": "diode.md"
+    },
+    {
+      "basename": "semiconductor",
+      "path": "semiconductor.md"
     },
     {
       "basename": "Models for DRG Testing",
