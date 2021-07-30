@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "full bridge rectifier",
+      "path": "full bridge rectifier.md"
+    },
+    {
       "basename": "diode",
       "path": "diode.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "sigmoid activation function",
       "path": "sigmoid activation function.md"
-    },
-    {
-      "basename": "prediction bias",
-      "path": "prediction bias.md"
     }
   ],
   "omittedPaths": [],
