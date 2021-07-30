@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "semiconductor",
+      "path": "semiconductor.md"
+    },
+    {
       "basename": "diode",
       "path": "diode.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AUC",
       "path": "AUC.md"
-    },
-    {
-      "basename": "ROC curve",
-      "path": "ROC curve.md"
     }
   ],
   "omittedPaths": [],
