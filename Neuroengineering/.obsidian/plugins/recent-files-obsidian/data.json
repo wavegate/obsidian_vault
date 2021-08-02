@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DRG explant",
+      "path": "DRG explant.md"
+    },
+    {
       "basename": "Models for DRG Testing",
       "path": "Models for DRG Testing.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "semiconductor",
       "path": "semiconductor.md"
-    },
-    {
-      "basename": "DRG explant",
-      "path": "DRG explant.md"
     },
     {
       "basename": "EFS",
