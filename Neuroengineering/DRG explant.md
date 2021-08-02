@@ -1,3 +1,7 @@
+https://www.jove.com/t/56757/adult-mouse-drg-explant-dissociated-cell-models-to-investigate
+
+
+
 Petri dish
 Hank's Balanced Salt Solution (HBSS) (Gibco, Cat# 14025–092)
 MatrigelTM Basement Membrane Matrix, BD, Cat# 354230, USA
