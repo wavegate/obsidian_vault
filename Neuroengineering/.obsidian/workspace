@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "battery.md",
+            "file": "Models for DRG Testing.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "explant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "battery.md",
+                "file": "Models for DRG Testing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "battery.md",
+                "file": "Models for DRG Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,14 +146,14 @@
   },
   "active": "0f76718a1dc73a79",
   "lastOpenFiles": [
+    "Models for DRG Testing.md",
+    "dorsal root ganglion.md",
     "battery.md",
     "Untitled 20.md",
     "diode.md",
     "Pasted image 20210730123736.png",
-    "Models for DRG Testing.md",
     "DRG explant.md",
     "EFS.md",
-    "dorsal root ganglion.md",
     "Untitled 19.md",
     "Untitled 18.md"
   ]
