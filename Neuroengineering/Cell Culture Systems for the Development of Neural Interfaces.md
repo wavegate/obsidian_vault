@@ -29,3 +29,4 @@
 # Cell Biology-Based Models
 - The simplest form of a cell culture model for neural interface is pure neuronal model
 - These provide neuron-to-neuron interactions, allows for assessment of cell attachment for neural implants and micro-devices, as well as neurite outgrowth and synapse formation
+- Another type of pure neuronal model can be made with ECM components
