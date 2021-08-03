@@ -21,4 +21,4 @@
 - These preparations are particularly useful when investigating pharmaceutical interactions due to the known afferent fibre composition
 - Additionally, the morphology of the explant enables control of the sprouted neurites, leading to easy compartmentalization and use with microfluidic systems
 - https://www.sciencedirect.com/science/article/pii/S0142961218303478?via%3Dihub
-- 
+- Limitation is that neurites are typically grown in 2D
