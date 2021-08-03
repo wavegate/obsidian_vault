@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Cell Culture Systems for the Development of Neural Interfaces",
+      "path": "Cell Culture Systems for the Development of Neural Interfaces.md"
+    },
+    {
       "basename": "multiple electrode arrays (MEAs)",
       "path": "multiple electrode arrays (MEAs).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 8",
       "path": "Untitled 8.md"
-    },
-    {
-      "basename": "least squares regression",
-      "path": "least squares regression.md"
     }
   ],
   "omittedPaths": [],
