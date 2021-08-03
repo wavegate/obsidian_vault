@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 20",
+      "path": "Untitled 20.md"
+    },
+    {
       "basename": "DRG explant",
       "path": "DRG explant.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "least squares regression",
       "path": "least squares regression.md"
-    },
-    {
-      "basename": "backpropagation",
-      "path": "backpropagation.md"
     }
   ],
   "omittedPaths": [],
