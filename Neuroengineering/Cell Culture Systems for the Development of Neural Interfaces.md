@@ -25,3 +25,7 @@
 
 # Use of Ex Vivo Systems in Neural Interface Development
 - Many electrical neural interfaces developed in the form of multiple electrode arrays (MEAs) for the integrated culturing and recording of explanted brain slice cultures
+
+# Cell Biology-Based Models
+- The simplest form of a cell culture model for neural interface is pure neuronal model
+- These provide neuron-to-neuron interactions, allows for assessment of cell attachment for neural implants and micro-devices, as 
