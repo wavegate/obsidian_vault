@@ -11,4 +11,7 @@
 - Explants provide the most realistic replication of the 3D cellular environment in vitro, but can suffer from lack of longevity, degradation of 3D microenvironment during culture period, and challenging preparation steps
 - The use of these preparations is strongly recommended when cellular connectivity and replication of the in vivo environment are important parameters
 
-# Explant Culture Type
+# Explant Culture Types
+- For slice cultures of the brain, hundreds of micrometre-thick slices are cut using a vibratome or tissue slicer and secured to a semi-porous membrane culture substrate
+- These cultures are kept in stable in vitro conditions fro weeks to months
+- Normal synaptic transmission and excitation is maintained
