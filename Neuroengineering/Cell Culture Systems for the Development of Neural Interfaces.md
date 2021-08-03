@@ -18,3 +18,5 @@
 - Ex vivo culturing of the DRG can be done using tissue from embryonic, postnatal and adult animals
 - Typically, embryonic DRG are used for ex vivo preparations owing to the high content of neurons that can be isolated
 - https://www.sciencedirect.com/science/article/abs/pii/S0304394018308012?via%3Dihub
+- These preparations are particularly useful when investigating pharmaceutical interactions due to the known afferent fibre composition
+- Additionally, the morphology of the explant enables control of the sprouted neurites, leading to easy 
