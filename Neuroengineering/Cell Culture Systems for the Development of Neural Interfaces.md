@@ -10,3 +10,5 @@
 # Explant and Ex Vivo Approaches
 - Explants provide the most realistic replication of the 3D cellular environment in vitro, but can suffer from lack of longevity, degradation of 3D microenvironment during culture period, and challenging preparation steps
 - The use of these preparations is strongly recommended when cellular connectivity and replication of the in vivo environment are important parameters
+
+# Explant Culture Type
