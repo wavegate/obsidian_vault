@@ -24,4 +24,4 @@
 - Limitation is that neurites are typically grown in 2D
 
 # Use of Ex Vivo Systems in Neural Interface Development
-- 
+- Many electrical neural interfaces developed in the form of multiple electrode arrays (MEAs) for the integrated culturing and recording of explanted brain slice cultures
