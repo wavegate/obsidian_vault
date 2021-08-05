@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "drg project",
+      "path": "drg project.md"
+    },
+    {
       "basename": "Cell Culture Systems for the Development of Neural Interfaces",
       "path": "Cell Culture Systems for the Development of Neural Interfaces.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "real numbers",
       "path": "real numbers.md"
-    },
-    {
-      "basename": "Untitled 8",
-      "path": "Untitled 8.md"
     }
   ],
   "omittedPaths": [],
